@@ -1,0 +1,1215 @@
+trip_id,customer_id,driver_id,trip_date,pickup_hour,city,pickup_zone,region,vehicle_type,booking_channel,distance_km,duration_min,rate_per_km,fare_amount,discount_amount,payment_method,payment_status,driver_payout,customer_rating,trip_type
+TR200963,CU3196,DR719,2025-10-23,7,Bengaluru,Electronic City,South,Auto,App,24.3,72,11.1,269.73,0.0,Cash,Paid,202.3,5,City Ride
+TR200714,CU3501,DR782,2025-07-20,9,Chennai,Velachery,South,Premium,App,18.5,71,22.66,419.21,0.0,UPI,Paid,335.37,5,City Ride
+TR200568,CU3225,DR790,2025-02-26,15,Jaipur,Vaishali Nagar,North,Premium,Call Center,9.3,28,25.71,239.1,11.96,UPI,Paid,181.71,1,City Ride
+TR200995,CU3002,DR731,2025-07-27,4,Hyderabad,Hitech City,South,Auto,App,21.1,82,11.29,238.22,23.82,UPI,Paid,160.8,4,City Ride
+TR200412,CU3358,DR760,2025-02-08,14,Bengaluru,Electronic City,South,Auto,Call Center,14.6,40,13.36,195.06,0.0,Card,Paid,146.3,5,City Ride
+TR201091,CU3555,DR705,2025-01-07,7,Mumbai,Powai,West,Bike,App,1.7,9,8.6,14.62,0.0,Card,Paid,10.23,2,City Ride
+TR200615,CU3079,DR816,2025-01-25,12,Hyderabad,Banjara Hills,South,Mini,App,6.9,30,15.88,109.57,0.0,UPI,Paid,85.46,5,Airport
+TR200068,CU3483,DR812,2025-01-24,10,Bengaluru,Koramangala,South,Mini,App,12.5,49,14.3,178.75,0.0,Wallet,Pending,139.43,4,City Ride
+TR200351,CU3154,DR752,2025-07-14,6,Chennai,T Nagar,South,Auto,App,10.9,37,14.35,156.41,7.82,Card,Paid,111.44,5,Airport
+TR200445,CU3430,DR755,2025-04-02,16,Delhi  ,Connaught Place,North,Sedan,App,22.8,75,17.11,390.11,19.51,Card,Paid,296.48,4,City Ride
+TR200726,CU3149,DR775,2025-05-26,13,Chennai,Velachery,South,Sedan,App,-3.0,89,16.4,460.84,46.08,UPI,Paid,331.81,5,City Ride
+TR200536,CU3442,DR741,2025-02-22,7,Delhi,Connaught Place,North,Mini,App,14.4,43,14.23,,0.0,Card,Paid,159.83,5,City Ride
+TR200669,CU3227,DR768,2025-01-27,7,Bengaluru,Electronic City,South,Sedan,App,17.0,48,20.76,352.92,35.29,UPI,Paid,254.1,5,City Ride
+TR200439,CU3256,DR717,2025-07-13,18,Chennai,Velachery,South,Sedan,App,7.7,26,16.8,129.36,6.47,Card,Paid,98.31,5,City Ride
+TR201141,CU3323,DR789,2025-05-05,0,Mumbai,Andheri,West,Auto,App,3.3,11,13.57,44.78,0.0,Card,Paid,33.59,5,City Ride
+TR200991,CU3345,DR778,2025-01-30,20,Bengaluru,Whitefield,South,Bike,App,2.2,9,7.08,15.58,0.0,Cash,Paid,10.91,2,Airport
+TR200130,CU3155,DR757,2025-06-06,14,Delhi,Dwarka,North,Bike,Website,2.5,8,7.06,17.65,0.0,Cash,Paid,12.35,3,City Ride
+TR200830,CU3458,DR768,2025-03-31,8,Delhi,Dwarka,North,Auto,App,10.8,32,11.07,119.56,0.0,Wallet,Pending,89.67,1,City Ride
+TR200931,CU3147,DR711,2025-11-06,13,Hyderabad,Secunderabad,South,Bike,App,3.7,13,7.47,27.64,1.38,UPI,Paid,18.38,5,City Ride
+TR200237,CU3246,DR791,2025-08-14,19,Hyderabad,Banjara Hills,South,Sedan,Call Center,7.6,29,19.96,151.7,0.0,Cash,Paid,121.36,5,City Ride
+TR200054,CU3108,DR785,2025-06-09,12,Delhi,Karol Bagh,North,Auto,App,14.8,55,13.67,202.32,0.0,UPI,Paid,151.74,3,City Ride
+TR200050,CU3560,DR798,2025-10-08,21,Delhi  ,Connaught Place,North,Auto,App,14.7,41,12.94,190.22,9.51,Wallet,Paid,135.53,5,Airport
+TR200308,CU3599,DR741,2025-10-07,8,Jaipur,C Scheme,North,Sedan,App,12.6,50,18.82,237.13,23.71,UPI,Paid,170.74,5,City Ride
+TR200529,CU3006,DR805,2025-07-04,16,Bengaluru,Indiranagar,South,Mini,Call Center,16.8,48,13.2,221.76,22.18,Card,Paid,155.67,5,City Ride
+TR200518,CU3071,DR753,2025-12-03,16,Mumbai,Powai,West,Mini,App,5.8,25,16.81,97.5,0.0,UPI,Paid,76.05,5,Airport
+TR200528,CU3330,DR809,2025-09-10,18,Delhi,Connaught Place,North,Bike,App,3.9,16,6.18,24.1,0.0,UPI,Paid,16.87,4,City Ride
+TR200530,CU3383,DR804,2025-03-03,12,Hyderabad,Kukatpally,South,Auto,Website,21.0,73,13.51,283.71,28.37,Wallet,Paid,191.5,,City Ride
+TR200014,CU3203,DR781,2025-09-23,8,Hyderabad,Banjara Hills,South,Mini,Website,22.8,84,14.77,336.76,0.0,UPI,Paid,262.67,,City Ride
+TR200616,CU3384,DR786,2025-05-15,13,Bengaluru,Electronic City,South,Mini,APP,7.1,30,16.94,120.27,6.01,Cash,Paid,89.12,5,City Ride
+TR200825,CU3244,DR721,2025-10-19,18,Mumbai,Andheri,West,Mini,App,18.2,72,13.26,241.33,0.0,Cash,Paid,188.24,4,City Ride
+TR200934,CU3286,DR807,2025-09-10,17,Hyderabad,Secunderabad,South,Auto, app ,20.9,74,11.28,235.75,11.79,Card,Paid,167.97,5,City Ride
+TR200665,CU3567,DR718,2025-09-10,10,Hyderabad,Secunderabad,South,Sedan,App,15.9,62,20.41,324.52,16.23,Wallet,Paid,246.63,5,Airport
+TR200775,CU3162,DR705,2025-11-23,8,Delhi,Saket,North,Bike,Website,2.7,11,6.5,17.55,0.88,Cash,Paid,11.67,5,City Ride
+TR200509,CU3528,DR790,2025-10-09,8,Delhi,Karol Bagh,North,Bike,App,2.8,10,6.34,17.75,0.0,Wallet,Paid,12.42,5,City Ride
+TR200296,CU3323,DR717,2025-01-30,21,Hyderabad,Banjara Hills,South,Mini  ,App,16.3,54,14.83,241.73,0.0,Card,Paid,188.55,5,City Ride
+TR200107,CU3244,DR709,2025-05-09,14,Delhi,Connaught Place,North,Sedan,App,10.0,39,16.07,160.7,8.04,UPI,Paid,122.13,4,City Ride
+TR200731,CU3045,DR745,2025-01-04,20,Mumbai,Andheri,West,Sedan,App,18.1,50,19.07,345.17,0.0,Wallet,Pending,276.14,3,Airport
+TR200076,CU3510,DR711,2025-05-02,16,Mumbai,Bandra,West,Mini,App,3.2,11,15.78,50.5,5.05,Card,Paid,35.45,4,City Ride
+TR200550,CU3528,DR748,2025-05-31,10,Hyderabad,Secunderabad,South,Mini,App,2.2,9,15.95,35.09,0.0,Card,Paid,27.37,5,Airport
+TR201183,CU3551,DR710,2025-10-04,10,Chennai,T Nagar,South,Premium,App,19.1,51,29.35,560.59,0.0,,Paid,448.47,2,City Ride
+TR200890,CU3539,DR786,2025-04-30,7,  Mumbai,Bandra,West,Auto,App,21.7,57,11.9,258.23,0.0,Card,Paid,193.67,5,Airport
+TR201175,CU3524,DR762,2025-05-05,18,Hyderabad  ,Hitech City,South,Mini,App,7.1,23,15.71,111.54,0.0,Card,Pending,87.0,5,City Ride
+TR200133,CU3379,DR744,2025-10-29,18,Mumbai,Bandra,West,Mini,Call Center,43.7,138,14.45,631.47,63.15,UPI,Paid,443.29,4,City Ride
+TR200141,CU3396,DR717,2025-04-22,5,Delhi,Karol Bagh,North,Auto,App,14.8,56,13.68,202.46,0.0,Wallet,Pending,151.84,5,City Ride
+TR200978,CU3215,DR739,2025-04-10,18,Chennai,T Nagar,South,Premium,App,20.5,84,24.65,505.32,50.53,UPI,Paid,363.83,5,City Ride
+TR200461,CU3180,DR798,2025-07-18,19,Hyderabad,Kukatpally,South,Bike,App,1.6,6,8.95,14.32,0.0,UPI,Paid,10.02,3,City Ride
+TR200216,,DR776,2025-10-01,20,Pune,Viman Nagar,West,Mini,Website,21.2,51,16.95,359.34,0.0,Card,Paid,280.29,4,City Ride
+TR200916,CU3300,DR775,2025-06-16,18,Hyderabad,Banjara Hills,South,Sedan,App,10.3,41,19.8,203.94,10.2,Card,Paid,154.99,4,City Ride
+TR200449,CU3431,DR752,2025-04-04,8,Mumbai,Powai,West,Sedan,App,21.7,53,20.6,447.02,0.0,Wallet,Paid,357.62,5,Airport
+TR201124,CU3333,DR809,2025-12-20,13,Jaipur  ,Malviya Nagar,North,Premium,App,15.4,38,23.37,359.9,0.0,Cash,Paid,287.92,4,Airport
+TR200103,CU3329,DR812,2025-04-23,14,Chennai,T Nagar,South,Premium,App,19.9,65,28.5,567.15,0.0,Cash,Pending,453.72,5,City Ride
+TR200424,CU3560,DR777,2025-04-24,14,Pune,Viman Nagar,West,Bike,App,30.7,109,7.13,218.89,0.0,Cash,Paid,153.22,2,City Ride
+TR200653,CU3279,DR714,2025-02-14,16,Bengaluru,Whitefield,South,Premium,  App,32.3,89,24.76,799.75,0.0,Wallet,Paid,639.8,3,City Ride
+TR200293,CU3346,DR712,2025-04-19,13,Bengaluru,Whitefield,South,Mini,App,-3.0,88,14.89,361.83,0.0,UPI,Paid,282.23,4,City Ride
+TR200572,CU3014,DR780,2025-12-22,2,Chennai,T Nagar,South,Auto,App,7.4,29,-14.92,110.41,0.0,UPI,Paid,82.81,2,City Ride
+TR200708,CU3011,DR796,2025-03-18,16,Kolkata,Howrah,East,Bike,App,4.2,13,8.02,33.68,3.37,UPI,Paid,21.22,2,City Ride
+TR200464,CU3311,DR808,2025-10-11,19,Bengaluru,Electronic City,South,Sedan,App,11.9,37,19.81,235.74,23.57,UPI,Paid,169.74,4,City Ride
+TR200381,CU3492,DR791,2025-11-20,21,Bengaluru,Koramangala,South,Auto,App,6.4,21,12.07,77.25,0.0,UPI,Paid,57.94,5,City Ride
+TR200125,CU3143,DR748,2025-04-19,16,Mumbai,Dadar,West,Mini,App,2.1,10,14.67,30.81,0.0,UPI,Paid,24.03,5,Airport
+TR200338,CU3085,DR762,2025-08-19,9,Kolkata,Park Street,East,Mini,App,22.5,83,13.66,307.35,0.0,UPI,Paid,239.73,5,City Ride
+TR200041,CU3188,DR754,2025-07-19,19,Chennai,Velachery,South,Sedan,App,10.5,27,20.95,219.97,0.0,UPI,Paid,175.98,3,City Ride
+TR200677,CU3324,DR798,2025-02-25,20,Mumbai,Powai,West,Mini,App,22.2,62,15.16,336.55,0.0,UPI,Paid,262.51,2,Airport
+TR201125,CU3014,DR728,2025-04-14,9,Jaipur,Malviya Nagar,North,Mini,App,16.9,58,14.45,244.2,12.21,Wallet,Paid,180.95,3,City Ride
+TR200760,CU3097,DR787,2025-03-23,8,Hyderabad,Banjara Hills,South,Mini,Call Center,6.7,20,13.65,91.45,9.15,Wallet,Paid,64.19,5,Airport
+TR200362,CU3002,DR777,2025-06-16,15,Bengaluru,Indiranagar,South,Sedan,app,2.3,8,16.05,36.91,3.69,Wallet,Paid,26.58,5,Airport
+TR201012,CU3347,DR729,2025-10-21,17,Delhi,Dwarka,North,Sedan,App,19.3,73,19.08,368.24,0.0,Card,Paid,294.59,3,City Ride
+TR200273,CU3310,DR746,2025-08-10,17,Delhi,Saket,North,Auto,App,6.1,20,11.62,70.88,3.54,UPI,Paid,50.5,5,City Ride
+TR200883,CU3591,DR763,2025-06-25,17,Bengaluru,Indiranagar,South,Premium,App,9.5,30,24.8,235.6,0.0,Card,Paid,188.48,4,City Ride
+TR200608,CU3049,DR759,2025-01-27,14,Jaipur,Vaishali Nagar,North,sedan,App,11.6,47,17.5,203.0,0.0,Wallet,Paid,162.4,1,Airport
+TR201038,CU3422,DR796,2025-05-15,8,Mumbai,Powai,West,Mini,App,8.7,27,14.5,126.15,6.31,UPI,Paid,93.48,5,Outstation
+TR200939,CU3133,DR814,2025-08-27,17,Hyderabad,Hitech City,South,Auto,Website,38.0,130,11.07,420.66,0.0,UPI,Paid,315.5,4,City Ride
+TR200027,CU3018,DR712,2025-05-13,11,Bengaluru,Koramangala,South,Sedan,App,12.0,37,18.72,224.64,0.0,UPI,Paid,179.71,3,City Ride
+TR200201,CU3096,DR812,2025-12-25,7,Mumbai,Andheri,West,Mini,App,16.7,53,13.34,222.78,0.0,Card,Paid,173.77,5,City Ride
+TR201104,CU3490,DR714,2025-09-07,1,Mumbai,Dadar,West,Auto,App,2.1,10,12.57,26.4,1.32,Cash,Paid,18.81,4,City Ride
+TR200492,CU3584,DR743,2025-01-04,14,Chennai,T Nagar,South,Premium,App  ,11.7,31,25.89,302.91,0.0,Cash,Paid,242.33,4,City Ride
+TR200497,CU3436,DR729,2025-11-05,8,Delhi,Saket,North,Mini,App,13.4,35,13.52,181.17,9.06,,Paid,134.25,4,City Ride
+TR200693,CU3283,DR770,2025-01-20,17,Chennai,Velachery,South,Mini,App,23.3,79,13.58,316.41,15.82,Cash,Paid,234.46,3,Airport
+TR200444,CU3027,DR726,2025-05-26,7,Bengaluru,Electronic City,South,Auto,App,22.1,82,14.15,312.72,0.0,UPI,Paid,234.54,4,City Ride
+TR200853,CU3573,DR712,2025-01-20,20,Bengaluru,Koramangala,South,Auto,App,17.8,52,11.34,201.85,0.0,UPI,Paid,151.39,5,Airport
+TR201073,CU3220,DR723,2025-06-01,21,Kolkata,Salt Lake,East,Mini,App,22.2,75,15.09,335.0,0.0,Card,Paid,261.3,5,City Ride
+TR200716,CU3003,DR783,2025-12-25,14,Kolkata,Salt Lake,East,Auto,Call Center,14.3,52,12.43,177.75,0.0,Card,Paid,133.31,1,Airport
+TR200681,CU3015,DR759,2025-03-09,14,Chennai,Velachery,South,Sedan,Website,35.9,101,16.46,590.91,59.09,UPI,Paid,425.46,,Outstation
+TR200097,CU3344,DR761,2025-04-13,11,Bengaluru,Koramangala,South,Bike,Call Center,26.3,70,8.68,228.28,0.0,Cash,Paid,159.8,3,City Ride
+TR200826,CU3044,DR817,2025-10-12,21,Pune,Kothrud,West,Auto,App,7.2,31,13.02,93.74,0.0,UPI,Paid,70.3,4,City Ride
+TR201014,CU3090,DR748,2025-01-07,17,Chennai,Adyar,South,Bike,App,3.4,14,8.06,27.4,1.37,UPI,Paid,18.22,3,City Ride
+TR200239,CU3014,DR717,2025-05-05,7,Mumbai,Powai,West,Premium,App,3.9,15,26.85,104.72,5.24,UPI,Pending,79.58,4,Airport
+TR200903,CU3082,DR721,2025-06-09,18,Pune,Hinjewadi,West,Mini,App,3.5,11,15.16,53.06,0.0,Wallet,Paid,41.39,5,Outstation
+TR200994,CU3523,DR712,2025-06-09,12,Jaipur,C Scheme,North,Sedan,App,20.0,54,16.61,332.2,33.22,UPI,Paid,239.18,5,Airport
+TR200557,CU3219,DR804,2025-08-12,8,Chennai,Velachery,South,Bike,App,4.0,15,7.32,29.28,1.46,UPI,Paid,19.47,5,City Ride
+TR200346,CU3115,DR762,2025-11-12,13,Mumbai,Andheri,West,Mini,App,23.6,57,15.3,361.08,36.11,Cash,Paid,253.48,5,Airport
+TR201099,CU3315,DR776,2025-09-18,21,Pune,Viman Nagar,West,Bike,Website,7.9,27,7.42,58.62,0.0,Card,Paid,41.03,5,City Ride
+TR201146,CU3308,DR711,2025-10-03,7,Jaipur,C Scheme,North,Auto,Website,15.6,48,13.38,208.73,10.44,Card,Paid,148.72,1,Airport
+TR200484,CU3348,DR755,2025-04-16,15,Mumbai,Powai,West,Mini,App,11.4,47,15.37,,0.0,Wallet,Paid,136.67,2,City Ride
+TR201132,CU3015,DR774,2025-04-19,7,Pune,Hinjewadi,West,Sedan,App,9.1,36,17.7,161.07,0.0,UPI,Paid,128.86,5,Airport
+TR200982,CU3051,DR790,2025-11-08,7,Mumbai,Andheri,West,Mini,App,4.9,17,13.37,65.51,0.0,UPI,Paid,51.1,5,City Ride
+TR200661,CU3259,DR715,2025-09-05,7,Mumbai,Bandra,West,Sedan,App,2.6,11,16.51,42.93,0.0,UPI,Pending,34.34,4,City Ride
+TR200490,CU3306,DR791,2025-11-19,8,Chennai,Adyar,South,Bike,App,4.3,13,8.27,35.56,0.0,UPI,Paid,24.89,5,City Ride
+TR200302,CU3540,DR738,2025-01-06,17,Chennai,T Nagar,South,Mini,App,23.1,74,15.64,361.28,36.13,Cash,Paid,253.62,,City Ride
+TR201089,CU3523,DR782,2025-02-04,9,Mumbai,Andheri,West,Auto,Website,35.3,144,11.23,396.42,0.0,Card,Paid,297.31,4,City Ride
+TR200877,CU3259,DR726,2025-06-28,16,Bengaluru,Indiranagar,South,Bike,App,1.7,9,7.85,,0.0,UPI,Pending,9.34,5,City Ride
+TR200920,CU3013,DR729,2025-03-08,9,Delhi,Connaught Place,North,Premium,Website,19.1,49,27.14,518.37,0.0,UPI,Paid,414.7,5,City Ride
+TR200592,CU3534,DR770,2025-06-20,10,Delhi,Saket,North,Auto,Website,2.2,9,13.19,29.02,0.0,Cash,Paid,21.77,5,City Ride
+TR200543,CU3247,DR783,2025-09-15,18,Delhi,Connaught Place,North,Sedan,App,16.1,64,20.86,335.85,0.0,UPI,Paid,268.68,5,City Ride
+TR200668,CU3509,DR786,2025-04-23,23,Hyderabad,Banjara Hills,South,Sedan,App,10.2,30,18.59,189.62,0.0,Cash,Paid,151.7,3,City Ride
+TR201056,CU3522,DR784,2025-07-22,18,Hyderabad,Secunderabad,South,BIKE,App,7.9,24,7.99,63.12,0.0,UPI,Paid,44.18,4,Outstation
+TR200505,CU3201,DR759,2025-10-24,18,Kolkata,Howrah,East,Premium,App,8.4,33,26.54,222.94,22.29,UPI,Paid,160.52,4,City Ride
+TR200227,CU3365,DR802,2025-05-21,6,Kolkata,Salt Lake,East,Auto,App,22.1,90,13.98,308.96,0.0,UPI,Paid,231.72,5,City Ride
+TR200721,,DR740,2025-03-03,9,Delhi,Connaught Place,North,Bike,App,32.6,115,6.42,209.29,20.93,UPI,Paid,131.85,5,City Ride
+TR200794,CU3124,DR781,2025-11-07,19,Delhi,Saket,North,Premium,Call Center,16.1,56,22.2,357.42,0.0,Card,Paid,285.94,4,City Ride
+TR200605,CU3567,DR701,2025-06-06,19,Mumbai,Andheri,West,Bike,Website,4.2,12,7.18,30.16,3.02,UPI,Pending,19.0,5,City Ride
+TR200983,CU3486,DR710,2025-04-19,23,Mumbai,Andheri,West,Bike,App,4.8,17,7.5,36.0,1.8,Card,Paid,23.94,3,City Ride
+TR201135,CU3459,DR725,2025-02-15,17,Pune,Hinjewadi,West,Premium,App,2.3,10,26.61,61.2,0.0,Cash,Paid,48.96,1,City Ride
+TR200793,CU3162,DR820,2025-11-03,13,Bengaluru,Whitefield,South,Mini,App,23.4,72,14.18,331.81,0.0,Card,Paid,258.81,1,Airport
+TR200659,CU3125,DR798,2025-04-25,8,Delhi,Karol Bagh,North,Auto,App,10.2,28,14.37,146.57,0.0,Cash,Paid,109.93,5,City Ride
+TR200940,CU3110,DR741,2025-08-16,12,Hyderabad,Hitech City,South,Mini,App,9.5,36,13.8,131.1,6.55,Card,Paid,97.15,4,City Ride
+TR201000,CU3045,DR792,2025-05-31,5,Hyderabad,Banjara Hills,South,Mini,Call Center,10.9,28,14.15,154.24,0.0,Cash,Paid,120.31,4,City Ride
+TR200750,CU3294,DR795,2025-08-07,15,Delhi,Dwarka,North,Mini,App,17.5,54,13.72,240.1,0.0,Card,Paid,187.28,3,City Ride
+TR201155,CU3010,DR767,2025-11-13,14,Jaipur,C Scheme,North,Bike,App,7.4,28,8.68,64.23,0.0,UPI,Paid,44.96,1,City Ride
+TR200914,CU3390,DR734,2025-07-24,15,,Powai,West,Mini,App,15.9,53,14.06,223.55,0.0,UPI,Paid,174.37,3,City Ride
+TR201049,CU3153,DR735,2025-04-06,14,Pune,Viman Nagar,West,Bike,App,3.7,16,8.42,31.15,0.0,UPI,Paid,21.8,5,Airport
+TR200124,CU3049,DR750,2025-06-18,3,Kolkata,Howrah,East,Sedan,App,5.4,16,17.43,94.12,0.0,UPI,Paid,75.3,5,City Ride
+TR200244,CU3222,DR771,2025-01-12,8,Mumbai,Powai,West,Mini,App,11.9,49,16.77,199.56,19.96,UPI,Paid,140.09,5,City Ride
+TR200565,CU3496,DR740,2025-09-01,19,Chennai,Velachery,South,Mini,App,5.1,23,15.01,76.55,0.0,Wallet,Paid,59.71,,City Ride
+TR200559,CU3169,DR809,2025-09-09,18,Delhi,Karol Bagh,North,Auto,App,16.7,54,11.92,199.06,0.0,Cash,Paid,149.3,4,City Ride
+TR200165,CU3540,DR763,2025-03-11,18,Mumbai,Powai,West,Premium,App,15.4,54,26.07,401.48,0.0,UPI,Paid,321.18,2,City Ride
+TR200332,CU3161,DR703,2025-10-03,15,Chennai,Velachery,South,Bike,App,6.3,19,7.56,47.63,0.0,Card,Paid,33.34,5,Airport
+TR200095,CU3290,DR728,2025-01-14,19,Delhi,Karol Bagh,North,Auto,App,21.7,66,11.27,244.56,12.23,Card,Paid,174.25,5,City Ride
+TR200038,CU3519,DR779,2025-09-29,19,Mumbai,Powai,West,Auto,App,5.2,20,11.52,59.9,3.0,UPI,Paid,42.67,4,City Ride
+TR200720,CU3080,DR788,2025-09-21,18,Chennai,T Nagar,South,Auto,Website,20.2,80,14.0,282.8,14.14,Cash,Paid,201.5,5,City Ride
+TR200158,CU3042,DR790,2025-11-11,7,BENGALURU,Whitefield,South,Premium,App,14.7,46,27.76,408.07,0.0,UPI,Paid,326.46,5,City Ride
+TR200756,CU3352,DR788,2025-08-19,15,Bengaluru,Indiranagar,South,Mini,app,11.5,43,15.79,181.58,9.08,Cash,Pending,134.55,4,City Ride
+TR200284,CU3555,DR759,2025-11-27,6,Delhi,Dwarka,North,Auto,Call Center,6.9,21,13.67,94.32,4.72,UPI,Paid,67.2,,City Ride
+TR200307,CU3351,DR718,2025-07-04,6,Mumbai,Dadar,West,Premium,Website,17.2,56,27.98,481.26,48.13,Card,Paid,346.5,4,City Ride
+TR200788,CU3475,DR817,2025-12-06,19,Chennai,Adyar,South,Auto,App,19.1,77,14.56,278.1,0.0,Wallet,Paid,208.58,4,City Ride
+TR200243,CU3566,DR787,2025-03-12,7, pune ,Hinjewadi,West,Sedan,Website,3.8,17,16.69,63.42,0.0,Cash,Paid,50.74,4,Airport
+TR200961,CU3520,DR768,2025-08-08,16,Jaipur,Vaishali Nagar,North,Auto,App,6.6,23,11.47,75.7,7.57,UPI,Paid,51.1,4,City Ride
+TR200649,CU3538,DR775,2025-03-21,17,BENGALURU,Electronic City,South,Auto,App,17.0,40,13.46,228.82,11.44,Cash,Paid,163.03,5,City Ride
+TR200795,CU3533,DR789,2025-12-30,20,Bengaluru,Koramangala,South,Bike,App,5.7,25,8.86,50.5,2.53,Cash,Pending,33.58,4,Outstation
+TR200029,CU3527,DR745,2025-12-11,7,Hyderabad,Banjara Hills,South,Auto,App,3.4,12,12.85,43.69,0.0,UPI,Paid,32.77,4,City Ride
+TR200283,CU3111,DR723,2025-04-12,20,Chennai,Velachery,South,Bike,App,4.7,15,8.53,40.09,2.0,Cash,Paid,26.66,4,City Ride
+TR200815,CU3269,DR721,2025-10-21,2,Kolkata,Park Street,East,Mini,Website,43.8,111,13.48,590.42,29.52,Cash,Paid,437.5,4,Airport
+TR200411,CU3025,DR788,2025-01-02,8,Hyderabad,Hitech City,South,Bike,App,6.7,24,7.69,51.52,0.0,Wallet,Paid,36.06,5,City Ride
+TR200762,CU3600,DR763,2025-12-02,22,Jaipur,Vaishali Nagar,North,Bike, call center ,5.4,22,7.63,41.2,0.0,Wallet,Paid,28.84,4,City Ride
+TR200175,CU3544,DR714,2025-06-21,15,Hyderabad,Hitech City,South,Auto,Website,13.8,53,14.45,199.41,19.94,UPI,Pending,134.6,4,City Ride
+TR200072,CU3561,DR703,2025-05-09,12,Mumbai,Bandra,West,Auto,App,15.1,40,14.95,225.74,0.0,UPI,Paid,169.31,2,City Ride
+TR200892,CU3345,DR770,2025-03-05,8,Hyderabad,Kukatpally,South,Auto,App,2.2,11,14.94,32.87,0.0,,Paid,24.65,5,City Ride
+TR200935,CU3023,DR812,2025-10-21,20,Delhi,Connaught Place,North,Auto,App,7.7,32,11.78,90.71,9.07,UPI,Paid,61.23,5,City Ride
+TR200804,CU3269,DR768,2025-02-27,21, hyderabad ,Secunderabad,South,Auto,Website,14.2,49,11.25,159.75,0.0,Card,Paid,119.81,4,Airport
+TR200993,CU3209,DR735,2025-10-30,17,Delhi,Connaught Place,North,Sedan,App  ,10.9,38,20.04,218.44,0.0,Cash,Paid,174.75,3,Airport
+TR201004,CU3007,DR706,2025-09-21,15,Mumbai,Andheri,West,Mini,App,3.1,12,15.53,48.14,0.0,UPI,Paid,37.55,3,Airport
+TR200120,CU3573,DR717,2025-06-03,6,Delhi,Connaught Place,North,Auto,App,8.0,24,14.68,117.44,0.0,Wallet,Paid,88.08,4,City Ride
+TR200966,CU3553,DR706,2025-07-23,21,Chennai,Adyar,South,Auto,App,2.7,13,14.44,38.99,0.0,Card,Paid,29.24,4,City Ride
+TR201016,CU3207,DR717,2025-07-25,9,Pune,Kothrud,West,Sedan,App,18.3,50,16.64,304.51,0.0,UPI,Pending,243.61,4,City Ride
+TR201094,CU3281,DR806,2025-08-03,8,Chennai,Velachery,South,Sedan,App,22.7,60,16.78,380.91,0.0,Cash,Paid,304.73,5,Outstation
+TR200734,CU3170,DR785,2025-08-11,18,Delhi,Saket,North,Sedan,App,15.2,49,17.38,264.18,13.21,UPI,Pending,200.78,4,City Ride
+TR200173,CU3454,DR767,2025-11-15,19,Mumbai,Bandra,West,Auto,App,12.2,36,11.98,146.16,7.31,UPI,Paid,104.14,5,City Ride
+TR200566,CU3296,DR731,2025-10-28,11,Hyderabad,Banjara Hills,South,Bike,App,5.8,21,8.05,46.69,4.67,Card,Paid,29.41,2,City Ride
+TR200896,CU3101,DR786,2025-01-10,9,  Bengaluru,Electronic City,South,Mini,App,22.5,54,13.13,295.43,0.0,Wallet,Paid,230.44,2,City Ride
+TR201071,CU3237,DR804,2025-07-07,14,Mumbai,Dadar,West,Auto,App,15.1,39,12.18,183.92,0.0,Card,Paid,137.94,5,Airport
+TR200225,CU3472,DR758,2025-12-15,15,Pune,Hinjewadi,West,Bike,App,1.8,8,7.45,13.41,0.0,Wallet,Paid,9.39,5,Airport
+TR200180,CU3393,DR715,2025-11-21,17,Delhi,Dwarka,North,Sedan,App,16.4,39,19.59,321.28,16.06,UPI,Paid,244.18,1,City Ride
+TR200791,CU3510,DR773,2025-09-18,9, jaipur ,C Scheme,North,Mini,App,17.4,44,16.99,295.63,0.0,UPI,Paid,230.59,5,City Ride
+TR200797,CU3367,DR721,2025-01-20,5,Chennai,T Nagar,South,  Auto,App,7.9,23,13.82,109.18,0.0,UPI,Paid,81.89,3,City Ride
+TR200627,CU3134,DR719,2025-03-15,14,Jaipur,Malviya Nagar,North,Mini,App,11.6,40,14.53,168.55,16.86,Cash,Paid,118.32,2,Outstation
+TR200621,CU3415,DR747,2025-09-09,12,Delhi,Saket,North,Bike,App,4.8,14,8.91,42.77,0.0,Card,Paid,29.94,4,City Ride
+TR201130,CU3126,DR820,2025-06-16,21,Bengaluru,Indiranagar,South,Bike,App,7.5,23,6.85,51.38,0.0,UPI,Paid,35.97,5,City Ride
+TR200199,CU3442,DR752,2025-11-07,9,Hyderabad,Kukatpally,South,Premium,App,4.1,14,26.15,107.21,10.72,Card,Paid,77.19,5,City Ride
+TR200684,CU3242,DR718,2025-10-28,6,Jaipur,C Scheme,North,bike,App,5.4,17,6.11,32.99,0.0,Wallet,Paid,23.09,3,City Ride
+TR200888,CU3368,DR787,2025-01-02,23,Mumbai,Bandra,West,Bike,App,37.5,105,8.13,304.88,30.49,UPI,Paid,192.07,5,City Ride
+TR201162,CU3488,DR812,2025-09-07,18,Mumbai,Andheri,West,Bike,App,6.1,23,7.86,47.95,0.0,Wallet,Paid,33.56,5,City Ride
+TR200717,CU3319,DR713,2025-05-26,21,Bengaluru,Koramangala,South,Mini,Call Center,5.9,20,14.45,85.25,8.53,UPI,Paid,59.84,5,City Ride
+TR201129,CU3066,DR730,2025-09-06,7,Kolkata,Salt Lake,East, sedan ,Website,9.1,35,20.59,187.37,18.74,UPI,Pending,134.9,5,City Ride
+TR201147,CU3506,DR791,2025-01-17,16,Hyderabad,Banjara Hills,South,Bike,Website,2.9,12,7.96,23.08,0.0,Card,Paid,16.16,5,City Ride
+TR200255,CU3432,DR744,2025-01-24,21,Mumbai,Powai,West,Sedan,App,7.5,28,18.47,138.52,6.93,UPI,Paid,105.27,4,Airport
+TR200247,CU3237,DR774,2025-07-06,20,Delhi,Dwarka,North,Auto,App,2.0,9,13.9,27.8,0.0,Cash,Pending,20.85,5,Outstation
+TR200127,CU3397,DR765,2025-07-28,3,  Hyderabad,Banjara Hills,South,Auto,App,11.9,45,13.7,163.03,8.15,Cash,Paid,116.16,5,City Ride
+TR200544,CU3164,DR767,2025-03-15,21,Delhi,Karol Bagh,North,Sedan,App,20.2,49,18.21,367.84,0.0,Card,Paid,294.27,4,City Ride
+TR200596,CU3470,DR721,2025-10-17,0,Mumbai,Dadar,West,Sedan,App,5.3,20,20.64,109.39,0.0,UPI,Pending,87.51,3,City Ride
+TR200962,CU3202,DR756,2025-04-01,8,Chennai,Adyar,South,Mini,App,9.3,31,15.43,143.5,14.35,UPI,Paid,100.74,,City Ride
+TR201173,CU3113,DR804,2025-04-26,18,Bengaluru,Electronic City,South,Sedan,App,21.9,90,19.56,428.36,21.42,UPI,Paid,325.55,5,Airport
+TR200835,CU3401,DR726,2025-03-09,16,Chennai,Adyar,South,Auto,Website,11.7,40,14.73,172.34,0.0,UPI,Paid,129.25,1,City Ride
+TR200813,CU3276,DR750,2025-12-30,22,Mumbai,Andheri,West,Bike,App,3.5,11,6.99,24.46,1.22,UPI,Paid,16.27,5,City Ride
+TR200311,CU3343,DR797,2025-09-29,15,Mumbai,Powai,West,Bike,App,1.9,7,7.58,14.4,0.72,Cash,Pending,9.58,3,City Ride
+TR200306,CU3378,DR719,2025-09-23,18,Mumbai,Andheri,West,Sedan,App,8.4,31,16.87,141.71,0.0,Cash,Paid,113.37,3,City Ride
+TR200692,CU3141,DR718,2025-05-30,7,Kolkata,Salt Lake,East,Auto,App,16.0,59,13.24,211.84,10.59,UPI,Paid,150.94,5,City Ride
+TR200523,CU3285,DR701,2025-12-30,18,Chennai,Adyar,South,Auto,App,23.9,57,12.16,290.62,29.06,UPI,Paid,196.17,2,Outstation
+TR200870,CU3042,DR754,2025-12-03,19,Chennai,Adyar,South,Premium,App,12.5,38,29.98,374.75,37.48,UPI,Paid,269.82,3,City Ride
+TR201013,CU3399,DR708,2025-08-19,6,Kolkata,Park Street,East,Auto,Website,19.0,52,12.93,245.67,0.0,UPI,Paid,184.25,5,City Ride
+TR200586,CU3442,DR815,2025-06-21,8,Chennai,Adyar,South,Mini,App,22.4,74,14.77,330.85,33.09,Card,Paid,232.25,4,City Ride
+TR200016,CU3577,DR702,2025-11-16,13,Mumbai,Bandra,West,Mini,App,42.5,111,13.17,559.73,0.0,Cash,Paid,436.59,3,City Ride
+TR200951,CU3512,DR741,2025-02-21,22,Chennai,Adyar,South,Mini,App,13.4,38,16.06,215.2,21.52,UPI,Paid,151.07,1,City Ride
+TR201066,CU3464,DR723,2025-07-20,11,Hyderabad,Banjara Hills,South,Sedan,App,21.1,78,19.0,400.9,0.0,Cash,Paid,320.72,4,City Ride
+TR200409,CU3081,DR709,2025-01-08,20,Delhi,Dwarka,North,Auto,App,22.3,68,11.22,250.21,0.0,UPI,Pending,187.66,5,City Ride
+TR200483,CU3561,DR716,2025-04-01,17,Chennai,T Nagar,South,Auto,Call Center,5.7,23,13.42,76.49,0.0,Cash,Paid,57.37,4,Airport
+TR201098,CU3424,DR797,2025-08-07,19,Pune,Kothrud,West,Mini,App,17.6,62,15.27,268.75,13.44,UPI,Paid,199.14,,Airport
+TR200595,CU3266,DR706,2025-12-09,18,Bengaluru,Electronic City,South,Auto,App,18.3,48,14.16,259.13,0.0,UPI,Paid,194.35,5,Airport
+TR201172,CU3169,DR731,2025-03-21,17,Chennai,Adyar,South,Sedan,App,21.5,83,16.53,355.4,0.0,Cash,Paid,284.32,4,City Ride
+TR200992,CU3020,DR736,2025-05-11,7,Chennai,Adyar,South,Sedan,App,5.6,22,16.37,91.67,0.0,Cash,Paid,73.34,5,City Ride
+TR200839,CU3090,DR716,2025-03-09,17,Mumbai,Dadar,West,  Bike,App,32.7,112,7.04,230.21,23.02,Cash,Paid,145.03,4,Airport
+TR200005,CU3134,DR753,2025-03-02,7,Kolkata,Howrah,East,Sedan,App,34.3,102,18.43,632.15,63.22,UPI,Paid,455.14,1,City Ride
+TR200012,CU3118,DR732,2025-09-13,16,Chennai,Adyar,South,Sedan,App,16.4,50,18.91,310.12,31.01,UPI,Paid,223.29,4,City Ride
+TR200694,CU3551,DR798,2025-04-15,17,Bengaluru,Electronic City,South,Bike,App,4.0,14,6.64,26.56,0.0,UPI,Paid,18.59,3,City Ride
+TR200977,CU3042,DR807,2025-08-26,18,Mumbai,Bandra,West,Sedan,App,15.8,42,20.93,330.69,0.0,Wallet,Paid,264.55,4,Airport
+TR200267,CU3458,DR708,2025-06-30,12,Hyderabad,Banjara Hills,South,Mini,App,7.5,31,15.79,118.42,0.0,UPI,Paid,92.37,5,City Ride
+TR201017,CU3197,DR799,2025-11-24,18,Kolkata,Howrah,East,Mini,Call Center,12.8,42,15.09,193.15,0.0,Cash,Paid,150.66,3,Airport
+TR200195,CU3340,DR757,2025-03-14,7,Hyderabad,Kukatpally,South,Bike,App,2.4,8,8.25,19.8,0.0,Cash,Paid,13.86,2,City Ride
+TR200660,CU3210,DR730,2025-01-23,18,Mumbai,Andheri,West,Auto,Website,8.0,24,13.8,110.4,11.04,Card,Paid,74.52,4,City Ride
+TR200546,CU3260,DR702,2025-12-31,8,Pune,Viman Nagar,West,Sedan,App,10.6,31,17.49,,9.27,Cash,Paid,140.9,4,City Ride
+TR200711,CU3306,DR713,2025-12-05,18,Hyderabad,Secunderabad,South,Premium,App,15.0,45,27.21,408.15,0.0,Cash,Paid,326.52,3,City Ride
+TR200215,CU3276,DR764,2025-09-27,8,Chennai,Adyar,South,Mini,App,11.6,45,16.34,189.54,9.48,UPI,Paid,140.45,2,City Ride
+TR201021,CU3167,DR717,2025-11-25,22,Chennai,T Nagar,South,Bike,App,2.0,9,8.76,17.52,0.88,Wallet,Paid,11.65,4,City Ride
+TR200205,CU3172,DR772,2025-08-16,7,Delhi,Dwarka,North,Sedan,App,28.2,95,20.79,586.28,0.0,UPI,Paid,469.02,5,City Ride
+TR200301,CU3257,DR761,2025-06-30,7,Delhi,Karol Bagh,North,Sedan,App,5.0,14,20.07,100.35,5.02,UPI,Paid,76.26,4,City Ride
+TR200405,CU3522,DR715,2025-02-26,13,Delhi,Saket,North,Bike,App,4.9,14,8.62,42.24,2.11,UPI,Paid,28.09,3,City Ride
+TR200861,CU3077,DR813,2025-08-21,18,Bengaluru,Whitefield,South,SEDAN,App,2.9,9,19.75,57.27,0.0,Card,Paid,45.82,5,City Ride
+TR200006,CU3149,DR727,2025-10-31,9,Delhi,Karol Bagh,North,Premium,App,22.4,83,25.15,563.36,56.34,Cash,Paid,405.62,5,City Ride
+TR200092,CU3519,DR794,2025-09-20,18,Bengaluru,Electronic City,South,Sedan,App,13.1,46,20.33,266.32,13.32,UPI,Paid,202.4,5,City Ride
+TR200844,CU3096,DR701,2025-07-16,10,Delhi,Dwarka,North,Bike,App,3.8,13,7.43,28.23,0.0,Cash,Pending,19.76,4,City Ride
+TR200878,CU3013,DR795,2025-06-22,17,Delhi,Karol Bagh,North,Bike,Website,2.7,12,8.6,23.22,0.0,Cash,Paid,16.25,3,City Ride
+TR201179,CU3449,DR793,2025-10-05,16,Jaipur,Vaishali Nagar,North,Bike,App,4.6,20,8.2,37.72,3.77,UPI,Paid,23.76,4,City Ride
+TR200470,CU3141,DR790,2025-01-27,18,Delhi,Dwarka,North,Mini,Call Center,23.4,76,16.02,374.87,0.0,UPI,Paid,292.4,3,City Ride
+TR201166,CU3311,DR775,2025-05-08,14,Kolkata,Howrah,East,Bike,App,42.5,98,7.25,308.12,0.0,UPI,Paid,215.68,4,Airport
+TR200723,CU3256,DR790,2025-06-24,17,Hyderabad,Kukatpally,South,Auto,App,5.3,20,13.29,70.44,0.0,Cash,Paid,52.83,4,City Ride
+TR200467,CU3149,DR746,2025-06-21,13,Bengaluru,Indiranagar,South,Bike,App,2.6,10,7.12,18.51,0.0,UPI,Pending,12.96,3,City Ride
+TR201001,CU3265,DR782,2025-06-05,12,Mumbai,Powai,West,  Mini,App,4.9,16,16.01,78.45,0.0,UPI,Paid,61.19,5,City Ride
+TR200891,CU3350,DR736,2025-01-06,23,Mumbai,Powai,West,Sedan,Website,12.1,47,20.26,245.15,12.26,Card,Paid,186.31,4,City Ride
+TR200123,CU3435,DR782,2025-04-05,14,Delhi,Dwarka,North,Bike,App,4.9,16,6.16,30.18,0.0,UPI,Paid,21.13,4,City Ride
+TR200754,CU3097,DR744,2025-04-01,17,Chennai,Adyar,South,Mini,App,12.6,53,13.6,171.36,8.57,UPI,Paid,126.98,5,Airport
+TR200119,CU3029,DR751,2025-03-02,12,Kolkata,Salt Lake,East,Sedan,App,2.2,11,20.09,44.2,2.21,,Paid,33.59,4,City Ride
+TR200254,CU3566,DR700,2025-03-25,19,Mumbai,Dadar,West,Mini,App,10.5,44,16.14,169.47,16.95,Cash,Paid,118.97,4,City Ride
+TR200265,CU3189,DR767,2025-02-04,13,Hyderabad,Kukatpally,South,Sedan,App,2.5,11,20.05,50.12,2.51,Cash,Paid,38.09,5,City Ride
+TR201102,CU3484,DR741,2025-04-29,7,Chennai,Velachery,South,Mini,Call Center,21.1,76,16.34,344.77,0.0,UPI,Paid,268.92,5,City Ride
+TR200160,CU3498,DR775,2025-10-20,13,Mumbai,Powai,West,Auto,Call Center,32.8,112,12.87,422.14,0.0,UPI,Paid,316.61,5,City Ride
+TR200446,CU3552,DR794,2025-09-11,17,bengaluru,Indiranagar,South,Sedan,App,16.6,45,16.3,270.58,0.0,UPI,Paid,216.46,4,Outstation
+TR200286,CU3036,DR794,2025-07-17,17,,Koramangala,South,Sedan,App,6.8,20,16.05,109.14,0.0,Wallet,Pending,87.31,5,City Ride
+TR200875,CU3006,DR731,2025-11-26,18,Bengaluru,Indiranagar,South,Mini,App,44.8,121,16.7,748.16,0.0,Card,Paid,583.56,4,City Ride
+TR200447,CU3474,DR710,2025-11-21,11,Kolkata,Salt Lake,East,Auto,Website,23.6,65,12.56,296.42,14.82,Wallet,Paid,211.2,5,City Ride
+TR200417,CU3468,DR769,2025-08-12,17,Pune,Hinjewadi,West,Sedan,App,15.7,52,18.2,285.74,28.57,UPI,Paid,205.74,4,Airport
+TR200575,CU3587,DR791,2025-01-14,1,Delhi,Dwarka,North,Mini,App,21.1,62,16.51,348.36,0.0,Wallet,Paid,271.72,3,Airport
+TR201043,CU3349,DR705,2025-03-19,2,Pune,Viman Nagar,West,Sedan,App,8.7,30,16.72,145.46,7.27,UPI,Paid,110.55,5,City Ride
+TR200869,CU3035,DR719,2025-03-22,6, bengaluru ,Whitefield,South,Bike,App,25.2,80,7.98,201.1,0.0,Cash,Paid,140.77,4,City Ride
+TR200476,CU3351,DR751,2025-08-13,21,Mumbai,Dadar,West,Sedan,App,17.8,70,19.71,350.84,0.0,Cash,Paid,280.67,5,Airport
+TR200159,CU3250,DR751,2025-01-29,15,Kolkata,Howrah,East,Sedan,App,2.0,10,19.07,38.14,0.0,Wallet,Paid,30.51,5,City Ride
+TR200481,CU3595,DR761,2025-06-08,18,Jaipur,C Scheme,North,Bike,App,2.3,8,8.3,19.09,0.0,Cash,Paid,13.36,5,City Ride
+TR200248,CU3566,DR704,2025-04-26,17,Chennai,Velachery,South,Bike,App,3.1,14,6.41,19.87,1.99,UPI,Paid,12.52,4,City Ride
+TR200906,CU3458,DR725,2025-06-04,7,Mumbai,Bandra,West, mini ,App,4.0,16,13.76,55.04,2.75,UPI,Paid,40.79,4,Outstation
+TR200685,CU3154,DR722,2025-05-10,6, pune ,Viman Nagar,West,Auto,App,4.7,17,12.5,58.75,5.88,Card,Paid,39.65,5,Airport
+TR200799,CU3104,DR792,2025-05-29,15,Jaipur,C Scheme,North,Bike,App,2.5,9,7.86,19.65,0.0,Cash,Paid,13.75,,City Ride
+TR200808,CU3071,DR767,2025-01-25,20,Delhi,Karol Bagh,North,Bike,App,6.3,25,8.97,56.51,0.0,UPI,Paid,39.56,5,City Ride
+TR201184,CU3294,DR788,2025-04-17,9,Chennai,Adyar,South,Sedan,App,2.8,13,16.99,47.57,2.38,UPI,Paid,36.15,5,City Ride
+TR200379,CU3184,DR779,2025-04-01,9,Hyderabad,Hitech City,South,Bike,App,6.1,26,7.39,45.08,0.0,Cash,Paid,31.56,3,City Ride
+TR200494,CU3132,DR790,2025-07-05,18,Chennai,Adyar,South,Bike,App,1.9,8,8.63,16.4,0.0,Wallet,Paid,11.48,5,City Ride
+TR200454,CU3133,DR732,2025-09-21,7,Bengaluru,Indiranagar,South,Auto,App,3.8,12,13.21,50.2,5.02,UPI,Paid,33.89,2,Airport
+TR200576,CU3317,DR810,2025-01-31,9,Mumbai,Bandra,West,Mini,App,22.8,74,13.56,309.17,0.0,Wallet,Paid,241.15,5,City Ride
+TR200037,CU3158,DR715,2025-05-06,16,Hyderabad,Secunderabad,South,Premium,App,4.6,18,25.65,117.99,0.0,Card,Paid,94.39,4,City Ride
+TR200414,CU3435,DR753,2025-10-14,6,,Powai,West,Premium,App,9.3,30,29.91,278.16,0.0,UPI,Paid,222.53,5,Airport
+TR200706,CU3274,DR807,2025-10-14,9,Jaipur,C Scheme,North,Mini,App,8.2,22,16.19,132.76,0.0,Wallet,Paid,103.55,5,City Ride
+TR201061,CU3407,DR710,2025-10-15,9,Hyderabad,Hitech City,South,Bike,App,3.8,16,7.78,29.56,0.0,Card,Paid,20.69,1,City Ride
+TR200952,CU3287,DR718,2025-10-26,22,Mumbai,Andheri,West,Premium,App,3.9,14,24.62,96.02,0.0,Card,Paid,76.82,3,City Ride
+TR200200,CU3257,DR749,2025-06-30,15,Pune,Kothrud,West,Auto,App,8.2,35,11.62,95.28,0.0,UPI,Paid,71.46,5,Airport
+TR200275,CU3240,DR787,2025-02-08,19,Hyderabad,Kukatpally,South,Sedan,App,2.2,11,16.26,35.77,0.0,UPI,Paid,28.62,5,City Ride
+TR200253,CU3090,DR783,2025-03-26,3,Mumbai,Dadar,West,Auto,App,5.5,24,11.73,64.52,6.45,Cash,Pending,43.55,2,City Ride
+TR200522,CU3207,DR785,2025-11-01,3,Hyderabad,Kukatpally,South,Bike,App,3.8,14,7.81,29.68,2.97,Wallet,Paid,18.7,5,City Ride
+TR201157,CU3465,DR776,2025-11-12,18,Mumbai,Dadar,West,Auto,App,17.4,55,12.35,214.89,10.74,UPI,Paid,153.11,4,City Ride
+TR200879,CU3495,DR816,2025-11-26,17,Chennai,Velachery,South,Sedan,App,3.2,12,20.95,67.04,0.0,Wallet,Pending,53.63,3,Airport
+TR200382,CU3269,DR754,2025-02-28,11,Chennai,T Nagar,South,MINI,App,20.3,73,13.8,280.14,14.01,Cash,Paid,207.58,5,City Ride
+TR200805,CU3048,DR751,2025-11-14,21,Jaipur,C Scheme,North,Sedan,App,17.0,63,19.82,336.94,0.0,UPI,Paid,269.55,3,City Ride
+TR200789,CU3029,DR723,2025-02-23,17,Bengaluru,Koramangala,South,Mini,App,43.9,103,15.77,692.3,0.0,Card,Pending,539.99,5,Outstation
+TR200803,CU3271,DR813,2025-07-20,14,Jaipur,Malviya Nagar,North,Mini,Website,25.4,103,15.78,400.81,0.0,Cash,Paid,312.63,1,City Ride
+TR200690,CU3457,DR704,2025-04-20,16,DELHI,Karol Bagh,North,Mini,App,12.5,42,13.77,172.12,0.0,UPI,Paid,134.25,4,City Ride
+TR200924,CU3297,DR801,2025-08-12,8,Chennai,Adyar,South,Mini,App,22.7,53,14.59,331.19,0.0,Cash,Paid,258.33,5,Outstation
+TR201040,CU3391,DR820,2025-04-26,10,Mumbai,Dadar,West,Mini,App,44.1,125,15.24,672.08,67.21,UPI,Paid,471.8,4,City Ride
+TR200514,CU3407,DR811,2025-11-27,12,Chennai,Adyar,South,Sedan,Call Center,23.6,79,17.12,404.03,40.4,UPI,Paid,290.9,1,Airport
+TR200139,CU3205,DR719,2025-10-27,11,Delhi,Saket,North,Auto,App,18.6,59,12.41,,0.0,Wallet,Paid,173.12,3,City Ride
+TR200096,CU3155,DR741,2025-05-25,19,Pune,Hinjewadi,West,Auto,App,5.4,20,11.43,61.72,0.0,Wallet,Paid,46.29,5,City Ride
+TR200305,CU3515,DR739,2025-12-03,21,Pune,Kothrud,West,Mini,Website,4.1,17,14.17,58.1,5.81,UPI,Paid,40.79,1,City Ride
+TR200553,CU3528,DR732,2025-05-14,20,Bengaluru,Whitefield,South,Mini,App,14.2,58,14.98,212.72,0.0,UPI,Paid,165.92,3,City Ride
+TR200585,CU3264,DR752,2025-03-14,8,Delhi,Connaught Place,North,Mini,App,17.0,47,14.71,250.07,0.0,Card,Paid,195.05,4,Airport
+TR200066,CU3377,DR810,2025-01-27,13,Bengaluru,Electronic City,South,Sedan,App,4.4,13,18.72,82.37,4.12,Wallet,Paid,62.6,4,City Ride
+TR200151,,DR802,2025-09-04,7,Kolkata,Park Street,East,Mini,Call Center,9.3,38,15.01,139.59,0.0,Cash,Paid,108.88,4,City Ride
+TR200058,CU3325,DR800,2025-03-17,19,Hyderabad,Kukatpally,South,Auto,App,10.9,38,12.65,137.89,0.0,Card,Paid,103.42,5,City Ride
+TR200051,CU3380,DR757,2025-09-28,19,Delhi,Saket,North,Auto,App,19.8,68,11.23,222.35,0.0,Wallet,Paid,166.76,5,City Ride
+TR200376,CU3422,DR742,2025-10-20,6,Delhi,Connaught Place,North,Sedan,App,9.7,25,17.97,174.31,0.0,UPI,Paid,139.45,4,City Ride
+TR200609,CU3445,DR810,2025-10-18,14,Hyderabad,Secunderabad,South,Bike,Call Center,7.6,19,6.08,46.21,4.62,Cash,Paid,29.11,5,City Ride
+TR200987,CU3100,DR741,2025-10-16,19,Mumbai,Bandra,West,Auto,App,12.8,48,11.68,149.5,0.0,Card,Paid,112.12,3,City Ride
+TR200625,CU3339,DR804,2025-06-16,19,Bengaluru,Koramangala,South,Mini,App,12.9,52,13.18,170.02,0.0,UPI,Paid,132.62,5,City Ride
+TR200976,CU3187,DR753,2025-10-24,9,Hyderabad,Banjara Hills,South,Mini,App,12.3,35,14.22,174.91,8.75,UPI,Paid,129.6,5,City Ride
+TR200280,CU3107,DR773,2025-12-26,4,Chennai,Adyar,South,Auto,App,24.1,83,13.18,317.64,0.0,Cash,Paid,238.23,5,Airport
+TR200603,CU3437,DR760,2025-12-11,14,Bengaluru,Koramangala,South,Sedan,App,22.4,77,17.48,391.55,0.0,UPI,Paid,313.24,3,City Ride
+TR200135,CU3189,DR711,2025-10-20,7,Hyderabad,Secunderabad,South,Bike,App,7.4,31,8.92,66.01,6.6,Cash,Paid,41.59,3,City Ride
+TR200048,CU3060,DR760,2025-03-25,23,Chennai,Adyar,South,Bike,App,3.9,13,6.61,25.78,1.29,Cash,Paid,17.14,5,Airport
+TR200262,,DR788,2025-12-14,13,Hyderabad,Banjara Hills,South,Auto,App,19.7,64,12.6,248.22,0.0,UPI,Paid,186.16,5,City Ride
+TR200008,CU3111,DR704,2025-11-19,21,Bengaluru,Indiranagar,South,Bike,App,2.8,12,8.65,24.22,2.42,UPI,Paid,15.26,5,Airport
+TR201015,CU3233,DR708,2025-10-07,12,Pune,Kothrud,West,Sedan,App,5.0,16,20.15,100.75,0.0,UPI,Paid,80.6,5,Airport
+TR200866,CU3408,DR801,2025-03-04,17,Kolkata,Park Street,East,Premium,App,3.7,17,22.63,83.73,4.19,UPI,Paid,63.63,5,City Ride
+TR200203,CU3092,DR722,2025-08-04,13,Bengaluru,Whitefield,South,Bike,App,3.2,11,7.87,25.18,2.52,UPI,Paid,15.86,4,City Ride
+TR200472,CU3528,DR798,2025-06-10,15,Bengaluru,Koramangala,South,Mini,App,15.3,50,13.56,207.47,0.0,Cash,Paid,161.83,4,Outstation
+TR200129,CU3572,DR723,2025-07-30,16,Bengaluru,Electronic City,South,Auto,Website,41.5,128,12.51,519.16,0.0,UPI,Paid,389.37,,City Ride
+TR200289,CU3287,DR759,2025-05-28,15,Bengaluru,Whitefield,South,Auto,App,40.7,152,14.02,570.61,0.0,Card,Paid,427.96,5,City Ride
+TR201103,CU3004,DR706,2025-12-05,11,Chennai,Velachery,South,Auto,App,10.4,26,12.05,125.32,0.0,UPI,Paid,93.99,5,City Ride
+TR200212,CU3208,DR711,2025-04-13,21,Hyderabad,Banjara Hills,South,Premium,Website,7.1,25,29.23,207.53,0.0,Card,Paid,166.02,,City Ride
+TR200132,CU3399,DR720,2025-10-15,7,  Pune,Viman Nagar,West,Auto,Website,13.2,46,12.14,160.25,0.0,Wallet,Paid,120.19,4,City Ride
+TR200108,CU3354,DR810,2025-10-09,22,Delhi,Saket,North,Sedan,Website,3.5,11,20.06,70.21,0.0,UPI,Paid,56.17,5,City Ride
+TR201083,CU3350,DR803,2025-03-04,9,Jaipur,Malviya Nagar,North,Sedan,App,19.6,72,19.4,380.24,38.02,Cash,Paid,273.78,4,City Ride
+TR200811,CU3061,DR750,2025-04-07,7,Delhi,Karol Bagh,North,Mini,App,22.9,88,14.06,321.97,0.0,Cash,Paid,251.14,3,City Ride
+TR200238,CU3473,DR812,2025-10-11,23,Mumbai,Dadar,West,Auto,Call Center,13.7,38,14.44,197.83,19.78,UPI,Pending,133.54,5,City Ride
+TR200610,CU3361,DR813,2025-11-08,13,Chennai,Velachery,South,Bike,App,34.4,122,6.31,217.06,0.0,Wallet,Paid,151.94,5,Outstation
+TR200735,CU3409,DR773,2025-08-13,8,Bengaluru,Whitefield,South,Auto,App,9.0,28,11.61,104.49,0.0,UPI,Paid,78.37,4,City Ride
+TR200333,CU3123,DR754,2025-12-03,11,Bengaluru,Electronic City,South,Sedan,Website,24.0,74,20.85,500.4,25.02,Card,Pending,380.3,5,City Ride
+TR200258,CU3245,DR760,2025-07-20,10,Bengaluru,Indiranagar,South,Mini,App,13.3,49,15.59,207.35,0.0,Cash,Paid,161.73,5,City Ride
+TR200549,CU3416,DR769,2025-08-22,16,Chennai,Velachery,South,Sedan,App,33.2,99,17.69,587.31,58.73,UPI,Paid,422.86,5,City Ride
+TR201180,CU3451,DR710,2025-05-29,21,Bengaluru,Koramangala,South,Auto,App,10.9,36,13.37,145.73,0.0,Card,Paid,109.3,5,City Ride
+TR200380,CU3198,DR721,2025-09-12,20,  Mumbai,Bandra,West,Auto,App,6.5,18,12.59,81.83,8.18,Cash,Paid,55.24,4,Airport
+TR200146,CU3434,DR802,2025-08-13,18,Chennai,Adyar,South,Mini,App,28.3,68,13.69,387.43,0.0,Wallet,Paid,302.2,5,City Ride
+TR200821,CU3057,DR726,2025-05-19,5,Pune,Hinjewadi,West,mini,App,31.6,83,15.49,489.48,48.95,Card,Paid,343.61,4,City Ride
+TR200686,CU3016,DR710,2025-07-24,19,Hyderabad,Secunderabad,South,Auto,App,8.1,22,13.95,112.99,5.65,UPI,Paid,80.5,4,City Ride
+TR201137,CU3595,DR789,2025-07-23,19,Delhi,Dwarka,North,Bike,App,3.3,15,8.74,28.84,0.0,UPI,Paid,20.19,5,City Ride
+TR200833,CU3548,DR788,2025-10-19,17,Chennai,Velachery,South,Bike,App,3.0,14,8.22,24.66,0.0,Cash,Paid,17.26,4,Airport
+TR201092,CU3589,DR820,2025-10-07,15,Mumbai,Bandra,West,Premium,App,3.9,18,23.54,91.81,9.18,Cash,Pending,66.1,5,City Ride
+TR201149,CU3270,DR758,2025-12-23,21,Hyderabad,Banjara Hills,South,Premium,App,8.5,35,28.7,243.95,0.0,UPI,Paid,195.16,5,City Ride
+TR200396,CU3224,DR759,2025-04-11,18,Kolkata,Howrah,East,Premium,App,5.3,20,22.21,117.71,0.0,UPI,Paid,94.17,5,City Ride
+TR200377,CU3550,DR706,2025-06-23,14,Chennai,Velachery,South,Mini,Website,6.1,16,16.73,102.05,10.21,Wallet,Paid,71.64,4,City Ride
+TR200230,CU3437,DR740,2025-08-14,11,Kolkata,Howrah,East,Bike,Call Center,2.0,9,6.78,13.56,0.0,UPI,Paid,9.49,5,City Ride
+TR200958,CU3177,DR803,2025-04-16,10,Pune,Kothrud,West,Auto,App,13.3,42,11.42,151.89,0.0,UPI,Paid,113.92,4,City Ride
+TR201115,CU3189,DR766,2025-05-20,18,Hyderabad,Secunderabad,South,Auto,App,44.0,134,12.63,555.72,0.0,Cash,Paid,416.79,4,City Ride
+TR200800,CU3289,DR766,2025-02-26,21,Mumbai,Andheri,West,Mini,App,12.0,30,16.84,202.08,0.0,Cash,Paid,157.62,5,City Ride
+TR200537,CU3462,DR788,2025-06-23,12,Bengaluru,Electronic City,South,Sedan,App,4.6,20,17.43,80.18,0.0,Card,Paid,64.14,5,Outstation
+TR201118,CU3210,DR757,2025-09-17,19,Hyderabad,Secunderabad,South,Premium,Call Center,18.3,64,25.39,464.64,46.46,Card,Pending,334.54,5,City Ride
+TR200448,CU3041,DR759,2025-07-05,19,Bengaluru,Electronic City,South,Premium,App,18.9,48,22.76,430.16,43.02,Wallet,Paid,309.71,4,City Ride
+TR200299,CU3088,DR782,2025-11-17,9,Mumbai,Bandra,West, mini ,Call Center,23.7,61,14.94,354.08,0.0,UPI,Paid,276.18,1,City Ride
+TR200761,CU3354,DR796,2025-05-15,20,  Bengaluru,Indiranagar,South,Bike,App,5.3,22,7.44,39.43,3.94,Card,Paid,24.84,2,City Ride
+TR200560,CU3560,DR708,2025-04-30,23,Hyderabad,Banjara Hills,South,Sedan,App,34.1,137,19.67,670.75,0.0,Wallet,Paid,536.6,,City Ride
+TR200748,CU3213,DR704,2025-09-18,16,Jaipur,Malviya Nagar,North,Auto,App,15.0,43,13.52,202.8,0.0,Card,Paid,152.1,4,City Ride
+TR201105,CU3045,DR752,2025-08-21,23,,Connaught Place,North,Mini,App,24.6,93,16.91,415.99,41.6,UPI,Paid,292.02,4,City Ride
+TR200256,CU3270,DR748,2025-12-15,15,Hyderabad,Banjara Hills,South,Mini,App,9.7,31,15.85,153.74,7.69,Cash,Pending,113.92,5,Airport
+TR200594,CU3362,DR745,2025-10-02,20,Mumbai,Powai,West,Bike,App,5.9,23,8.06,47.55,4.75,UPI,Paid,29.96,4,City Ride
+TR200402,CU3295,DR751,2025-08-13,7,Hyderabad,Banjara Hills,South,Premium,App,4.6,14,27.65,127.19,6.36,Card,Paid,96.66,4,City Ride
+TR200569,CU3157,DR793,2025-05-10,18,Bengaluru,Electronic City,South,Mini,App,8.2,32,13.96,114.47,0.0,Cash,Paid,89.29,5,City Ride
+TR200403,CU3439,DR789,2025-03-31,9,Delhi,Dwarka,North,Premium,App,13.1,46,22.86,299.47,0.0,Wallet,Paid,239.58,4,City Ride
+TR201190,CU3349,DR739,2025-09-03,9,Mumbai,Bandra,West,Bike,App,3.3,13,7.13,23.53,0.0,UPI,Paid,16.47,2,City Ride
+TR201119,CU3297,DR763,2025-10-21,9,Chennai,Velachery,South,Premium,App,7.8,24,23.56,183.77,18.38,UPI,Paid,132.31,4,City Ride
+TR200397,CU3366,DR744,2025-05-03,10,Delhi,Saket,North,Premium,App,5.5,21,25.11,138.1,13.81,UPI,Paid,99.43,5,City Ride
+TR200084,CU3221,DR771,2025-11-09,8,Hyderabad,Secunderabad,South,Auto,App,37.6,150,13.26,498.58,0.0,Cash,Paid,373.94,3,City Ride
+TR200355,CU3188,DR717,2025-04-19,13,Pune,Viman Nagar,West,Mini,App,8.4,34,15.55,130.62,0.0,UPI,Paid,101.88,5,City Ride
+TR200081,CU3157,DR793,2025-01-10,14,Chennai,Adyar,South,Auto,App,19.1,53,13.27,253.46,0.0,UPI,Paid,190.09,3,City Ride
+TR200451,CU3551,DR705,2025-09-22,7,Mumbai,Dadar,West,Sedan,App,35.7,95,17.36,619.75,30.99,Cash,Paid,471.01,3,City Ride
+TR200337,CU3554,DR787,2025-03-23,18,Chennai,Velachery,South,Sedan,App,13.5,37,18.51,249.89,0.0,Card,Paid,199.91,5,City Ride
+TR200198,CU3173,DR731,2025-06-22,17,Delhi,Karol Bagh,North,Sedan,App,22.0,76,17.12,376.64,0.0,UPI,Paid,301.31,5,City Ride
+TR200722,CU3407,DR812,2025-03-25,15,Chennai,Velachery,South,Bike,Call Center,1.8,9,7.41,13.34,0.0,UPI,Paid,9.34,5,Airport
+TR201138,CU3537,DR799,2025-04-28,19,  Pune,Kothrud,West,Bike,App,42.0,110,8.92,374.64,0.0,UPI,Paid,262.25,3,City Ride
+TR200137,CU3531,DR720,2025-01-11,16,Delhi,Connaught Place,North,Premium,App,20.3,58,26.57,539.37,53.94,UPI,Paid,388.34,5,Outstation
+TR200176,CU3457,DR783,2025-08-11,16,Chennai,Velachery,South,Premium,Website,39.2,159,22.55,883.96,0.0,Cash,Paid,707.17,2,City Ride
+TR201182,CU3225,DR779,2025-12-19,14,Bengaluru,Koramangala,South,Mini,App,12.6,52,13.15,165.69,0.0,UPI,Paid,129.24,5,Airport
+TR200818,CU3349,DR734,2025-01-09,18,Kolkata,Park Street,East,Bike,Call Center,7.6,32,6.52,49.55,2.48,Cash,Paid,32.95,5,City Ride
+TR200339,CU3049,DR726,2025-12-15,17,Hyderabad,Banjara Hills,South,Auto,APP,22.5,86,14.71,330.98,33.1,Cash,Paid,223.41,5,City Ride
+TR201154,CU3548,DR730,2025-12-20,7,Kolkata,Park Street,East,Auto,App,24.4,71,11.72,285.97,0.0,Card,Paid,214.48,4,City Ride
+TR200493,CU3366,DR752,2025-02-24,14,Jaipur,Malviya Nagar,North,Auto,App,7.2,26,13.9,100.08,5.0,Card,Paid,71.31,5,Airport
+TR200126,CU3116,DR818,2025-07-02,17,Pune,Hinjewadi,West,Sedan,App,14.6,43,16.59,242.21,0.0,Cash,Paid,193.77,5,Airport
+TR201178,CU3477,DR789,2025-03-09,18,Kolkata,Park Street,East,Sedan,App,19.4,59,20.86,404.68,0.0,Cash,Paid,323.74,,City Ride
+TR200491,CU3571,DR758,2025-05-25,16,Pune,Viman Nagar,West,Bike,App,6.9,29,8.99,62.03,6.2,UPI,Paid,39.08,,City Ride
+TR200979,CU3231,DR819,2025-10-11,15,Kolkata,Howrah,East,Sedan,App,8.5,24,17.01,144.59,14.46,UPI,Paid,104.1,4,City Ride
+TR200555,CU3594,DR749,2025-04-06,9,Bengaluru,Indiranagar,South,Bike, app ,5.0,15,6.36,31.8,0.0,UPI,Paid,22.26,4,City Ride
+TR200353,CU3577,DR704,2025-09-16,7,Bengaluru,Electronic City,South,Mini,App,14.3,49,14.29,204.35,10.22,Cash,Paid,151.42,5,Outstation
+TR200033,CU3384,DR701,2025-10-22,2,Hyderabad,Hitech City,South,Auto,App,16.2,46,12.03,194.89,9.74,Cash,Paid,138.86,5,City Ride
+TR200157,CU3568,DR803,2025-07-28,21,Mumbai,Powai,West,Auto,App,20.2,62,-11.32,228.66,11.43,UPI,Paid,162.92,5,City Ride
+TR200519,CU3153,DR792,2025-02-22,10,Hyderabad,Secunderabad,South,Sedan,Website,4.2,14,18.51,77.74,7.77,UPI,Paid,55.98,4,City Ride
+TR200580,CU3354,DR702,2025-11-26,16,Bengaluru,Whitefield,South,Premium,App,13.5,34,24.73,333.86,0.0,UPI,Pending,267.09,5,City Ride
+TR200943,CU3453,DR781,2025-09-20,14,Bengaluru,Whitefield,South,Premium,Website,7.5,32,23.35,175.12,0.0,UPI,Paid,140.1,2,City Ride
+TR200184,CU3009,DR754,2025-09-18,7,Hyderabad,Banjara Hills,South,Mini,App,2.1,8,16.95,35.59,0.0,UPI,Paid,27.76,4,City Ride
+TR200268,CU3532,DR754,2025-07-28,13, jaipur ,Vaishali Nagar,North,Mini,App,12.3,47,14.26,175.4,0.0,UPI,Paid,136.81,4,City Ride
+TR200946,CU3132,DR768,2025-06-14,10,Bengaluru,Electronic City,South,Mini,Call Center,2.1,9,14.91,31.31,0.0,Card,Paid,24.42,5,City Ride
+TR201007,CU3590,DR809,2025-01-30,6,Mumbai,Dadar,West,Sedan,App,10.3,35,18.64,191.99,0.0,Cash,Paid,153.59,1,City Ride
+TR200059,CU3551,DR815,2025-02-24,15,Bengaluru,Indiranagar,South,Mini,App,6.7,21,14.17,94.94,0.0,Cash,Paid,74.05,4,City Ride
+TR200583,CU3567,DR772,2025-07-21,18,Bengaluru,Electronic City,South,Mini,App,22.4,62,13.86,310.46,31.05,,Paid,217.94,2,City Ride
+TR200073,CU3032,DR766,2025-01-02,21,Jaipur,Vaishali Nagar,North,Mini,App,13.5,53,15.22,205.47,0.0,UPI,Paid,160.27,4,City Ride
+TR200817,CU3095,DR745,2025-07-21,10,Pune,Hinjewadi,West,Auto,App,5.9,18,-12.92,76.23,0.0,Wallet,Paid,57.17,1,City Ride
+TR200545,CU3034,DR759,2025-01-04,12,Pune,Viman Nagar,West,Sedan,App,12.5,50,16.48,206.0,0.0,Cash,Pending,164.8,4,City Ride
+TR201041,CU3526,DR797,2025-01-07,1,Bengaluru,Koramangala,South,Bike,Call Center,31.6,81,6.97,220.25,0.0,UPI,Paid,154.17,5,City Ride
+TR200469,CU3561,DR786,2025-06-09,17,Chennai,Velachery,South,Premium,Call Center,26.9,97,29.99,806.73,0.0,UPI,Paid,645.38,3,City Ride
+TR201085,CU3220,DR700,2025-01-24,17,Pune,Kothrud,West,Auto,App,21.2,67,14.57,308.88,0.0,UPI,Paid,231.66,5,City Ride
+TR200388,CU3390,DR720,2025-03-08,5,Hyderabad,Secunderabad,South,Auto,App,6.2,21,13.55,84.01,0.0,Card,Paid,63.01,5,City Ride
+TR200894,CU3188,DR707,2025-08-20,18,Kolkata,Salt Lake,East,Sedan,App,20.4,55,17.19,350.68,0.0,UPI,Paid,280.54,2,City Ride
+TR201046,CU3129,DR712,2025-08-21,19,Hyderabad,Hitech City,South,Sedan,App,5.2,18,19.41,100.93,0.0,UPI,Paid,80.74,4,Airport
+TR200313,CU3136,DR704,2025-10-23,11,Bengaluru,Koramangala,South,Bike,App,2.9,12,8.04,23.32,0.0,Cash,Paid,16.32,5,City Ride
+TR200836,CU3335,DR763,2025-05-03,15,Delhi,Connaught Place,North,Auto,App,24.7,57,11.33,279.85,27.99,Card,Paid,188.9,5,City Ride
+TR200149,CU3509,DR773,2025-10-14,7,Pune,Viman Nagar,West,Auto,App,19.1,46,13.6,259.76,0.0,Cash,Paid,194.82,5,City Ride
+TR201161,CU3313,DR725,2025-11-19,18,Chennai,Velachery,South,Mini,App,12.4,42,16.82,208.57,0.0,Cash,Paid,162.68,4,City Ride
+TR200030,CU3086,DR802,2025-07-04,18,Bengaluru,Electronic City,South,Auto,App,11.3,31,11.66,131.76,13.18,Card,Paid,88.93,4,City Ride
+TR200707,CU3318,DR736,2025-09-27,18,Chennai,T Nagar,South,Auto,App,5.4,22,11.14,60.16,3.01,UPI,Paid,42.86,5,City Ride
+TR200970,CU3210,DR742,2025-03-21,2,Mumbai,Bandra,West,Sedan,App,23.1,53,-17.15,396.16,0.0,UPI,Paid,316.93,5,City Ride
+TR201054,CU3037,DR807,2025-08-17,2,Bengaluru,Electronic City,South,Sedan, app ,7.2,27,18.13,130.54,0.0,UPI,Paid,104.43,5,City Ride
+TR200114,CU3074,DR746,2025-01-16,18,Delhi,Saket,North,Bike,App,5.8,19,8.69,50.4,0.0,Cash,Paid,35.28,4,City Ride
+TR200190,CU3261,DR770,2025-07-03,22,Bengaluru,Electronic City,South,Mini,Website,3.3,12,13.14,43.36,2.17,Cash,Paid,32.13,5,City Ride
+TR200250,CU3537,DR788,2025-10-27,17,Hyderabad,Kukatpally,South,Sedan,app,15.8,40,18.4,290.72,29.07,UPI,Paid,209.32,2,City Ride
+TR200222,CU3499,DR706,2025-06-21,15,Chennai,Velachery,South,Mini,Call Center,3.7,14,16.34,60.46,0.0,UPI,Paid,47.16,4,City Ride
+TR201080,CU3493,DR788,2025-10-28,1,Kolkata,Howrah,East,SEDAN,Website,12.7,53,20.32,258.06,0.0,UPI,Pending,206.45,3,City Ride
+TR201116,CU3080,DR802,2025-08-31,23,Pune,Viman Nagar,West,Bike,App,3.1,14,7.38,22.88,2.29,Card,Paid,14.41,4,City Ride
+TR200852,CU3435,DR776,2025-12-17,19,Hyderabad,Banjara Hills,South,Auto,Website,3.4,13,12.85,43.69,2.18,Card,Paid,31.13,4,City Ride
+TR200406,CU3376,DR720,2025-03-30,17,Jaipur,C Scheme,North,Bike,Website,5.0,15,8.42,42.1,2.1,UPI,Paid,28.0,4,City Ride
+TR200067,CU3024,DR741,2025-09-24,19,Hyderabad,Kukatpally,South,Bike,App,2.3,11,8.85,20.35,0.0,UPI,Paid,14.24,,City Ride
+TR200486,CU3027,DR738,2025-04-06,21,Mumbai,Bandra,West,Mini,Website,3.5,13,15.85,55.48,2.77,Cash,Paid,41.11,1,City Ride
+TR200408,CU3576,DR705,2025-04-11,9,Mumbai,Powai,West,Sedan,App,9.2,39,17.36,159.71,0.0,UPI,Paid,127.77,4,City Ride
+TR200683,CU3001,DR753,2025-07-20,8,Chennai,Adyar,South,Bike,App,39.9,136,7.43,296.46,29.65,UPI,Paid,186.77,2,City Ride
+TR200929,CU3020,DR762,2025-04-20,17,Bengaluru,Electronic City,South,Premium,App,6.7,25,25.61,171.59,0.0,Cash,Pending,137.27,5,Outstation
+TR201059,CU3301,DR777,2025-12-18,16,  Hyderabad,Banjara Hills,South,Mini,App,23.8,89,14.0,333.2,0.0,UPI,Pending,259.9,5,City Ride
+TR200634,CU3387,DR743,2025-10-11,13,Mumbai,Dadar,West,Bike,App,1.9,9,6.09,11.57,1.16,UPI,Paid,7.29,5,City Ride
+TR200315,CU3232,DR767,2025-05-07,7,Chennai,T Nagar,South,Auto,App,4.9,14,14.08,68.99,0.0,Wallet,Pending,51.74,,City Ride
+TR200208,CU3291,DR782,2025-03-26,12,Bengaluru,Indiranagar,South,Bike,App,7.4,25,6.02,44.55,0.0,Wallet,Paid,31.18,4,City Ride
+TR200574,CU3017,DR815,2025-04-27,8,Delhi,Connaught Place,North,Auto,Website,41.7,134,12.79,533.34,53.33,Card,Paid,360.01,4,City Ride
+TR200115,CU3410,DR801,2025-07-22,12,Kolkata,Howrah,East,Premium,Call Center,7.3,25,22.88,167.02,0.0,UPI,Paid,133.62,4,City Ride
+TR200738,CU3152,DR769,2025-01-28,6,Hyderabad,Secunderabad,South,Sedan,App,12.9,42,19.62,253.1,0.0,UPI,Paid,202.48,3,City Ride
+TR200880,CU3519,DR717,2025-12-05,18,KOLKATA,Park Street,East,Auto,App,6.3,21,14.24,89.71,8.97,UPI,Paid,60.55,5,Airport
+TR200895,CU3168,DR726,2025-01-10,10,Pune,Hinjewadi,West,Sedan,App,24.1,87,17.96,432.84,0.0,UPI,Paid,346.27,5,City Ride
+TR200874,CU3151,DR774,2025-11-01,14,Hyderabad,Secunderabad,South,Sedan,Call Center,4.1,12,18.35,75.23,7.52,Card,Paid,54.17,5,City Ride
+TR200510,CU3180,DR716,2025-03-05,6,Mumbai,Andheri,West,Auto,Website,23.8,94,12.26,291.79,0.0,Card,Paid,218.84,3,City Ride
+TR200954,CU3133,DR712,2025-12-08,16,Delhi  ,Dwarka,North,Mini,Website,25.5,87,16.63,424.06,42.41,Card,Paid,297.69,5,City Ride
+TR200321,CU3417,DR707,2025-10-27,23,Bengaluru,Electronic City,South,Mini,App,22.9,91,16.9,387.01,19.35,Card,Paid,286.77,5,City Ride
+TR201163,CU3486,DR816,2025-09-21,16,Delhi,Karol Bagh,North,Sedan,Call Center,2.8,10,19.06,53.37,0.0,Cash,Paid,42.7,4,City Ride
+TR200556,CU3576,DR717,2025-03-05,16,Delhi,Dwarka,North,Premium,Website,8.7,23,24.01,208.89,20.89,Cash,Paid,150.4,4,Airport
+TR200955,CU3096,DR759,2025-09-25,7,Pune,Hinjewadi,West,Auto,App,23.3,66,11.72,273.08,13.65,Card,Paid,194.57,4,City Ride
+TR200647,CU3580,DR723,2025-04-26,15,Chennai,Adyar,South,Bike,App,5.6,17,7.79,43.62,4.36,UPI,Paid,27.48,3,City Ride
+TR201170,CU3549,DR815,2025-10-30,7,hyderabad,Banjara Hills,South,Bike,App,7.1,18,8.86,62.91,3.15,UPI,Pending,41.83,5,Airport
+TR200599,CU3594,DR740,2025-03-30,16,Mumbai,Bandra,West,Auto,App,23.4,75,12.39,289.93,28.99,Wallet,Paid,195.7,5,City Ride
+TR200102,CU3209,DR702,2025-03-15,11,Hyderabad,Kukatpally,South,Bike,App,33.0,120,6.16,203.28,0.0,UPI,Paid,142.3,5,Outstation
+TR200060,CU3085,DR717,2025-09-22,23,Pune,Hinjewadi,West,Premium,App,18.3,57,26.54,485.68,0.0,Cash,Paid,388.54,5,City Ride
+TR200018,CU3229,DR711,2025-06-27,15,Hyderabad,Banjara Hills,South,Auto,Call Center,23.8,86,14.99,356.76,0.0,UPI,Paid,267.57,5,City Ride
+TR200269,CU3535,DR805,2025-02-09,19,Delhi,Saket,North,Bike,WEBSITE,42.6,165,6.21,264.55,0.0,UPI,Paid,185.19,3,City Ride
+TR200947,CU3304,DR737,2025-05-08,21,Hyderabad,Secunderabad,South,Mini,App,10.9,36,15.07,164.26,8.21,UPI,Paid,121.72,1,Outstation
+TR200967,CU3071,DR768,2025-04-08,14,Hyderabad,Hitech City,South,Sedan,App,17.6,52,20.66,363.62,0.0,Cash,Paid,290.9,5,City Ride
+TR200335,CU3589,DR745,2025-01-12,10,Bengaluru,Electronic City,South,Sedan,App,12.8,46,19.1,244.48,0.0,Card,Paid,195.58,5,City Ride
+TR200729,CU3257,DR759,2025-12-06,17,Bengaluru,Indiranagar,South,Premium,Call Center,16.3,40,27.7,451.51,22.58,Card,Paid,343.14,5,City Ride
+TR200421,CU3321,DR706,2025-03-21,17,Hyderabad,Kukatpally,South,Mini,App,3.3,15,15.58,51.41,0.0,,Paid,40.1,5,City Ride
+TR201123,CU3030,DR816,2025-01-08,9,Bengaluru,Whitefield,South,Mini,App,2.7,10,16.78,45.31,2.27,UPI,Paid,33.57,5,City Ride
+TR200075,CU3515,DR756,2025-01-27,16,Bengaluru,Indiranagar,South,Premium,Website,22.1,52,23.21,,0.0,Cash,Paid,410.35,5,City Ride
+TR200682,CU3547,DR796,2025-01-17,20,Delhi,Saket,North,Mini,Call Center,16.7,53,15.47,258.35,0.0,UPI,Paid,201.51,4,City Ride
+TR200241,CU3278,DR738,2025-08-23,13,Bengaluru,Whitefield,South,Bike,Call Center,7.9,33,7.29,57.59,0.0,Card,Paid,40.31,4,City Ride
+TR200202,CU3084,DR801,2025-09-03,3,Chennai,Velachery,South,Auto,App,16.7,40,12.3,205.41,0.0,UPI,Paid,154.06,4,City Ride
+TR201181,CU3552,DR752,2025-11-09,14,Bengaluru,Whitefield,South,Sedan,APP,13.5,33,20.88,281.88,28.19,Cash,Paid,202.95,1,Airport
+TR200278,CU3076,DR758,2025-01-15,17,Mumbai,Powai,West,Auto,Call Center,2.8,11,14.85,41.58,2.08,Cash,Paid,29.62,4,City Ride
+TR200534,CU3339,DR808,2025-01-05,14,Delhi,Saket,North,Mini,Website,15.8,64,14.57,230.21,0.0,UPI,Paid,179.56,5,City Ride
+TR201074,CU3568,DR706,2025-08-15,14,Pune,Hinjewadi,West,Auto,App,22.9,69,13.32,305.03,15.25,UPI,Paid,217.33,5,City Ride
+TR200823,CU3251,DR741,2025-09-03,5,Hyderabad,Hitech City,South,Sedan,App,24.0,67,17.04,408.96,0.0,Cash,Paid,327.17,4,City Ride
+TR201108,CU3306,DR743,2025-01-20,5,Mumbai,Powai,West,Premium,App,21.5,66,23.13,497.29,0.0,UPI,Paid,397.83,3,City Ride
+TR200973,CU3051,DR793,2025-03-11,16,Kolkata,Park Street,East,Auto,App,20.0,53,14.1,282.0,0.0,Cash,Paid,211.5,5,City Ride
+TR200101,CU3218,DR794,2025-07-06,16,Mumbai,Bandra,West,Auto,App,12.3,46,11.27,138.62,0.0,Cash,Paid,103.97,4,City Ride
+TR201048,CU3276,DR720,2025-02-13,18,Bengaluru,Whitefield,South,Bike,App,6.2,19,7.64,47.37,0.0,Card,Pending,33.16,4,City Ride
+TR200019,CU3209,DR712,2025-07-12,15,Mumbai,Andheri,West,Premium,App,17.0,67,28.56,485.52,0.0,Cash,Paid,388.42,1,Outstation
+TR200564,CU3107,DR704,2025-04-27,13,Bengaluru,Whitefield,South,Mini,App,6.7,22,13.43,89.98,0.0,UPI,Pending,70.18,5,City Ride
+TR200429,CU3586,DR820,2025-11-18,6,Chennai,Velachery,South,Sedan,App,-1.5,36,17.19,197.69,0.0,Card,Paid,158.15,4,Airport
+TR200624,CU3422,DR734,2025-02-04,6,Jaipur,C Scheme,North,Bike,App,3.6,16,6.71,24.16,1.21,UPI,Paid,16.06,5,City Ride
+TR200249,CU3087,DR788,2025-02-24,21,Mumbai,Bandra,West,Auto,App,8.7,35,13.07,113.71,5.69,Cash,Pending,81.02,5,City Ride
+TR200187,CU3030,DR733,2025-12-02,6,Mumbai,Bandra,West,Bike,App,5.6,22,6.97,39.03,3.9,UPI,Paid,24.59,5,Airport
+TR201104,CU3490,DR714,2025-09-07,1,Mumbai,Dadar,West,Auto,App,2.1,10,12.57,26.4,1.32,Cash,Paid,18.81,4,City Ride
+TR200849,CU3443,DR743,2025-12-12,11,Chennai,T Nagar,South,Mini,App,24.7,79,14.61,360.87,0.0,UPI,Paid,281.48,3,City Ride
+TR200354,CU3234,DR810,2025-02-24,6,Bengaluru,Indiranagar,South,Bike,App,3.9,13,6.21,24.22,2.42,Wallet,Paid,15.26,2,City Ride
+TR200046,CU3345,DR803,2025-11-29,12,PUNE,Kothrud,West,Bike,App,6.1,21,8.72,53.19,0.0,Card,Paid,37.23,4,City Ride
+TR200971,CU3362,DR751,2025-03-04,9,Bengaluru,Whitefield,South,Auto,App,6.0,20,12.02,72.12,3.61,UPI,Paid,51.38,2,Airport
+TR200635,CU3550,DR811,2025-06-26,9,Hyderabad,Kukatpally,South,Bike,App,3.0,9,7.07,21.21,0.0,Card,Pending,14.85,4,Outstation
+TR201097,CU3430,DR762,2025-10-06,15,Delhi,Dwarka,North,Sedan,App,22.3,56,17.39,387.8,19.39,UPI,Paid,294.73,4,City Ride
+TR200985,CU3541,DR778,2025-01-17,9,Delhi,Dwarka,North,Bike,Call Center,6.4,24,6.51,41.66,0.0,UPI,Paid,29.16,5,City Ride
+TR200604,CU3282,DR709,2025-11-21,20,Hyderabad,Hitech City,South,Sedan,Call Center,16.2,60,18.32,296.78,0.0,Cash,Paid,237.42,2,City Ride
+TR200063,CU3249,DR772,2025-07-30,13,Delhi,Dwarka,North,Bike,App,2.4,11,7.71,18.5,0.0,UPI,Paid,12.95,4,City Ride
+TR200706,CU3274,DR807,2025-10-14,9,Jaipur,C Scheme,North,Mini,App,8.2,22,16.19,132.76,0.0,Wallet,Paid,103.55,5,City Ride
+TR200194,CU3151,DR756,2025-10-01,6,Hyderabad,Secunderabad,South,Sedan,App,17.6,53,16.75,294.8,14.74,,Paid,224.05,2,City Ride
+TR200276,CU3507,DR805,2025-06-28,10,Bengaluru,Whitefield,South,Premium,App,3.4,14,27.26,92.68,0.0,Card,Paid,74.14,5,City Ride
+TR200942,CU3506,DR746,2025-08-28,20,Chennai,Velachery,South,Bike,App,4.5,18,8.46,38.07,0.0,Cash,Paid,26.65,3,City Ride
+TR200123,CU3435,DR782,2025-04-05,14,Delhi,Dwarka,North,Bike,App,4.9,16,6.16,30.18,0.0,UPI,Paid,21.13,4,City Ride
+TR200790,CU3251,DR784,2025-10-31,18,Chennai,T Nagar,South,Premium,App,10.7,40,24.98,267.29,13.36,UPI,Paid,203.14,4,City Ride
+TR200423,CU3198,DR788,2025-12-23,1,Bengaluru,Indiranagar,South,Auto,App,14.4,41,12.01,172.94,8.65,UPI,Paid,123.22,5,City Ride
+TR200085,CU3162,DR818,2025-08-07,7,Mumbai,Dadar,West,Bike,App,4.7,19,8.79,41.31,0.0,Cash,Paid,28.92,5,City Ride
+TR200841,CU3583,DR805,2025-04-26,21,Bengaluru,Whitefield,South,Bike,Website,3.8,18,6.12,23.26,0.0,UPI,Paid,16.28,4,City Ride
+TR201152,CU3234,DR802,2025-04-06,21,Hyderabad,Banjara Hills,South,Sedan,App,22.7,83,16.08,365.02,0.0,UPI,Paid,292.02,1,Airport
+TR200366,CU3133,DR811,2025-08-20,7,Pune,Viman Nagar,West,Sedan,App,21.1,74,17.23,363.55,36.36,UPI,Paid,261.75,5,City Ride
+TR201145,CU3220,DR735,2025-09-08,18,Hyderabad,Secunderabad,South,Auto,App,3.6,14,11.97,43.09,0.0,UPI,Paid,32.32,5,City Ride
+TR200771,CU3576,DR778,2025-06-25,10,Delhi,Connaught Place,North, premium ,App,9.3,26,28.74,267.28,0.0,Cash,Paid,213.82,4,City Ride
+TR201020,CU3589,DR807,2025-07-22,17,Jaipur,Vaishali Nagar,North,Premium,App,8.3,28,28.57,237.13,0.0,Cash,Paid,189.7,5,City Ride
+TR200360,CU3549,DR774,2025-10-18,8,Bengaluru,Electronic City,South,Mini,App,3.6,15,16.71,60.16,6.02,UPI,Paid,42.23,5,City Ride
+TR201101,CU3593,DR811,2025-11-26,18,Chennai,T Nagar,South,Bike,Call Center,2.9,10,6.63,19.23,1.92,UPI,Paid,12.12,5,City Ride
+TR200650,CU3189,DR795,2025-07-15,18,Chennai,Adyar,South,Mini,App,32.5,118,16.31,530.07,26.5,Cash,Paid,392.78,5,City Ride
+TR200644,CU3240,DR814,2025-08-30,18,Bengaluru,Koramangala,South,Bike,App,2.8,12,7.28,20.38,0.0,UPI,Paid,14.27,5,City Ride
+TR200923,CU3057,DR795,2025-02-13,18,Chennai,Velachery,South,Sedan,App,2.8,9,19.71,55.19,0.0,UPI,Paid,44.15,5,City Ride
+TR201076,CU3404,DR784,2025-03-08,8,Bengaluru,Indiranagar,South,Sedan,App,6.3,18,17.01,107.16,10.72,UPI,Pending,77.15,5,City Ride
+TR201002,CU3214,DR762,2025-02-13,13,Hyderabad,Banjara Hills,South,Bike,App,1.9,7,6.33,12.03,0.0,UPI,Paid,8.42,5,City Ride
+TR200044,,DR807,2025-01-13,11,Hyderabad,Kukatpally,South,Sedan,App,11.1,42,16.97,188.37,18.84,UPI,Paid,135.62,2,City Ride
+TR200024,CU3023,DR704,2025-09-01,15,Mumbai,Bandra,West,Auto,App,4.5,12,11.12,50.04,0.0,UPI,Paid,37.53,5,City Ride
+TR200636,CU3325,DR819,2025-07-08,19,Hyderabad,Hitech City,South, mini ,Website,11.9,32,14.45,171.95,0.0,UPI,Paid,134.12,5,City Ride
+TR200183,CU3075,DR781,2025-06-25,16,Pune,Viman Nagar,West,Bike,App,27.3,71,6.86,187.28,0.0,Cash,Paid,131.1,4,City Ride
+TR200670,CU3420,DR796,2025-12-03,10,Kolkata,Park Street,East,Sedan,App,16.3,58,19.81,322.9,0.0,UPI,Paid,258.32,4,City Ride
+TR200300,CU3237,DR793,2025-07-04,8,Hyderabad,Banjara Hills,South,Auto,Website,19.7,64,12.92,254.52,0.0,UPI,Paid,190.89,3,City Ride
+TR200485,CU3004,DR726,2025-02-12,11,Pune,Hinjewadi,West,Premium,App,22.0,55,26.0,572.0,0.0,Card,Paid,457.6,,City Ride
+TR201160,CU3599,DR812,2025-09-20,13,Bengaluru,Koramangala,South,Sedan,App,29.0,84,16.33,473.57,47.36,Card,Paid,340.97,4,City Ride
+TR200667,CU3454,DR732,2025-06-11,14,Mumbai,Powai,West,Auto,App,14.3,55,12.02,171.89,8.59,Wallet,Paid,122.47,5,City Ride
+TR201062,CU3498,DR801,2025-07-23,16,Chennai,T Nagar,South,Mini,Website,18.6,74,15.73,292.58,14.63,UPI,Paid,216.8,5,City Ride
+TR200666,CU3203,DR801,2025-02-08,9,Chennai,Adyar,South,Bike,Call Center,6.8,26,8.81,59.91,5.99,UPI,Paid,37.74,4,City Ride
+TR200004,CU3429,DR709,2025-01-09,19,Bengaluru,Koramangala,South,Bike,App,1.5,7,8.73,13.1,0.66,UPI,Paid,8.71,5,City Ride
+TR200548,CU3494,DR772,2025-01-21,23,Bengaluru,Whitefield,South,Auto,App,18.8,51,12.77,240.08,12.0,UPI,Paid,171.06,5,City Ride
+TR201018,CU3233,DR736,2025-02-21,17,Chennai,Adyar,South,Sedan,App,20.8,69,19.55,406.64,0.0,Card,Paid,325.31,3,City Ride
+TR200113,CU3104,DR805,2025-11-09,9,Pune,Viman Nagar,West,Bike,App,4.2,17,8.69,36.5,0.0,UPI,Paid,25.55,4,City Ride
+TR201082,CU3231,DR769,2025-11-14,21,Bengaluru,Koramangala,South,Mini,App,4.6,19,14.64,67.34,3.37,Cash,Pending,49.9,5,City Ride
+TR200148,CU3321,DR730,2025-11-15,19,Mumbai,Dadar,West,Mini,App,22.3,90,15.04,335.39,0.0,Card,Pending,261.6,5,City Ride
+TR200345,CU3133,DR786,2025-08-08,18,Delhi,Karol Bagh,North,Auto,App,37.3,97,11.17,416.64,0.0,Cash,Paid,312.48,4,City Ride
+TR200695,CU3033,DR705,2025-05-17,15,Chennai,Adyar,South,Sedan,Call Center,9.2,24,16.44,151.25,0.0,UPI,Paid,121.0,4,Airport
+TR200438,CU3122,DR709,2025-07-28,9,Hyderabad,Secunderabad,South,Bike,Call Center,6.9,22,6.56,45.26,0.0,UPI,Paid,31.68,5,City Ride
+TR200169,CU3450,DR813,2025-09-16,23,,Karol Bagh,North,Auto,App,7.1,20,13.48,95.71,0.0,Cash,Pending,71.78,4,City Ride
+TR201077,CU3337,DR759,2025-06-02,6,Mumbai,Andheri,West,Mini,app,21.0,53,14.15,297.15,14.86,UPI,Paid,220.19,5,City Ride
+TR200178,CU3188,DR740,2025-03-13,19,Hyderabad,Hitech City,South,Sedan,App,16.6,67,20.43,339.14,0.0,Card,Paid,271.31,5,City Ride
+TR200630,CU3524,DR777,2025-05-04,22,Kolkata,Park Street,East,Auto  ,Call Center,23.5,70,11.2,263.2,0.0,Card,Paid,197.4,2,City Ride
+TR200689,CU3265,DR741,2025-02-25,13,Delhi,Saket,North,Mini,App,25.3,62,14.83,375.2,37.52,Cash,Paid,263.39,2,City Ride
+TR200607,CU3495,DR754,2025-08-11,10,Kolkata,Salt Lake,East,Sedan,Call Center,14.6,60,19.61,286.31,0.0,Cash,Pending,229.05,1,Outstation
+TR201078,CU3536,DR761,2025-11-23,9,Mumbai,Powai,West,Sedan,App,10.6,36,17.01,180.31,0.0,UPI,Paid,144.25,4,City Ride
+TR200499,CU3520,DR753,2025-01-10,17,Mumbai,Powai,West,Auto,Website,24.9,88,13.43,334.41,0.0,Cash,Paid,250.81,2,City Ride
+TR201016,CU3207,DR717,2025-07-25,9,Pune,Kothrud,West,Sedan,App,18.3,50,16.64,304.51,0.0,UPI,Pending,243.61,4,City Ride
+TR200956,CU3167,DR732,2025-01-08,14,Mumbai,Bandra,West,Sedan,App,2.1,8,20.5,43.05,2.15,UPI,Paid,32.72,3,City Ride
+TR200042,CU3083,DR788,2025-09-06,19,Hyderabad,Secunderabad,South,Mini,App,12.7,48,13.04,165.61,0.0,UPI,Paid,129.18,5,Airport
+TR200950,CU3358,DR774,2025-02-03,16,Delhi,Karol Bagh,North,Auto,App,7.9,20,13.69,108.15,5.41,UPI,Paid,77.06,4,City Ride
+TR201176,CU3262,DR733,2025-09-03,11,Hyderabad,Hitech City,South,Auto,Website,4.2,18,14.16,59.47,0.0,UPI,Paid,44.6,4,City Ride
+TR201039,CU3447,DR725,2025-12-04,8, bengaluru ,Whitefield,South,Sedan,App,17.2,70,20.38,350.54,0.0,Card,Paid,280.43,4,City Ride
+TR200732,CU3338,DR737,2025-01-26,15,Kolkata,Park Street,East,Sedan,App,18.6,59,17.2,319.92,0.0,Card,Paid,255.94,4,City Ride
+TR200049,CU3483,DR776,2025-01-09,16,Jaipur,C Scheme,North,Sedan,App,27.2,71,16.92,460.22,0.0,Cash,Paid,368.18,5,City Ride
+TR200080,CU3185,DR810,2025-10-09,19,Chennai,Adyar,South,Auto  ,App,13.0,40,13.38,173.94,0.0,Cash,Paid,130.45,5,City Ride
+TR200601,CU3307,DR733,2025-07-14,8,Pune,Kothrud,West,Sedan,App,21.3,85,20.65,439.84,21.99,Cash,Paid,334.28,5,City Ride
+TR200819,CU3272,DR737,2025-08-14,22,Pune,Kothrud,West,Auto,App,10.8,30,14.43,155.84,0.0,Card,Paid,116.88,5,City Ride
+TR200112,CU3065,DR746,2025-02-10,17,Delhi,Karol Bagh,North,Premium,App,12.5,43,25.1,313.75,15.69,Cash,Paid,238.45,4,City Ride
+TR200140,CU3337,DR794,2025-05-14,16, bengaluru ,Koramangala,South,Mini,App,15.2,58,13.09,198.97,0.0,UPI,Paid,155.2,4,City Ride
+TR200593,CU3110,DR705,2025-05-02,7,Hyderabad,Secunderabad,South,Sedan,Website,27.6,109,20.67,570.49,57.05,UPI,Paid,410.75,4,City Ride
+TR200369,CU3593,DR773,2025-03-26,20,Mumbai,Powai,West,Sedan,App,4.3,19,17.62,75.77,7.58,UPI,Paid,54.55,3,Outstation
+TR201153,CU3456,DR724,2025-11-01,21,Mumbai,Powai,West,Mini,App,13.3,35,14.31,190.32,0.0,UPI,Paid,148.45,5,Airport
+TR200619,CU3183,DR730,2025-03-14,5,Delhi,Karol Bagh,North,Bike,App,1.9,7,7.58,14.4,1.44,UPI,Paid,9.07,5,City Ride
+TR200266,CU3085,DR805,2025-11-22,15,Mumbai,Bandra,West,Auto,App,16.8,42,14.37,241.42,24.14,UPI,Paid,162.96,5,City Ride
+TR200602,CU3555,DR725,2025-03-25,7,pune,Viman Nagar,West,Mini,App,8.0,23,13.57,108.56,5.43,Cash,Paid,80.44,4,City Ride
+TR200567,CU3094,DR804,2025-04-25,14,Bengaluru,Whitefield,South,Mini,App,17.8,59,13.66,243.15,24.32,Card,Paid,170.69,5,City Ride
+TR200532,CU3026,DR782,2025-07-16,23,Chennai,Velachery,South,Mini,Website,22.3,52,13.72,305.96,30.6,Card,Paid,214.78,3,Airport
+TR200658,CU3408,DR794,2025-05-18,20,  Jaipur,Malviya Nagar,North,Sedan,App,17.5,66,19.95,349.12,34.91,UPI,Paid,251.37,3,Outstation
+TR200318,CU3543,DR710,2025-11-15,7,Chennai,Adyar,South,Premium,App,10.7,29,27.96,299.17,14.96,UPI,Paid,227.37,3,Airport
+TR200573,CU3209,DR708,2025-06-08,23,Kolkata,Salt Lake,East,Sedan,App,16.1,45,18.08,291.09,0.0,UPI,Paid,232.87,5,City Ride
+TR200871,CU3240,DR812,2025-07-13,14,Hyderabad,Kukatpally,South,Auto,App,23.8,75,12.19,290.12,14.51,Cash,Paid,206.71,5,City Ride
+TR201120,CU3571,DR791,2025-04-20,15,mumbai,Dadar,West,Auto,App,24.8,89,11.38,282.22,0.0,Cash,Paid,211.67,3,Airport
+TR200288,CU3571,DR820,2025-05-20,13,Mumbai,Bandra,West,Premium,App,13.4,48,28.17,377.48,0.0,Cash,Paid,301.98,5,City Ride
+TR200728,CU3442,DR795,2025-01-11,15,Delhi,Saket,North,Mini,App,16.3,64,13.83,225.43,0.0,Cash,Paid,175.84,3,Outstation
+TR200496,CU3122,DR746,2025-04-05,12,Hyderabad,Banjara Hills,South,Mini,App,6.9,19,15.4,106.26,0.0,Wallet,Paid,82.88,5,Airport
+TR200997,CU3235,DR703,2025-04-07,18,Bengaluru,Electronic City,South,  Mini,App,6.3,21,14.15,89.14,0.0,UPI,Paid,69.53,3,Airport
+TR200766,CU3492,DR701,2025-11-20,19,Chennai,Adyar,South,Mini,App,9.4,26,13.2,124.08,6.2,UPI,Paid,91.95,5,Airport
+TR200898,CU3416,DR809,2025-08-22,8,Delhi,Karol Bagh,North,Auto,Call Center,6.9,28,12.34,85.15,0.0,Cash,Paid,63.86,2,City Ride
+TR200507,CU3490,DR799,2025-09-18,13,Delhi,Saket,North,Mini,App,11.9,34,13.62,162.08,0.0,Cash,Paid,126.42,4,Airport
+TR200964,CU3249,DR708,2025-05-11,6,Hyderabad,Kukatpally,South,Auto,App,11.6,41,11.31,131.2,6.56,UPI,Paid,93.48,5,Airport
+TR200996,CU3299,DR721,2025-03-30,14,Kolkata,Howrah,East,Bike,Website,6.6,23,-8.97,59.2,0.0,UPI,Paid,41.44,1,City Ride
+TR200507,CU3490,DR799,2025-09-18,13,Delhi,Saket,North,Mini,App,11.9,34,13.62,162.08,0.0,Cash,Paid,126.42,4,Airport
+TR200672,CU3446,DR709,2025-10-26,9,Mumbai,Andheri,West,Mini,App,5.3,20,15.18,,0.0,Wallet,Paid,62.75,5,City Ride
+TR200209,CU3033,DR770,2025-12-31,20,Chennai,T Nagar,South,Mini,Website,24.3,85,13.62,330.97,33.1,UPI,Paid,232.34,5,City Ride
+TR200587,CU3302,DR711,2025-03-05,8,Mumbai,Powai,West,Bike,Call Center,1.7,7,6.1,10.37,0.0,UPI,Paid,7.26,1,City Ride
+TR200210,CU3349,DR701,2025-02-28,10,Hyderabad,Banjara Hills,South,Auto,App,5.2,16,14.36,74.67,3.73,UPI,Paid,53.2,4,City Ride
+TR200618,CU3187,DR761,2025-01-01,8,Bengaluru,Electronic City,South,Mini,App,25.1,60,13.83,,17.36,UPI,Paid,257.22,4,City Ride
+TR200851,CU3382,DR814,2025-07-29,13,Bengaluru,Indiranagar,South,Sedan,App,24.2,75,19.95,482.79,0.0,Cash,Paid,386.23,5,Airport
+TR200768,CU3416,DR713,2025-08-07,9,Mumbai,Bandra,West,Sedan,App,12.6,33,20.87,262.96,26.3,Cash,Paid,189.33,4,City Ride
+TR200057,CU3127,DR755,2025-12-29,8,Hyderabad,Banjara Hills,South,Mini,App,34.3,99,15.82,542.63,0.0,UPI,Paid,423.25,3,Airport
+TR200475,CU3553,DR797,2025-08-10,22,Hyderabad,Kukatpally,South,Sedan,App,18.2,56,16.98,309.04,0.0,UPI,Paid,247.23,5,City Ride
+TR201143,CU3434,DR734,2025-02-19,7,Bengaluru  ,Whitefield,South,Mini,App,14.9,59,13.43,200.11,0.0,Cash,Paid,156.09,3,City Ride
+TR200893,CU3397,DR797,2025-05-20,19,Hyderabad,Secunderabad,South,Auto,App,9.6,24,13.18,126.53,0.0,Cash,Paid,94.9,3,City Ride
+TR201151,CU3309,DR746,2025-10-22,20,Delhi,Karol Bagh,North,Bike,Website,4.4,16,6.18,27.19,0.0,UPI,Paid,19.03,4,City Ride
+TR200340,CU3005,DR733,2025-12-05,16,Mumbai,Andheri,West,Mini,Website,13.7,46,-15.92,218.1,0.0,Card,Paid,170.12,1,City Ride
+TR200077,CU3137,DR718,2025-06-11,12,Mumbai,Dadar,West,Mini,App,10.4,44,16.88,175.55,0.0,UPI,Paid,136.93,5,City Ride
+TR200325,CU3092,DR742,2025-12-23,9,,Andheri,West,Sedan,App,10.8,39,20.71,223.67,0.0,Cash,Paid,178.94,4,City Ride
+TR200078,CU3565,DR809,2025-10-12,9,Mumbai,Bandra,West,Bike,App,25.7,63,8.99,231.04,23.1,UPI,Paid,145.56,5,City Ride
+TR200530,CU3383,DR804,2025-03-03,12,Hyderabad,Kukatpally,South,Auto,Website,21.0,73,13.51,283.71,28.37,Wallet,Paid,191.5,,City Ride
+TR200309,CU3192,DR808,2025-10-27,6,Jaipur,C Scheme,North,Mini,Website,16.8,65,15.54,261.07,0.0,Cash,Paid,203.63,5,City Ride
+TR200981,CU3154,DR759,2025-12-28,17,Hyderabad,Banjara Hills,South,Sedan,App,9.2,35,16.67,153.36,15.34,Cash,Paid,110.42,5,Outstation
+TR200314,CU3583,DR726,2025-01-29,3,Jaipur,Vaishali Nagar,North,  Bike,App,3.7,12,6.02,22.27,0.0,Cash,Paid,15.59,3,City Ride
+TR200683,CU3001,DR753,2025-07-20,8,Chennai,Adyar,South,Bike,App,39.9,136,7.43,296.46,29.65,UPI,Paid,186.77,2,City Ride
+TR200969,CU3139,DR768,2025-12-24,7,Hyderabad,Banjara Hills,South, auto ,Website,20.8,73,11.97,248.98,12.45,Wallet,Paid,177.4,5,City Ride
+TR200907,CU3210,DR771,2025-10-30,8,Delhi,Karol Bagh,North,Auto,App,6.3,21,12.02,75.73,0.0,UPI,Pending,56.8,5,City Ride
+TR201087,CU3158,DR805,2025-07-27,7,Jaipur,Malviya Nagar,North,Sedan,App,12.0,32,20.51,246.12,0.0,UPI,Paid,196.9,5,City Ride
+TR200824,CU3397,DR703,2025-03-04,10,Hyderabad,Banjara Hills,South,Auto,App,5.6,17,13.39,74.98,3.75,Card,Paid,53.42,5,City Ride
+TR200926,CU3572,DR791,2025-03-17,20,Hyderabad,Kukatpally,South,Bike,Website,7.9,34,6.47,51.11,0.0,UPI,Paid,35.78,5,Airport
+TR200185,CU3190,DR780,2025-12-28,7,Delhi,Karol Bagh,North,Sedan,Website,17.0,50,17.48,297.16,0.0,Card,Paid,237.73,5,City Ride
+TR200944,CU3449,DR782,2025-10-03,21,Pune,Hinjewadi,West,Bike,Website,3.8,13,8.75,33.25,3.33,Cash,Paid,20.94,5,Airport
+TR200638,CU3266,DR737,2025-09-19,5,,Whitefield,South,Bike,App,2.0,9,8.75,17.5,0.0,Wallet,Paid,12.25,2,Outstation
+TR200673,CU3182,DR745,2025-12-28,6,Mumbai,Dadar,West,Premium,App,2.7,12,27.63,74.6,0.0,UPI,Paid,59.68,5,City Ride
+TR200752,CU3469,DR804,2025-03-28,8,Jaipur,Vaishali Nagar,North,Auto,App,12.3,32,12.45,153.13,7.66,UPI,Paid,109.1,5,City Ride
+TR200980,CU3317,DR716,2025-07-11,13,Mumbai,Bandra,West,Auto,App,39.9,93,13.54,540.25,0.0,UPI,Pending,405.19,4,City Ride
+TR200372,CU3511,DR785,2025-07-18,8,Pune,Kothrud,West,Auto,App,19.0,75,11.15,211.85,0.0,UPI,Paid,158.89,4,City Ride
+TR200297,CU3226,DR789,2025-01-27,14,Bengaluru,Electronic City,South,Sedan,Call Center,15.7,55,18.0,282.6,0.0,UPI,Paid,226.08,5,City Ride
+TR200361,CU3150,DR772,2025-12-03,22,Hyderabad,Kukatpally,South,Sedan,App,19.4,71,17.61,341.63,0.0,UPI,Pending,273.3,5,Airport
+TR200228,CU3066,DR752,2025-06-04,12,Bengaluru,Indiranagar,South,Bike,Website,6.0,26,8.56,51.36,5.14,UPI,Paid,32.35,3,Airport
+TR200186,CU3239,DR807,2025-12-17,11,Hyderabad,Banjara Hills,South,Auto,App,15.9,65,14.59,231.98,23.2,Wallet,Paid,156.59,5,City Ride
+TR201090,CU3430,DR752,2025-07-06,19,Bengaluru,Electronic City,South,Auto,App,15.0,53,11.73,175.95,8.8,,Paid,125.36,3,Airport
+TR201019,CU3016,DR736,2025-05-29,17,Delhi,Saket,North,Bike,App,2.6,12,8.14,21.16,0.0,UPI,Paid,14.81,4,City Ride
+TR200363,CU3201,DR746,2025-03-05,19,Pune,Kothrud,West,Mini,Website,21.7,82,16.54,358.92,35.89,Cash,Paid,251.96,5,City Ride
+TR200399,CU3399,DR770,2025-04-30,8,Bengaluru,Electronic City,South,Auto,App,0,43,12.6,216.72,21.67,UPI,Paid,146.29,5,City Ride
+TR200371,CU3337,DR807,2025-08-18,19,Bengaluru,Indiranagar,South,Bike,App,3.4,15,6.54,22.24,1.11,Card,Paid,14.79,2,Airport
+TR200264,CU3025,DR717,2025-08-08,21,Mumbai,Powai,West,Sedan,App,13.0,31,16.78,,0.0,UPI,Paid,174.51,4,City Ride
+TR200317,CU3490,DR716,2025-03-31,21,Chennai,T Nagar,South,Sedan,Call Center,18.8,70,19.93,374.68,0.0,Card,Paid,299.74,3,Airport
+TR200074,CU3241,DR733,2025-03-26,7,Kolkata,Park Street,East,Bike,App,4.3,19,7.64,32.85,0.0,Card,Paid,23.0,4,City Ride
+TR200539,CU3153,DR743,2025-04-18,8,Bengaluru,Indiranagar,South,Sedan,App,6.3,25,17.76,111.89,0.0,UPI,Paid,89.51,4,City Ride
+TR200806,CU3494,DR701,2025-06-07,12,Mumbai,Bandra,West,Auto,App,24.6,100,11.71,288.07,28.81,UPI,Paid,194.44,5,City Ride
+TR200367,CU3546,DR764,2025-05-23,22,Chennai,Adyar,South,Sedan,App,18.9,52,17.02,321.68,0.0,Wallet,Paid,257.34,3,City Ride
+TR200353,CU3577,DR704,2025-09-16,7,Bengaluru,Electronic City,South,Mini,App,14.3,49,14.29,204.35,10.22,Cash,Paid,151.42,5,Outstation
+TR200131,CU3297,DR777,2025-11-09,10,Bengaluru,Indiranagar,South,Mini,App,5.8,19,13.67,79.29,0.0,Cash,Paid,61.85,5,Airport
+TR200150,CU3042,DR732,2025-01-14,9,Hyderabad,Kukatpally,South,Bike,Website,4.4,16,8.4,36.96,0.0,Cash,Paid,25.87,5,City Ride
+TR200498,CU3404,DR806,2025-10-11,14,Delhi,Dwarka,North,Bike,App,2.3,10,7.01,16.12,0.0,Wallet,Paid,11.28,4,City Ride
+TR201134,CU3320,DR742,2025-01-20,10,Bengaluru,Indiranagar,South,Mini,Website,13.8,36,13.93,192.23,9.61,Cash,Paid,142.44,3,City Ride
+TR200936,CU3471,DR742,2025-01-21,0,,Velachery,South,Bike,Call Center,3.7,17,7.45,27.57,2.76,Cash,Paid,17.37,5,City Ride
+TR200796,CU3350,DR798,2025-01-21,18,  Bengaluru,Electronic City,South,Bike,App,7.1,23,7.29,51.76,0.0,Card,Paid,36.23,4,City Ride
+TR200516,CU3157,DR723,2025-12-25,12,Bengaluru,Indiranagar,South,MINI,App,14.7,41,16.5,242.55,0.0,Card,Paid,189.19,5,Airport
+TR200110,CU3200,DR701,2025-03-07,8,Bengaluru,Whitefield,South,Auto,App,30.6,110,12.03,368.12,0.0,Cash,Paid,276.09,5,City Ride
+TR200002,CU3247,DR776,2025-08-20,17,Mumbai,Andheri,West,Auto,App,16.2,48,11.06,179.17,17.92,UPI,Paid,120.94,4,City Ride
+TR200831,CU3327,DR817,2025-11-02,15,  Hyderabad,Hitech City,South,Sedan,App,9.7,28,20.49,198.75,0.0,UPI,Paid,159.0,4,Airport
+TR200191,CU3352,DR817,2025-01-16,16,Hyderabad,Hitech City,South,Auto,App,21.6,75,12.39,267.62,0.0,Cash,Paid,200.72,5,City Ride
+TR200400,CU3009,DR803,2025-03-24,11,Bengaluru,Electronic City,South,Bike  ,App,6.9,18,7.24,49.96,0.0,UPI,Paid,34.97,4,City Ride
+TR200779,CU3195,DR746,2025-03-07,17,Chennai,T Nagar,South,Mini,App,11.3,31,14.7,166.11,16.61,UPI,Paid,116.61,3,City Ride
+TR201086,CU3050,DR741,2025-07-02,20,Bengaluru,Indiranagar,South,Mini,App,13.0,49,14.62,190.06,19.01,UPI,Paid,133.42,2,City Ride
+TR200441,CU3197,DR703,2025-05-30,9,Pune,Hinjewadi,West,Mini,App,20.0,66,15.06,301.2,0.0,UPI,Paid,234.94,4,City Ride
+TR200600,CU3100,DR731,2025-10-15,8,Chennai,Adyar,South,Auto,App,16.5,55,11.52,190.08,0.0,UPI,Paid,142.56,4,City Ride
+TR200009,CU3208,DR795,2025-03-31,21,Mumbai,Andheri,West,Auto,App,24.5,75,12.92,316.54,31.65,Cash,Paid,213.67,5,City Ride
+TR200718,CU3599,DR742,2025-09-27,7,Mumbai,Powai,West,Mini,App,13.2,49,14.84,195.89,9.79,Card,Paid,145.16,5,City Ride
+TR200606,CU3050,DR811,2025-04-03,17, mumbai ,Bandra,West,Auto,App,22.7,83,11.02,250.15,0.0,UPI,Paid,187.61,5,City Ride
+TR200614,CU3285,DR755,2025-02-09,14,Delhi,Saket,North,Premium,App,0.0,51,27.86,520.98,0.0,Wallet,Paid,416.78,3,City Ride
+TR200697,CU3120,DR703,2025-01-10,14,Delhi,Connaught Place,North,Mini,App,22.9,80,13.46,308.23,30.82,Cash,Paid,216.38,5,City Ride
+TR200712,CU3548,DR708,2025-02-23,8,Hyderabad,Secunderabad,South,MINI,App,21.2,78,13.9,294.68,0.0,Card,Paid,229.85,4,City Ride
+TR200465,CU3347,DR770,2025-10-18,15,Kolkata,Howrah,East,Auto, app ,6.3,27,14.37,90.53,0.0,Card,Paid,67.9,4,City Ride
+TR200512,CU3243,DR726,2025-04-19,17,Hyderabad,Secunderabad,South,Mini,App,6.4,23,13.09,83.78,4.19,UPI,Paid,62.08,3,City Ride
+TR200322,CU3343,DR778,2025-04-16,10,Jaipur,Vaishali Nagar,North,Bike  ,App,7.7,23,7.29,56.13,0.0,UPI,Paid,39.29,5,City Ride
+TR200598,CU3094,DR760,2025-08-31,18,Hyderabad,Banjara Hills,South,Auto,App,16.3,52,14.35,233.91,0.0,UPI,Paid,175.43,1,City Ride
+TR200162,CU3411,DR813,2025-02-15,13,Delhi,Connaught Place,North,Mini,App,12.9,38,14.82,191.18,9.56,Cash,Paid,141.66,4,Airport
+TR200751,CU3455,DR783,2025-11-16,20,Chennai,T Nagar,South,Mini,App,25.0,88,15.8,395.0,0.0,Cash,Paid,308.1,1,City Ride
+TR200501,CU3203,DR722,2025-06-14,21,Mumbai,Andheri,West,Sedan,App,19.1,57,18.31,349.72,0.0,UPI,Paid,279.78,5,City Ride
+TR201008,CU3044,DR799,2025-03-15,7,Mumbai,Dadar,West,Mini,App,12.0,43,14.75,177.0,0.0,UPI,Paid,138.06,5,City Ride
+TR200941,CU3451,DR732,2025-10-29,9,Hyderabad,Hitech City,South,Bike,App,3.1,11,8.55,26.51,0.0,UPI,Paid,18.56,4,City Ride
+TR201093,CU3375,DR748,2025-05-05,8,Chennai,T Nagar,South,Bike,Website,4.5,13,8.77,39.46,1.97,UPI,Paid,26.24,4,City Ride
+TR200671,CU3392,DR799,2025-06-28,20,Hyderabad,Secunderabad,South,Mini,App,22.9,66,14.8,338.92,33.89,UPI,Paid,237.92,1,City Ride
+TR200426,CU3026,DR788,2025-08-23,8,Kolkata,Salt Lake,East,Bike,Website,1.7,7,6.36,10.81,0.54,UPI,Paid,7.19,4,City Ride
+TR200053,CU3093,DR800,2025-08-28,6,Hyderabad,Banjara Hills,South,Mini,App,19.2,64,15.02,288.38,0.0,Card,Paid,224.94,4,City Ride
+TR200856,CU3412,DR802,2025-01-27,8,Mumbai,Bandra,West,AUTO,App,16.3,47,12.44,202.77,0.0,Card,Paid,152.08,3,City Ride
+TR200401,CU3491,DR735,2025-03-23,7,Mumbai,Andheri,West,Sedan,App,24.3,67,18.35,445.91,0.0,Card,Paid,356.73,5,City Ride
+TR200812,CU3517,DR769,2025-10-28,9,Jaipur,Vaishali Nagar,North,Premium,App,25.8,76,23.44,604.75,0.0,Cash,Paid,483.8,5,City Ride
+TR200584,CU3222,DR735,2025-04-16,1,Bengaluru,Whitefield,South,Bike,  App,3.9,12,7.07,27.57,1.38,UPI,Paid,18.33,5,City Ride
+TR200774,CU3378,DR789,2025-12-08,11,Pune,Viman Nagar,West,Sedan,App,4.5,20,19.97,89.86,0.0,UPI,Paid,71.89,5,City Ride
+TR200323,CU3351,DR786,2025-06-11,19,pune,Viman Nagar,West,Mini,App,3.9,16,15.02,58.58,0.0,UPI,Paid,45.69,4,City Ride
+TR200917,CU3096,DR754,2025-09-08,17,Pune,Kothrud,West,Mini,Call Center,20.5,84,13.59,278.59,13.93,UPI,Paid,206.43,4,Airport
+TR201024,CU3394,DR718,2025-07-27,13,Delhi,Connaught Place,North,Bike,App,3.1,12,8.58,26.6,0.0,Cash,Paid,18.62,3,City Ride
+TR200122,CU3365,DR731,2025-04-28,14,Hyderabad,Secunderabad,South,Auto,Call Center,14.1,51,12.49,176.11,17.61,Wallet,Paid,118.88,3,City Ride
+TR200999,CU3137,DR793,2025-10-13,8,Bengaluru,Whitefield,South,Mini,Call Center,21.2,56,15.2,322.24,0.0,Wallet,Paid,251.35,5,City Ride
+TR200331,CU3043,DR816,2025-02-13,12,Delhi,Connaught Place,North,Bike,App,31.4,120,6.91,216.97,0.0,Cash,Paid,151.88,4,City Ride
+TR200889,CU3090,DR768,2025-04-03,2,Mumbai,Andheri,West,Auto,App,9.0,23,14.87,133.83,0.0,UPI,Paid,100.37,4,City Ride
+TR200270,CU3429,DR761,2025-12-06,17,Bengaluru,Electronic City,South,Sedan,App,5.2,19,16.29,84.71,8.47,Cash,Paid,60.99,3,City Ride
+TR200702,CU3596,DR745,2025-10-06,17,Delhi,Connaught Place,North,Premium,App,3.4,15,22.77,77.42,0.0,Card,Pending,61.94,5,City Ride
+TR200453,CU3440,DR757,2025-06-05,6,Hyderabad,Kukatpally,South,Bike,App,2.5,12,7.89,19.72,0.0,Wallet,Paid,13.8,5,Outstation
+TR200915,CU3579,DR711,2025-07-24,20,Chennai,Velachery,South,Bike,App,1.9,9,7.66,14.55,0.0,Card,Paid,10.19,3,City Ride
+TR200477,CU3456,DR753,2025-02-07,8,Pune,Viman Nagar,West,Mini,App,17.9,51,15.98,286.04,14.3,Cash,Paid,211.96,4,City Ride
+TR200298,CU3135,DR811,2025-05-11,17,Mumbai,Powai,West,Premium,Website,5.3,22,26.83,142.2,0.0,Cash,Paid,113.76,5,City Ride
+TR200577,CU3022,DR773,2025-10-01,7,Bengaluru,Whitefield,South,Bike,App,25.3,79,6.61,167.23,0.0,UPI,Paid,117.06,3,Airport
+TR200193,CU3286,DR750,2025-07-07,17,Mumbai,Dadar,West,Auto,Call Center,24.8,88,12.16,301.57,15.08,Cash,Paid,214.87,3,City Ride
+TR200749,CU3192,DR790,2025-02-26,18,Hyderabad,Kukatpally,South,Mini,App,0.0,62,13.61,328.0,16.4,UPI,Paid,243.05,5,City Ride
+TR201033,CU3080,DR778,2025-04-09,2,Mumbai,Andheri,West,MINI,Website,13.5,41,16.31,220.18,0.0,Wallet,Paid,171.74,5,City Ride
+TR200327,CU3281,DR807,2025-05-23,15,Hyderabad,Secunderabad,South,Mini,Website,18.4,71,13.5,248.4,24.84,Cash,Paid,174.38,5,City Ride
+TR201165,CU3323,DR790,2025-01-16,16,  Delhi,Karol Bagh,North,Mini,App,14.0,53,13.94,195.16,19.52,Cash,Paid,137.0,5,City Ride
+TR201114,CU3373,DR741,2025-01-31,17,Mumbai,Powai,West,Sedan,Website,37.7,126,19.58,738.17,36.91,Wallet,Paid,561.01,5,City Ride
+TR200069,CU3051,DR783,2025-08-30,1,Bengaluru,Whitefield,South,Sedan,App,16.6,63,18.8,312.08,31.21,Cash,Paid,224.7,1,City Ride
+TR200144,CU3453,DR797,2025-12-13,5,Kolkata,Howrah,East,Sedan,App,9.1,24,16.61,151.15,15.12,Cash,Paid,108.82,4,City Ride
+TR200279,CU3490,DR741,2025-11-25,13,Chennai,Adyar,South,Bike,App,8.0,25,6.02,48.16,4.82,UPI,Paid,30.34,3,City Ride
+TR200816,CU3595,DR786,2025-10-28,14,Chennai,Velachery,South,Premium,App,21.4,72,29.38,628.73,0.0,Cash,Paid,502.98,5,City Ride
+TR200422,CU3040,DR725,2025-05-06,13,Mumbai,Bandra,West,Mini,Call Center,8.5,34,13.49,114.67,0.0,UPI,Paid,89.44,4,City Ride
+TR200984,CU3459,DR794,2025-11-03,20,Bengaluru,Koramangala,South,Premium,App,18.7,46,23.86,446.18,22.31,UPI,Paid,339.1,5,City Ride
+TR200953,,DR791,2025-10-09,18,Delhi,Connaught Place,North,Mini,App,4.9,17,15.08,73.89,3.69,UPI,Paid,54.76,5,City Ride
+TR200386,CU3089,DR771,2025-01-24,12,Bengaluru,Electronic City,South,Mini, app ,3.1,11,15.06,46.69,0.0,Cash,Paid,36.42,1,City Ride
+TR200948,CU3115,DR776,2025-02-12,20,Bengaluru,Koramangala,South,Bike,App,1.9,8,7.96,15.12,0.0,Card,Paid,10.58,2,Airport
+TR200753,CU3059,DR796,2025-08-31,11,Hyderabad,Banjara Hills,South,Sedan,App,5.3,17,18.85,99.91,0.0,UPI,Paid,79.93,4,City Ride
+TR200881,CU3242,DR780,2025-06-21,5,Bengaluru,Koramangala,South,Mini,App,5.9,18,16.65,,0.0,UPI,Paid,76.62,4,City Ride
+TR201047,CU3189,DR814,2025-10-08,18,Delhi,Saket,North,Auto,App,20.7,80,13.37,276.76,0.0,Cash,Paid,207.57,1,City Ride
+TR200696,CU3382,DR810,2025-08-30,7,Hyderabad,Hitech City,South,Auto,App,18.2,49,12.31,224.04,0.0,UPI,Paid,168.03,2,City Ride
+TR201053,CU3448,DR734,2025-03-07,16,Pune,Hinjewadi,West,Auto,App,6.8,18,12.86,87.45,0.0,UPI,Paid,65.59,5,City Ride
+TR201029,CU3079,DR737,2025-01-19,17,Hyderabad,Hitech City,South,Bike,App,3.5,12,7.5,26.25,2.62,Wallet,Paid,16.54,4,City Ride
+TR201128,CU3559,DR792,2025-05-06,10,Bengaluru,Electronic City,South,Bike,Website,7.2,22,7.19,51.77,5.18,UPI,Paid,32.61,5,City Ride
+TR200420,CU3339,DR761,2025-11-29,12,Jaipur,Malviya Nagar,North,Bike,App,1.9,9,7.99,15.18,0.76,UPI,Paid,10.09,4,City Ride
+TR200479,CU3095,DR755,2025-04-18,17,Hyderabad,Kukatpally,South,Sedan,Call Center,8.4,35,18.37,154.31,7.72,Card,Paid,117.27,5,Airport
+TR200972,CU3304,DR744,2025-06-24,17,Chennai,Adyar,South,Sedan,App,13.4,42,16.07,215.34,10.77,UPI,Paid,163.66,4,City Ride
+TR200197,CU3559,DR765,2025-08-23,16,Hyderabad,Secunderabad,South,Premium,App,9.4,33,29.23,274.76,0.0,Card,Paid,219.81,5,City Ride
+TR200535,CU3348,DR723,2025-11-02,11,Delhi,Karol Bagh,North,Sedan,App,14.6,47,17.17,250.68,0.0,Card,Paid,200.54,5,City Ride
+TR200648,CU3253,DR724,2025-10-17,18,Bengaluru,Indiranagar,South,Bike,App,2.1,9,6.05,12.71,0.0,Cash,Pending,8.9,4,City Ride
+TR200971,CU3362,DR751,2025-03-04,9,Bengaluru,Whitefield,South,Auto,App,6.0,20,12.02,72.12,3.61,UPI,Paid,51.38,2,Airport
+TR200304,CU3386,DR804,2025-08-11,9,KOLKATA,Howrah,East,Sedan,Call Center,21.6,59,20.73,447.77,0.0,Wallet,Paid,358.22,4,Airport
+TR200383,CU3408,DR735,2025-05-30,16,  Bengaluru,Indiranagar,South,Sedan,App,22.5,59,19.03,428.18,0.0,Wallet,Paid,342.54,5,City Ride
+TR200017,CU3204,DR805,2025-11-19,7,DELHI,Karol Bagh,North,Sedan,App,4.5,18,19.2,86.4,0.0,Wallet,Paid,69.12,3,City Ride
+TR200887,CU3415,DR725,2025-04-01,23,Chennai,Adyar,South,Mini,app,7.1,20,14.61,103.73,0.0,Card,Paid,80.91,4,City Ride
+TR200629,CU3480,DR729,2025-04-23,7,Bengaluru,Whitefield,South,Mini,Call Center,21.9,54,16.38,358.72,17.94,UPI,Paid,265.81,5,City Ride
+TR200604,CU3282,DR709,2025-11-21,20,Hyderabad,Hitech City,South,Sedan,Call Center,16.2,60,18.32,296.78,0.0,Cash,Paid,237.42,2,City Ride
+TR200937,CU3147,DR814,2025-11-05,11,Chennai,T Nagar,South,Sedan,App,15.8,65,16.51,260.86,0.0,UPI,Paid,208.69,4,City Ride
+TR201079,CU3518,DR762,2025-02-15,14,Chennai,Adyar,South,Auto,App,13.2,41,14.95,197.34,9.87,Cash,Paid,140.6,4,Airport
+TR200855,CU3285,DR797,2025-04-15,15,Bengaluru,Indiranagar,South,Sedan,App,19.3,47,17.99,347.21,0.0,Card,Pending,277.77,4,City Ride
+TR200234,CU3321,DR739,2025-04-30,6,Kolkata,Salt Lake,East,Auto,App,2.4,8,11.64,27.94,2.79,UPI,Paid,18.86,5,City Ride
+TR200089,CU3403,DR700,2025-03-18,16,Chennai,T Nagar,South,Premium,App,8.2,33,23.76,194.83,19.48,UPI,Paid,140.28,3,City Ride
+TR200741,CU3134,DR806,2025-08-24,16,Kolkata,Salt Lake,East,Mini,App,7.0,20,14.46,101.22,0.0,UPI,Paid,78.95,5,Airport
+TR200020,CU3499,DR817,2025-06-14,9,Mumbai,Andheri,West,Sedan,App,35.1,135,16.19,568.27,0.0,Cash,Paid,454.62,5,City Ride
+TR200781,CU3504,DR780,2025-02-03,20,Kolkata,Howrah,East,Bike,App,7.9,30,7.09,56.01,0.0,Card,Paid,39.21,2,Airport
+TR200503,CU3440,DR817,2025-05-05,6,BENGALURU,Indiranagar,South,Sedan,Call Center,8.8,32,19.99,175.91,17.59,Cash,Paid,126.66,5,City Ride
+TR200466,CU3592,DR710,2025-03-06,8,Bengaluru,Koramangala,South,Auto,Call Center,9.2,24,14.3,131.56,6.58,UPI,Paid,93.73,5,City Ride
+TR200637,CU3474,DR753,2025-09-08,9,Jaipur,Vaishali Nagar,North,Mini,Website,17.5,67,13.28,232.4,23.24,UPI,Paid,163.14,4,City Ride
+TR200154,CU3234,DR729,2025-09-10,17,Hyderabad,Hitech City,South,Auto,App,13.3,44,12.41,165.05,0.0,Wallet,Paid,123.79,5,City Ride
+TR200473,CU3358,DR800,2025-04-11,18,Mumbai,Powai,West,Sedan,App,16.2,43,16.14,261.47,13.07,Cash,Paid,198.72,4,City Ride
+TR200482,CU3375,DR735,2025-01-04,9,Mumbai,Dadar,West,Bike,App,1.6,7,7.99,12.78,0.64,Card,Paid,8.5,4,City Ride
+TR200365,CU3039,DR777,2025-07-25,15,Delhi,Saket,North,sedan,App,19.4,74,18.59,360.65,0.0,UPI,Paid,288.52,1,City Ride
+TR200047,CU3554,DR781,2025-07-30,18,Pune,Hinjewadi,West,Premium,App,24.7,88,22.03,544.14,27.21,Card,Paid,413.54,3,City Ride
+TR201006,CU3431,DR800,2025-05-28,18,Pune,Viman Nagar,West,Sedan,App,15.4,62,18.21,280.43,0.0,UPI,Paid,224.34,1,Airport
+TR200419,CU3594,DR812,2025-03-05,21,Hyderabad,Hitech City,South,Mini,Call Center,9.0,33,13.46,121.14,0.0,UPI,Paid,94.49,5,Outstation
+TR200181,CU3496,DR792,2025-10-31,17,Bengaluru,Whitefield,South,Bike,App,5.5,23,6.03,33.16,3.32,Cash,Paid,20.89,5,City Ride
+TR201158,CU3118,DR781,2025-08-09,15,Hyderabad,Hitech City,South,Auto,App,2.4,10,13.66,32.78,1.64,Card,Paid,23.36,5,City Ride
+TR200303,CU3336,DR711,2025-04-17,8,Mumbai,Dadar,West,Bike,App,6.7,25,8.16,54.67,0.0,UPI,Paid,38.27,4,City Ride
+TR201088,CU3057,DR789,2025-07-17,7,Mumbai,Powai,West,Mini,App,17.9,55,15.37,275.12,13.76,Card,Paid,203.86,4,City Ride
+TR201127,CU3016,DR790,2025-04-22,22,Bengaluru,Koramangala,South,Bike,App,7.9,27,8.92,70.47,7.05,Wallet,Paid,44.39,4,Airport
+TR200395,CU3214,DR702,2025-01-07,13,Pune,Hinjewadi,West,Auto,App,4.5,14,14.45,65.02,0.0,Wallet,Paid,48.77,5,Airport
+TR200087,CU3190,DR782,2025-06-16,20,Delhi,Karol Bagh,North,Auto,App,31.5,91,12.49,393.44,0.0,UPI,Paid,295.08,2,City Ride
+TR201069,CU3473,DR740,2025-05-07,19,Bengaluru,Electronic City,South,Mini,Website,21.4,61,16.25,347.75,17.39,Card,Paid,257.68,2,Airport
+TR201044,CU3453,DR801,2025-09-26,18,Kolkata,Park Street,East,Mini,Website,12.4,45,13.67,169.51,0.0,Card,Paid,132.22,4,City Ride
+TR200832,CU3316,DR712,2025-11-03,8,Chennai,Adyar,South,Auto,Website,8.2,21,14.13,115.87,5.79,Card,Paid,82.56,4,City Ride
+TR200357,CU3265,DR755,2025-02-06,7,Kolkata,Howrah,East,Mini,Website,33.7,97,13.48,454.28,0.0,Cash,Paid,354.34,4,City Ride
+TR200431,CU3191,DR701,2025-12-11,8,Bengaluru,Electronic City,South,Auto,App,18.9,64,11.46,216.59,0.0,Wallet,Paid,162.44,4,Airport
+TR200862,CU3561,DR735,2025-03-07,13,Chennai,Adyar,South,Mini,App,9.2,27,16.29,,0.0,Wallet,Paid,116.9,2,City Ride
+TR201009,CU3439,DR742,2025-07-20,10,Mumbai,Powai,West,Auto,Website,22.0,81,11.55,254.1,12.71,Card,Paid,181.04,2,Airport
+TR200223,CU3462,DR756,2025-11-24,23,Pune,Viman Nagar,West,Auto,Website,19.5,71,13.86,270.27,13.51,Cash,Paid,192.57,5,Outstation
+TR200028,CU3527,DR815,2025-06-25,14,PUNE,Viman Nagar,West,Mini,App,17.8,48,13.28,236.38,0.0,UPI,Paid,184.38,5,City Ride
+TR200342,CU3320,DR770,2025-11-10,19,Pune,Hinjewadi,West,Bike,Call Center,5.5,23,6.87,37.79,0.0,UPI,Paid,26.45,4,City Ride
+TR200156,CU3407,DR708,2025-10-02,5,Hyderabad,Secunderabad,South,Sedan,App,19.4,58,17.44,338.34,33.83,UPI,Paid,243.61,4,Airport
+TR200489,CU3507,DR791,2025-11-10,18,Chennai,Velachery,South,Bike,App,5.1,17,8.21,41.87,2.09,Cash,Pending,27.85,4,City Ride
+TR200434,CU3358,DR703,2025-09-20,11,Bengaluru,Whitefield,South,Sedan,App,13.4,52,20.93,280.46,28.05,Cash,Paid,201.93,5,City Ride
+TR200172,CU3426,DR775,2025-01-11,11,Delhi,Saket,North,Auto,App,10.3,27,12.17,125.35,0.0,UPI,Paid,94.01,3,City Ride
+TR200310,CU3274,DR729,2025-10-14,21,Bengaluru  ,Electronic City,South,Auto,App,2.3,11,13.59,31.26,1.56,Wallet,Paid,22.28,4,City Ride
+TR201111,CU3269,DR741,2025-12-10,17,Hyderabad,Banjara Hills,South,Mini,Call Center,21.8,73,14.61,318.5,15.93,Wallet,Paid,236.0,3,City Ride
+TR200287,CU3514,DR759,2025-05-12,20,Chennai,T Nagar,South,Bike,App,5.2,18,8.22,42.74,4.27,Card,Paid,26.93,4,City Ride
+TR200928,CU3204,DR763,2025-04-08,8,Jaipur,C Scheme,North,Sedan,App,7.4,25,18.9,139.86,6.99,UPI,Paid,106.3,3,City Ride
+TR201011,CU3295,DR809,2025-11-18,21,Chennai,Adyar,South,Premium,App,15.1,46,25.91,391.24,39.12,Card,Paid,281.7,4,City Ride
+TR200378,CU3376,DR790,2025-03-25,4,Jaipur,Malviya Nagar,North,Bike,Website,35.4,113,6.53,231.16,0.0,,Pending,161.81,5,City Ride
+TR200579,CU3305,DR774,2025-02-09,13,Bengaluru,Indiranagar,South,Mini,App,14.6,47,15.74,229.8,11.49,Cash,Paid,170.28,4,City Ride
+TR200910,CU3556,DR782,2025-10-01,19,Bengaluru,Koramangala,South,Sedan,App,13.3,53,20.67,274.91,27.49,UPI,Paid,197.94,4,Airport
+TR200733,CU3050,DR717,2025-01-09,17,Kolkata,Salt Lake,East,Mini,App,20.2,48,14.18,286.44,0.0,UPI,Paid,223.42,5,City Ride
+TR200776,CU3312,DR768,2025-12-11,16,MUMBAI,Dadar,West,Auto,App,16.4,56,13.45,220.58,22.06,UPI,Paid,148.89,2,City Ride
+TR200860,CU3175,DR772,2025-11-01,16,Bengaluru,Whitefield,South,Sedan,App,20.6,71,20.18,415.71,0.0,Cash,Paid,332.57,5,City Ride
+TR200882,CU3323,DR804,2025-08-23,7,Pune,Kothrud,West,Bike,App,2.8,11,8.36,23.41,2.34,Card,Paid,14.75,5,City Ride
+TR200918,CU3051,DR765,2025-07-03,21,Hyderabad,Kukatpally,South,Mini,App,24.2,86,13.85,335.17,33.52,Cash,Paid,235.29,5,City Ride
+TR200847,CU3461,DR795,2025-05-07,19,Bengaluru,Whitefield,South,Auto,Call Center,5.7,22,13.73,78.26,3.91,Cash,Paid,55.76,1,City Ride
+TR201117,CU3044,DR708,2025-06-02,18,Bengaluru,Koramangala,South,Sedan,App,6.3,25,16.2,102.06,0.0,UPI,Paid,81.65,4,City Ride
+TR201072,CU3162,DR700,2025-04-05,18,Pune,Hinjewadi,West,Premium,App,-1.5,53,23.08,394.67,0.0,Card,Paid,315.74,5,City Ride
+TR200134,CU3122,DR724,2025-02-26,16,Bengaluru,Indiranagar,South,Premium,App,23.3,90,24.42,568.99,0.0,UPI,Paid,455.19,,City Ride
+TR201064,CU3295,DR730,2025-01-21,5,Hyderabad,Banjara Hills,South,Premium,App,3.1,12,24.24,75.14,3.76,UPI,Paid,57.1,5,City Ride
+TR200168,CU3329,DR743,2025-01-11,14,Hyderabad,Kukatpally,South,Bike,Website,41.4,146,8.58,355.21,0.0,Cash,Paid,248.65,5,Airport
+TR200326,CU3300,DR730,2025-04-16,15,Jaipur,C Scheme,North,Bike,App,2.6,13,8.33,21.66,0.0,Wallet,Paid,15.16,5,City Ride
+TR200840,CU3375,DR787,2025-10-05,17,Jaipur,Malviya Nagar,North,Premium,Call Center,21.8,57,22.65,493.77,0.0,UPI,Paid,395.02,5,City Ride
+TR201185,CU3178,DR736,2025-02-14,18,Hyderabad,Kukatpally,South,Bike  ,Call Center,3.4,10,6.89,23.43,0.0,Card,Paid,16.4,4,City Ride
+TR200902,CU3177,DR738,2025-04-14,18,Chennai,Adyar,South,Sedan,App,16.9,68,17.93,303.02,0.0,UPI,Paid,242.42,2,City Ride
+TR200705,CU3120,DR731,2025-06-29,16,Delhi,Dwarka,North,Mini,App,40.5,98,16.71,676.75,67.67,Card,Paid,475.08,3,City Ride
+TR200457,CU3458,DR794,2025-09-05,20,Mumbai,Dadar,West,Auto,App,3.5,15,14.1,49.35,0.0,UPI,Pending,37.01,5,City Ride
+TR200375,CU3186,DR796,2025-08-16,19,Chennai,Velachery,South,Premium,App,15.7,52,29.76,467.23,46.72,Cash,Paid,336.41,2,Airport
+TR200334,CU3066,DR771,2025-11-11,4,Delhi,Karol Bagh,North,Auto,App,39.5,146,14.8,584.6,0.0,UPI,Paid,438.45,5,City Ride
+TR200743,CU3447,DR735,2025-07-03,8,Chennai,Velachery,South,Auto,App,8.5,27,12.72,108.12,5.41,UPI,Paid,77.03,4,City Ride
+TR200517,CU3295,DR731,2025-06-12,9,Pune,Hinjewadi,West,Premium,App,-3.0,46,26.04,486.95,0.0,UPI,Paid,389.56,3,City Ride
+TR200848,CU3316,DR817,2025-03-02,23,Chennai,Adyar,South,Mini,App,5.6,21,16.34,91.5,9.15,Card,Paid,64.23,4,City Ride
+TR200440,CU3261,DR819,2025-04-23,17,Chennai,Adyar,South,Bike,App,3.2,14,7.22,23.1,2.31,Card,Paid,14.55,5,City Ride
+TR200829,CU3474,DR769,2025-10-30,9,Delhi,Saket,North,Auto,App,7.1,25,11.14,79.09,0.0,UPI,Paid,59.32,5,City Ride
+TR200041,CU3188,DR754,2025-07-19,19,Chennai,Velachery,South,Sedan,App,10.5,27,20.95,219.97,0.0,UPI,Paid,175.98,3,City Ride
+TR200930,CU3208,DR727,2025-05-28,7,Chennai,Velachery,South,Auto,App,30.1,114,13.29,400.03,0.0,UPI,Paid,300.02,5,City Ride
+TR200679,CU3392,DR819,2025-05-29,15,Jaipur,C Scheme,North,Mini,Website,19.0,64,14.63,277.97,13.9,UPI,Paid,205.97,5,Outstation
+TR200949,CU3537,DR710,2025-07-10,20,Mumbai,Andheri,West,Bike,  Call Center,2.5,10,6.77,16.92,0.0,Card,Paid,11.84,2,Airport
+TR200521,CU3195,DR729,2025-03-28,7,Mumbai,Bandra,West,Mini,Website,24.0,72,16.02,384.48,19.22,Cash,Paid,284.9,4,City Ride
+TR201010,CU3086,DR708,2025-12-22,11,Jaipur,C Scheme,North,Premium,Website,5.8,17,24.31,141.0,14.1,Card,Paid,101.52,1,City Ride
+TR200968,CU3402,DR702,2025-03-31,12,Bengaluru,Koramangala,South,Premium,App,18.7,44,29.72,555.76,55.58,UPI,Pending,400.14,4,Airport
+TR200631,CU3593,DR725,2025-11-26,23,Hyderabad,Banjara Hills,South,Bike,App,1.6,7,8.33,13.33,0.0,UPI,Paid,9.33,5,Airport
+TR200350,CU3495,DR809,2025-10-27,9,Chennai,T Nagar,South,Auto,Call Center,14.6,35,11.52,168.19,8.41,UPI,Pending,119.84,5,City Ride
+TR200698,CU3598,DR707,2025-10-03,15,Delhi,Dwarka,North,Mini,App,34.1,132,16.91,576.63,0.0,UPI,Paid,449.77,4,City Ride
+TR200425,CU3427,DR780,2025-02-09,15,Pune,Kothrud,West,Mini,App,20.2,77,13.23,267.25,0.0,Cash,Pending,208.46,3,City Ride
+TR200177,CU3188,DR733,2025-04-20,16,Hyderabad,Kukatpally,South,Sedan,Website,7.6,29,16.89,128.36,12.84,Cash,Pending,92.42,3,City Ride
+TR201051,CU3591,DR808,2025-01-25,12,Delhi,Saket,North,Auto,App,8.9,26,12.27,109.2,0.0,UPI,Pending,81.9,2,City Ride
+TR200189,CU3207,DR716,2025-08-04,9,Delhi,Saket,North,Premium,App,14.9,47,27.79,414.07,20.7,Cash,Paid,314.7,3,City Ride
+TR200052,CU3001,DR726,2025-09-22,7,Bengaluru,Koramangala,South, auto ,Website,19.1,47,13.06,249.45,0.0,UPI,Paid,187.09,5,City Ride
+TR200109,CU3387,DR701,2025-09-08,6,Delhi,Dwarka,North,Mini,App,24.7,94,15.52,383.34,0.0,Cash,Pending,299.01,2,City Ride
+TR200336,CU3141,DR701,2025-10-12,13,Chennai,Adyar,South,Mini,App,9.3,37,14.9,138.57,0.0,Cash,Paid,108.08,4,City Ride
+TR200854,CU3291,DR717,2025-03-16,11,bengaluru,Whitefield,South,Premium,App,16.0,61,26.08,417.28,0.0,UPI,Paid,333.82,4,City Ride
+TR200552,CU3524,DR723,2025-03-25,17,Bengaluru,Electronic City,South,Mini,App,24.7,93,15.72,388.28,38.83,UPI,Paid,272.57,4,City Ride
+TR200226,CU3473,DR815,2025-11-27,19,Chennai,Velachery,South,Bike,App,5.6,15,7.78,43.57,0.0,Card,Pending,30.5,5,City Ride
+TR201070,CU3498,DR709,2025-06-06,18,Pune,Hinjewadi,West,Auto,App,16.4,48,13.17,215.99,0.0,Cash,Paid,161.99,5,City Ride
+TR200640,CU3444,DR736,2025-09-13,11,Pune,Viman Nagar,West,Auto,App,24.1,60,11.79,284.14,0.0,UPI,Pending,213.1,4,City Ride
+TR200657,CU3494,DR718,2025-01-11,11,Bengaluru,Koramangala,South,Mini,Call Center,15.9,62,14.66,233.09,0.0,,Paid,181.81,2,Airport
+TR201126,CU3429,DR772,2025-08-17,13,Hyderabad,Secunderabad,South,Sedan,App,13.1,55,16.32,213.79,0.0,UPI,Paid,171.03,4,City Ride
+TR200139,CU3205,DR719,2025-10-27,11,Delhi,Saket,North,Auto,App,18.6,59,12.41,,0.0,Wallet,Paid,173.12,3,City Ride
+TR200214,CU3160,DR714,2025-01-24,10,Chennai,T Nagar,South,Mini,APP,13.3,43,14.08,187.26,0.0,UPI,Paid,146.06,5,Airport
+TR201095,CU3448,DR795,2025-09-14,8,Bengaluru,Koramangala,South,Bike,App,5.7,24,8.89,50.67,5.07,UPI,Paid,31.92,5,City Ride
+TR201167,CU3450,DR751,2025-01-23,9,Bengaluru,Electronic City,South,Bike,App,3.3,15,6.59,21.75,1.09,Cash,Paid,14.46,5,Outstation
+TR200356,CU3476,DR808,2025-10-09,9,Mumbai,Powai,West,Sedan,App,18.7,61,19.83,370.82,18.54,Cash,Paid,281.82,5,City Ride
+TR200271,CU3530,DR780,2025-11-03,20,Bengaluru,Koramangala,South,Mini,Website,10.5,36,16.98,178.29,0.0,Cash,Paid,139.07,5,City Ride
+TR200883,CU3591,DR763,2025-06-25,17,Bengaluru,Indiranagar,South,Premium,App,9.5,30,24.8,235.6,0.0,Card,Paid,188.48,4,City Ride
+TR200913,CU3065,DR750,2025-04-15,21,Mumbai,Powai,West,Bike,Website,7.6,28,6.62,,2.52,Cash,Paid,33.45,5,City Ride
+TR200922,CU3505,DR802,2025-01-22,8,Delhi,Dwarka,North,Mini,Call Center,18.8,54,16.89,317.53,0.0,UPI,Paid,247.67,4,City Ride
+TR200581,CU3180,DR817,2025-05-20,16,Hyderabad,Secunderabad,South,Mini,Website,22.1,88,13.3,293.93,0.0,Wallet,Paid,229.27,5,City Ride
+TR200468,CU3309,DR764,2025-01-16,16,Delhi,Connaught Place,North,Auto,App,8.9,22,13.64,121.4,12.14,UPI,Paid,81.95,4,City Ride
+TR201131,CU3572,DR799,2025-02-28,15,Kolkata,Howrah,East,Sedan,App,2.7,9,16.43,44.36,4.44,UPI,Paid,31.94,5,City Ride
+TR200786,CU3217,DR708,2025-08-01,7,Chennai,Velachery,South,Mini,App,14.8,43,14.35,212.38,21.24,Card,Pending,149.09,4,City Ride
+TR200846,CU3516,DR797,2025-09-08,16,Delhi,Karol Bagh,North,Sedan,App,8.5,28,16.87,143.4,7.17,Card,Pending,108.98,5,City Ride
+TR201057,CU3574,DR810,2025-06-13,22,Bengaluru,Indiranagar,South,Mini,Call Center,8.3,21,15.45,128.24,0.0,UPI,Paid,100.03,3,City Ride
+TR200551,CU3513,DR790,2025-02-22,9,Chennai,T Nagar,South,Mini,App,8.6,37,16.87,145.08,0.0,UPI,Paid,113.16,4,City Ride
+TR200990,CU3167,DR793,2025-07-02,10,Bengaluru,Koramangala,South,Bike,App,2.9,12,8.63,25.03,0.0,UPI,Paid,17.52,5,City Ride
+TR200370,CU3230,DR764,2025-03-01,17,Hyderabad,Hitech City,South,Premium,App,23.0,80,23.16,532.68,0.0,Card,Pending,426.14,4,City Ride
+TR201067,CU3054,DR767,2025-03-26,16,Pune,Kothrud,West,Bike,App,6.8,24,7.8,53.04,0.0,Wallet,Paid,37.13,5,City Ride
+TR200458,CU3081,DR723,2025-08-18,16,MUMBAI,Bandra,West,Mini,App,8.0,27,15.21,121.68,0.0,UPI,Paid,94.91,4,Airport
+TR200456,CU3247,DR814,2025-06-22,20,Bengaluru,Electronic City,South,Mini,App,14.5,48,13.8,200.1,0.0,UPI,Paid,156.08,5,City Ride
+TR200965,CU3071,DR742,2025-01-17,7,Kolkata,Park Street,East,Auto,App,5.0,20,14.29,71.45,0.0,Card,Paid,53.59,5,Outstation
+TR200691,CU3598,DR776,2025-04-07,10,Kolkata,Park Street,East,Sedan,App,37.6,127,17.72,666.27,0.0,Card,Paid,533.02,5,City Ride
+TR200414,CU3435,DR753,2025-10-14,6,,Powai,West,Premium,App,9.3,30,29.91,278.16,0.0,UPI,Paid,222.53,5,Airport
+TR200633,CU3525,DR808,2025-01-07,11,Hyderabad,Hitech City,South,Sedan,App,18.5,73,19.85,,0.0,Card,Paid,293.78,5,City Ride
+TR200384,CU3588,DR705,2025-01-10,10,Delhi,Saket,North,Mini,App,0,20,13.12,57.73,0.0,UPI,Paid,45.03,2,City Ride
+TR200957,CU3519,DR709,2025-01-09,14,Pune,Hinjewadi,West,Sedan,App,10.2,29,18.19,185.54,0.0,Cash,Paid,148.43,5,City Ride
+TR200329,CU3403,DR799,2025-04-26,23,Hyderabad,Secunderabad,South,Bike,App,7.4,26,6.61,48.91,0.0,UPI,Paid,34.24,,City Ride
+TR200759,CU3142,DR702,2025-03-08,22,Bengaluru,Electronic City,South,Auto,Call Center,22.8,81,14.93,340.4,0.0,UPI,Paid,255.3,2,City Ride
+TR200061,CU3270,DR721,2025-03-05,13,Delhi,Dwarka,North,Auto,App,18.8,48,13.28,249.66,24.97,Cash,Paid,168.52,,City Ride
+TR200099,CU3065,DR746,2025-12-12,6,Kolkata,Salt Lake,East,Mini,  App,10.3,30,14.24,146.67,14.67,Cash,Paid,102.96,5,Airport
+TR200504,CU3250,DR799,2025-12-25,9,Mumbai,Dadar,West,Mini,App,5.7,24,14.24,81.17,0.0,Card,Paid,63.31,4,City Ride
+TR200166,CU3361,DR755,2025-08-04,17,Bengaluru,Whitefield,South,Sedan,App,34.3,97,18.79,644.5,32.23,Cash,Pending,489.82,4,City Ride
+TR200620,CU3563,DR777,2025-04-19,16,Mumbai,Powai,West,Mini,App,13.9,54,14.87,206.69,10.33,UPI,Paid,153.16,1,City Ride
+TR200055,CU3211,DR815,2025-12-31,18,Chennai,Velachery,South,Sedan,App,7.5,27,18.29,137.17,0.0,Card,Paid,109.74,2,City Ride
+TR200763,CU3123,DR712,2025-02-26,14,Bengaluru,Whitefield,South,Bike,App,6.6,27,8.03,53.0,5.3,UPI,Paid,33.39,2,City Ride
+TR200236,CU3244,DR778,2025-06-01,17,Jaipur,C Scheme,North,Bike,App,1.5,7,8.6,12.9,0.0,UPI,Pending,9.03,5,City Ride
+TR201081,CU3310,DR776,2025-11-27,8,Kolkata,Park Street,East,Premium,App,5.8,18,27.41,158.98,15.9,Card,Paid,114.46,4,City Ride
+TR200398,CU3274,DR728,2025-04-09,12,Mumbai,Dadar,West,Premium,Website,21.2,58,26.94,571.13,0.0,UPI,Paid,456.9,4,City Ride
+TR200520,CU3147,DR740,2025-11-09,18,Chennai,T Nagar,South,Premium,App,20.8,75,25.97,540.18,27.01,UPI,Paid,410.54,3,Outstation
+TR200837,CU3077,DR755,2025-07-16,12,Bengaluru,Whitefield,South,Premium,App,5.9,23,22.38,132.04,0.0,UPI,Paid,105.63,4,Airport
+TR200229,CU3580,DR713,2025-06-09,18,Kolkata,Howrah,East,Bike,App,1.9,8,8.24,15.66,1.57,Card,Paid,9.86,5,City Ride
+TR200105,CU3055,DR819,2025-11-04,15,Chennai,Adyar,South,Auto,App,3.0,12,13.11,39.33,1.97,UPI,Paid,28.02,1,City Ride
+TR200780,CU3550,DR740,2025-03-06,9,Mumbai,Andheri,West,Auto,Website,11.3,29,14.97,169.16,0.0,Wallet,Paid,126.87,4,Airport
+TR200561,CU3201,DR818,2025-09-02,19,Delhi,Saket,North,Bike,Website,0,10,8.2,17.22,0.0,Wallet,Paid,12.05,5,City Ride
+TR200232,CU3337,DR792,2025-12-25,9,Chennai,Velachery,South,bike,App,34.3,110,9.0,308.7,0.0,Card,Paid,216.09,3,Airport
+TR200612,CU3166,DR799,2025-07-24,16,Hyderabad,Banjara Hills,South,Mini,App,22.3,64,13.57,302.61,0.0,UPI,Paid,236.04,5,City Ride
+TR200632,CU3448,DR796,2025-04-27,10,Hyderabad,Hitech City,South,Mini,Call Center,12.1,36,13.19,159.6,7.98,Card,Paid,118.26,4,City Ride
+TR200864,CU3362,DR744,2025-03-10,20,Bengaluru,Electronic City,South,Mini,Website,11.0,42,13.83,152.13,7.61,UPI,Paid,112.73,,City Ride
+TR200031,CU3442,DR797,2025-03-01,18,Delhi,Saket,North,Auto,App,19.9,72,12.62,251.14,0.0,Card,Paid,188.35,5,City Ride
+TR200043,CU3312,DR758,2025-06-17,11,Bengaluru,Indiranagar,South,Mini,App,4.7,21,15.28,71.82,0.0,UPI,Paid,56.02,4,City Ride
+TR200867,CU3088,DR752,2025-03-01,20,Mumbai,Bandra,West,Sedan,Website,37.2,98,20.26,753.67,0.0,Cash,Paid,602.94,3,Outstation
+TR200320,CU3389,DR759,2025-05-15,18,  Hyderabad,Secunderabad,South,Auto,App,9.7,39,14.25,138.22,0.0,UPI,Paid,103.66,5,City Ride
+TR200094,CU3049,DR720,2025-03-10,9,Hyderabad,Hitech City,South,Mini,Website  ,8.2,23,15.66,128.41,6.42,Wallet,Pending,95.15,5,City Ride
+TR200373,CU3218,DR768,2025-02-01,8,Delhi,Saket,North,Auto  ,Website,6.9,26,12.28,84.73,0.0,Wallet,Paid,63.55,3,City Ride
+TR200727,CU3444,DR717,2025-12-08,17,Kolkata,Salt Lake,East,Premium,Call Center,27.5,108,26.96,741.4,74.14,Card,Paid,533.81,5,Outstation
+TR200678,CU3188,DR754,2025-03-05,19,Pune,Kothrud,West,Mini,App,2.9,12,15.84,45.94,0.0,UPI,Paid,35.83,3,City Ride
+TR201169,CU3551,DR752,2025-09-10,11,Mumbai,Powai,West,Auto,Website,17.3,64,13.59,235.11,0.0,UPI,Paid,176.33,,City Ride
+TR200885,CU3238,DR725,2025-10-17,0,Bengaluru,Whitefield,South,Mini,App,9.2,23,14.15,130.18,0.0,Card,Paid,101.54,4,City Ride
+TR201139,CU3357,DR816,2025-02-25,8,Hyderabad,Kukatpally,South,Bike,App,26.9,107,7.9,212.51,0.0,UPI,Paid,148.76,5,Airport
+TR201142,CU3275,DR786,2025-04-12,16,Chennai,Velachery,South,Auto,App,3.3,11,11.11,36.66,0.0,Cash,Paid,27.49,2,Airport
+TR200511,CU3272,DR772,2025-07-28,7,Bengaluru,Koramangala,South,Mini,Website,14.6,41,16.54,241.48,0.0,Wallet,Pending,188.35,2,City Ride
+TR201068,CU3440,DR811,2025-07-02,11,Pune,Viman Nagar,West,Mini,App,2.4,10,15.45,37.08,1.85,UPI,Paid,27.48,5,Airport
+TR200260,CU3044,DR769,2025-08-22,8,Bengaluru,Whitefield,South,Premium,App,16.4,46,27.94,458.22,0.0,Card,Paid,366.58,3,City Ride
+TR200235,CU3508,DR817,2025-12-26,7,Delhi,Connaught Place,North,Bike,Call Center,3.6,14,8.42,30.31,0.0,UPI,Paid,21.22,5,City Ride
+TR200443,CU3242,DR716,2025-12-09,8,  Bengaluru,Indiranagar,South,Premium,App,8.0,30,29.49,235.92,23.59,Card,Paid,169.86,5,City Ride
+TR201023,CU3138,DR774,2025-07-05,17,Delhi,Karol Bagh,North,Auto,App,18.1,75,11.6,209.96,10.5,UPI,Paid,149.59,5,City Ride
+TR200011,CU3132,DR801,2025-02-04,18,Mumbai,Powai,West,Bike,App,3.6,15,6.23,22.43,2.24,UPI,Paid,14.13,2,Airport
+TR200703,CU3524,DR717,2025-02-16,13,Bengaluru,Whitefield,South,Mini,App,6.9,30,14.85,102.47,0.0,Cash,Paid,79.93,5,City Ride
+TR200207,CU3162,DR760,2025-04-12,15,Hyderabad,Banjara Hills,South,Bike,App,5.0,20,8.88,44.4,0.0,Card,Paid,31.08,3,Airport
+TR200393,CU3020,DR737,2025-04-01,8,,Andheri,West,Auto,App,16.0,56,12.56,200.96,0.0,Wallet,Paid,150.72,5,Airport
+TR200554,CU3051,DR820,2025-11-24,9,Pune,Hinjewadi,West,Bike,App,3.6,13,8.78,31.61,3.16,Cash,Paid,19.91,5,City Ride
+TR200770,CU3197,DR747,2025-01-07,11,Hyderabad,Banjara Hills,South,Bike,App,41.9,167,6.25,261.88,0.0,Cash,Pending,183.32,3,City Ride
+TR200710,CU3483,DR744,2025-04-27,7,Delhi,Dwarka,North,Premium,App,20.7,76,24.47,506.53,0.0,Card,Paid,405.22,3,City Ride
+TR200828,CU3507,DR702,2025-03-07,9,Hyderabad,Secunderabad,South,Sedan,App,18.7,65,19.63,367.08,0.0,Wallet,Paid,293.66,3,City Ride
+TR200091,CU3526,DR794,2025-07-09,12,Mumbai,Bandra,West,Mini,Website,10.4,44,14.99,155.9,0.0,UPI,Paid,121.6,3,Airport
+TR201164,CU3195,DR785,2025-12-22,17,delhi,Karol Bagh,North,Auto,App,19.6,79,11.39,223.24,11.16,Card,Paid,159.06,5,City Ride
+TR200590,CU3005,DR797,2025-04-18,8,Hyderabad,Kukatpally,South,Premium,App,3.7,12,28.64,,0.0,Wallet,Pending,84.78,5,City Ride
+TR200547,CU3256,DR798,2025-06-09,20,Mumbai,Andheri,West,Bike,Website,6.2,21,7.17,44.45,0.0,UPI,Pending,31.11,1,City Ride
+TR200143,CU3464,DR747,2025-03-11,7,Jaipur,Vaishali Nagar,North,Auto,App,18.4,74,11.77,216.57,0.0,Card,Paid,162.43,5,Airport
+TR200613,CU3446,DR798,2025-02-05,11,Pune,Hinjewadi,West,Bike,Website,6.1,18,6.67,40.69,4.07,UPI,Paid,25.63,4,Outstation
+TR200343,CU3516,DR768,2025-04-02,18,Chennai,Velachery,South,Premium  ,App,21.8,62,26.45,576.61,0.0,UPI,Paid,461.29,5,City Ride
+TR201189,CU3593,DR735,2025-06-13,14,Bengaluru,Indiranagar,South,Bike,App,43.7,114,6.6,288.42,0.0,UPI,Paid,201.89,5,City Ride
+TR201089,CU3523,DR782,2025-02-04,9,Mumbai,Andheri,West,Auto,Website,35.3,144,11.23,396.42,0.0,Card,Paid,297.31,4,City Ride
+TR200641,CU3065,DR766,2025-11-08,16,Jaipur,C Scheme,North,Mini,App,24.2,63,15.08,364.94,0.0,Card,Paid,284.65,5,City Ride
+TR200116,CU3485,DR799,2025-02-19,18,Delhi,Connaught Place,North,Mini,App,3.9,12,15.6,60.84,6.08,Card,Paid,42.71,5,City Ride
+TR201159,CU3389,DR783,2025-12-10,18,Bengaluru,Whitefield,South,Mini,Website,17.4,69,16.3,283.62,28.36,UPI,Paid,199.1,5,Airport
+TR200294,CU3146,DR774,2025-07-02,7,Mumbai,Andheri,West,Sedan,App,19.9,61,19.91,396.21,19.81,Cash,Paid,301.12,4,City Ride
+TR200174,CU3406,DR764,2025-09-25,8,Hyderabad,Kukatpally,South,Mini,  Website,22.0,90,15.73,346.06,0.0,Card,Paid,269.93,2,Airport
+TR201168,CU3420,DR723,2025-09-19,16,Mumbai,Andheri,West,Sedan,App,3.4,10,19.81,67.35,0.0,UPI,Paid,53.88,1,Airport
+TR200919,CU3355,DR719,2025-11-10,21,Hyderabad,Banjara Hills,South,Premium,App,20.9,68,25.22,527.1,0.0,UPI,Paid,421.68,3,City Ride
+TR200859,CU3074,DR789,2025-06-14,7,Bengaluru,Koramangala,South,Sedan,App,43.4,147,19.48,845.43,0.0,UPI,Paid,676.34,4,City Ride
+TR200341,CU3567,DR781,2025-10-22,7,Chennai,Adyar,South,Auto,App,23.2,95,14.03,325.5,0.0,UPI,Paid,244.12,5,City Ride
+TR200246,CU3596,DR778,2025-03-28,21,bengaluru,Koramangala,South,Mini,App,15.4,39,15.59,240.09,0.0,Card,Paid,187.27,3,City Ride
+TR200104,CU3116,DR715,2025-01-29,8,Pune,Viman Nagar,West,Premium,App,16.2,51,28.85,467.37,23.37,Cash,Paid,355.2,4,City Ride
+TR201042,CU3477,DR785,2025-06-13,14,Delhi,Saket,North,Auto,App,11.5,30,12.18,140.07,0.0,UPI,Paid,105.05,5,City Ride
+TR200209,CU3033,DR770,2025-12-31,20,Chennai,T Nagar,South,Mini,Website,24.3,85,13.62,330.97,33.1,UPI,Paid,232.34,5,City Ride
+TR200349,CU3108,DR727,2025-08-31,20,Chennai,Velachery,South,Auto,Call Center,3.1,10,11.47,35.56,3.56,UPI,Paid,24.0,5,City Ride
+TR201133,CU3316,DR770,2025-01-22,10,Bengaluru,Indiranagar,South,Mini,App,20.0,75,14.76,295.2,29.52,Card,Paid,207.23,4,City Ride
+TR200724,CU3174,DR776,2025-07-21,17,Pune,Kothrud,West,Auto,App,10.1,28,13.43,135.64,0.0,Cash,Paid,101.73,5,City Ride
+TR200809,CU3166,DR720,2025-08-09,17,Kolkata,Howrah,East,Premium,App,6.5,27,23.65,153.72,7.69,UPI,Paid,116.82,4,City Ride
+TR200088,CU3460,DR748,2025-02-08,16,Pune,Kothrud,West,Auto,App,16.3,42,12.66,206.36,0.0,UPI,Paid,154.77,4,City Ride
+TR200471,CU3211,DR722,2025-12-30,8,Pune,Viman Nagar,West,Mini,App,9.7,24,15.82,153.45,0.0,Cash,Paid,119.69,,City Ride
+TR200628,CU3289,DR767,2025-10-02,17,Bengaluru,Whitefield,South,Auto,Call Center,24.1,67,12.68,305.59,15.28,Wallet,Paid,217.73,3,City Ride
+TR200588,CU3155,DR800,2025-09-19,18,Chennai,Adyar,South,Sedan,App,16.0,47,20.01,320.16,32.02,UPI,Paid,230.51,2,Airport
+TR200758,CU3105,DR709,2025-07-20,6,Hyderabad,Hitech City,South,Sedan,Call Center,8.2,28,18.64,152.85,0.0,Cash,Paid,122.28,5,City Ride
+TR200391,CU3097,DR756,2025-08-02,9,  Kolkata,Park Street,East,Mini,App,23.1,59,16.72,386.23,19.31,UPI,Paid,286.2,5,City Ride
+TR201106,CU3279,DR795,2025-10-31,9,Mumbai,Andheri,West,Bike  ,App,5.8,25,6.93,40.19,0.0,UPI,Pending,28.13,5,City Ride
+TR200643,CU3037,DR713,2025-11-16,14,Bengaluru,Koramangala,South,Mini,App,22.0,78,15.01,330.22,0.0,Cash,Paid,257.57,4,City Ride
+TR200873,CU3539,DR726,2025-04-04,10,Hyderabad,Banjara Hills,South,Auto,App,22.2,52,13.95,309.69,15.48,UPI,Paid,220.66,5,City Ride
+TR200142,CU3066,DR754,2025-10-31,21,Chennai,T Nagar,South,Auto,App,3.6,12,14.65,52.74,0.0,Cash,Paid,39.55,3,Outstation
+TR200171,CU3180,DR770,2025-10-31,10,Hyderabad,Secunderabad,South,Auto,App,24.6,63,14.45,355.47,0.0,Card,Paid,266.6,4,City Ride
+TR201022,CU3451,DR820,2025-04-26,20,Hyderabad,Banjara Hills,South,Auto,app,15.2,51,12.5,190.0,19.0,UPI,Paid,128.25,4,City Ride
+TR201140,CU3052,DR734,2025-06-07,11,Bengaluru,Indiranagar,South,Auto,App,8.8,24,11.1,97.68,9.77,Wallet,Paid,65.93,4,City Ride
+TR200801,CU3532,DR714,2025-02-22,13,Mumbai  ,Powai,West,Premium,App,8.8,34,23.97,210.94,0.0,Wallet,Paid,168.75,5,City Ride
+TR200688,CU3293,DR803,2025-03-15,15,Kolkata,Park Street,East,Mini,Website,15.5,40,15.55,241.03,0.0,Wallet,Paid,188.0,4,City Ride
+TR200272,CU3143,DR777,2025-10-25,12,Chennai,Adyar,South,Auto,App,19.2,55,12.56,241.15,24.12,Cash,Paid,162.77,2,City Ride
+TR200153,CU3128,DR795,2025-02-26,9,Hyderabad,Hitech City,South,Mini,App,8.6,28,14.02,120.57,12.06,Cash,Paid,84.64,5,City Ride
+TR200858,CU3178,DR767,2025-01-11,19,Delhi,Saket,North,bike,Website,5.9,25,7.45,43.96,0.0,Cash,Paid,30.77,5,Airport
+TR200868,CU3066,DR769,2025-08-30,7,Hyderabad,Secunderabad,South,Mini,Call Center,26.5,73,14.81,392.47,19.62,Wallet,Pending,290.82,5,City Ride
+TR200385,CU3204,DR713,2025-08-10,17, hyderabad ,Hitech City,South,Sedan,Website,41.6,95,20.23,841.57,0.0,Cash,Paid,673.26,5,City Ride
+TR200905,CU3360,DR775,2025-01-31,16,Mumbai,Andheri,West,Mini,App,20.9,85,16.17,337.95,0.0,UPI,Pending,263.6,4,City Ride
+TR200680,CU3325,DR820,2025-06-22,17,  Delhi,Dwarka,North,Mini,App,10.6,37,16.85,178.61,0.0,UPI,Paid,139.32,4,City Ride
+TR200106,CU3145,DR806,2025-10-10,12,Bengaluru,Whitefield,South,Sedan,App,22.0,71,20.95,460.9,23.05,UPI,Paid,350.28,1,City Ride
+TR200541,CU3307,DR739,2025-07-25,22,Pune,Kothrud,West,Auto, app ,9.8,40,14.8,145.04,14.5,Cash,Paid,97.91,5,City Ride
+TR200206,CU3336,DR766,2025-07-13,7,Chennai,Velachery,South,Mini,App,30.3,94,16.08,487.22,48.72,Card,Paid,342.03,5,City Ride
+TR200502,CU3398,DR797,2025-10-01,9,Chennai,Adyar,South,Bike,App,2.7,9,8.03,21.68,2.17,UPI,Paid,13.66,5,City Ride
+TR201036,CU3024,DR814,2025-04-23,15,Kolkata,Howrah,East,Mini,App,18.9,53,14.53,274.62,13.73,Cash,Paid,203.49,3,City Ride
+TR200562,CU3340,DR763,2025-06-25,17,Chennai,Velachery,South,Sedan,App,5.4,17,18.66,100.76,0.0,UPI,Paid,80.61,5,City Ride
+TR200478,CU3330,DR812,2025-11-06,8,Pune,Hinjewadi,West,Bike,App,6.5,18,8.9,57.85,5.79,Card,Paid,36.44,4,City Ride
+TR200709,CU3261,DR727,2025-11-27,14,Mumbai,Bandra,West,Auto,Website,24.0,68,11.55,277.2,0.0,Cash,Paid,207.9,1,Airport
+TR200111,CU3354,DR765,2025-11-20,9,Chennai,Velachery,South,Bike,App,3.9,15,6.84,26.68,0.0,Cash,Pending,18.68,5,City Ride
+TR200652,CU3434,DR701,2025-01-30,23,Bengaluru,Whitefield,South,Mini,App,23.3,56,13.02,303.37,0.0,UPI,Paid,236.63,3,City Ride
+TR200083,CU3287,DR768,2025-12-22,7,Chennai,Velachery,South,Mini,App,18.3,47,15.9,290.97,14.55,UPI,Paid,215.61,4,City Ride
+TR200755,CU3338,DR738,2025-02-23,12,Bengaluru,Koramangala,South,Auto,App,21.7,57,14.47,314.0,0.0,UPI,Paid,235.5,3,City Ride
+TR201156,CU3185,DR708,2025-06-14,8,Bengaluru,Electronic City,South,Auto,App,6.8,29,14.7,99.96,5.0,Cash,Paid,71.22,3,City Ride
+TR200032,CU3583,DR723,2025-07-02,23,Chennai,Velachery,South,BIKE,App,30.5,98,8.88,270.84,0.0,UPI,Paid,189.59,4,City Ride
+TR201026,CU3129,DR807,2025-12-31,5,Delhi,Connaught Place,North,Sedan,App,20.6,57,17.73,365.24,0.0,UPI,Paid,292.19,5,City Ride
+TR200428,CU3173,DR805,2025-01-15,19, hyderabad ,Kukatpally,South,Auto,App,6.6,23,14.25,94.05,0.0,Wallet,Paid,70.54,5,Outstation
+TR200655,CU3022,DR785,2025-07-21,20,Chennai,Adyar,South,Bike,App,5.7,16,8.68,49.48,0.0,,Paid,34.64,4,Airport
+TR200182,CU3166,DR778,2025-11-14,11,Chennai,T Nagar,South,Sedan,Website,5.8,18,20.38,118.2,0.0,Card,Paid,94.56,4,City Ride
+TR200998,CU3350,DR735,2025-03-04,6,Chennai,Adyar,South,Bike,App,8.0,31,6.73,53.84,0.0,Card,Paid,37.69,5,City Ride
+TR200480,CU3091,DR730,2025-11-19,17,Delhi,Connaught Place,North,Sedan,App,6.8,18,19.97,135.8,0.0,Wallet,Paid,108.64,4,City Ride
+TR200713,CU3010,DR803,2025-06-17,12,Kolkata,Park Street,East,Mini,App,18.7,64,16.49,308.36,0.0,UPI,Paid,240.52,4,City Ride
+TR200908,CU3164,DR705,2025-01-24,12,Bengaluru,Indiranagar,South,Mini,App,3.0,10,16.87,50.61,0.0,Cash,Paid,39.48,5,Airport
+TR200664,CU3144,DR706,2025-11-19,15,Mumbai,Bandra,West,Premium  ,App,7.5,31,29.6,222.0,0.0,UPI,Paid,177.6,4,City Ride
+TR200065,CU3329,DR796,2025-08-10,12,Mumbai,Powai,West,Mini,Website,2.6,12,14.18,36.87,3.69,Wallet,Paid,25.88,5,Airport
+TR200282,CU3081,DR812,2025-08-28,8,Delhi,Connaught Place,North,Bike,Call Center,7.3,27,6.45,47.09,0.0,Cash,Paid,32.96,4,City Ride
+TR200745,CU3116,DR746,2025-08-05,18,Bengaluru,Indiranagar,South,Bike,Call Center,5.3,17,8.22,43.57,0.0,UPI,Paid,30.5,5,City Ride
+TR200807,CU3402,DR753,2025-06-13,9,Mumbai,Powai,West,Bike,Call Center,7.0,19,6.93,48.51,4.85,UPI,Paid,30.56,5,City Ride
+TR200773,CU3301,DR741,2025-12-03,18,Hyderabad,Banjara Hills,South,Mini,App,19.7,64,13.55,266.94,0.0,UPI,Paid,208.21,3,Airport
+TR201121,CU3160,DR809,2025-03-14,16,Hyderabad,Banjara Hills,South,Premium,App,14.2,39,29.11,413.36,20.67,Wallet,Paid,314.15,4,City Ride
+TR200224,CU3177,DR793,2025-03-12,8,Jaipur,Vaishali Nagar,North,Sedan,App,11.6,35,20.57,238.61,0.0,Cash,Paid,190.89,5,City Ride
+TR201055,CU3149,DR816,2025-05-07,19,Mumbai,Bandra,West,Sedan,App,9.1,25,20.1,182.91,18.29,Cash,Paid,131.7,5,City Ride
+TR200389,CU3285,DR808,2025-04-01,6,Hyderabad,Hitech City,South,Auto,Call Center,39.0,103,14.38,560.82,0.0,Card,Pending,420.62,5,City Ride
+TR200938,CU3561,DR752,2025-01-20,19,Delhi,Karol Bagh,North,Sedan,App,23.0,68,18.24,419.52,0.0,UPI,Paid,335.62,,City Ride
+TR200390,CU3442,DR703,2025-12-19,17,Hyderabad,Kukatpally,South,Premium,Call Center,7.7,22,27.75,213.68,21.37,UPI,Paid,153.85,5,City Ride
+TR200368,CU3439,DR752,2025-11-10,18,Mumbai,Bandra,West,Premium,App,18.3,68,27.99,512.22,0.0,Card,Paid,409.78,4,City Ride
+TR200452,,DR806,2025-05-29,9,Mumbai,Powai,West,Mini,App,18.6,54,16.39,304.85,15.24,Cash,Paid,225.9,3,City Ride
+TR201060,CU3012,DR723,2025-12-30,19,Mumbai,Andheri,West,Mini,App,16.1,39,14.99,241.34,0.0,Wallet,Paid,188.25,5,City Ride
+TR200730,CU3354,DR736,2025-04-05,7,Delhi,Connaught Place,North,Sedan,App,5.7,24,19.71,112.35,11.23,UPI,Paid,80.9,5,City Ride
+TR200704,,DR744,2025-01-26,7,Delhi,Saket,North,Sedan,App,17.3,70,19.69,340.64,34.06,UPI,Paid,245.26,5,City Ride
+TR200463,CU3059,DR719,2025-03-02,19,hyderabad,Kukatpally,South,Bike,App,4.8,14,6.92,33.22,1.66,UPI,Paid,22.09,5,City Ride
+TR200820,CU3161,DR738,2025-02-18,11,Delhi,Karol Bagh,North,Bike,App,3.7,12,7.43,27.49,2.75,Wallet,Paid,17.32,4,Outstation
+TR200843,CU3359,DR781,2025-05-09,10,Hyderabad,Banjara Hills,South,Mini,App,22.6,73,14.13,319.34,0.0,Cash,Paid,249.09,5,City Ride
+TR200217,CU3336,DR728,2025-10-16,9,Kolkata,Howrah,East,Bike,App,7.3,28,6.34,46.28,0.0,Card,Paid,32.4,3,Outstation
+TR200392,CU3563,DR731,2025-08-08,8,,T Nagar,South,Mini,App,2.9,12,14.19,41.15,0.0,UPI,Paid,32.1,5,City Ride
+TR200261,CU3106,DR809,2025-10-11,16,Hyderabad,Kukatpally,South,Mini,App,12.2,34,15.81,192.88,9.64,Card,Paid,142.93,4,City Ride
+TR200863,CU3211,DR736,2025-07-30,15,Delhi,Connaught Place,North,Mini,App,20.5,58,14.66,300.53,0.0,Card,Pending,234.41,5,City Ride
+TR200645,CU3015,DR712,2025-07-23,16,Delhi,Saket,North,Auto,App,15.3,50,12.08,184.82,9.24,UPI,Paid,131.69,4,City Ride
+TR200676,CU3440,DR735,2025-10-13,14,Hyderabad,Hitech City,South,Auto,App,10.0,39,11.44,114.4,5.72,Cash,Paid,81.51,5,Outstation
+TR200538,CU3181,DR796,2025-03-28,19,Pune,Hinjewadi,West,Bike,Call Center,4.7,14,8.23,38.68,0.0,Wallet,Paid,27.08,5,City Ride
+TR200911,CU3452,DR738,2025-12-28,12,Kolkata,Park Street,East,Auto,Website,22.7,93,13.66,310.08,0.0,UPI,Paid,232.56,4,City Ride
+TR200347,CU3134,DR805,2025-08-28,14,Mumbai,Dadar,West,Mini,App,6.7,18,16.22,108.67,10.87,UPI,Paid,76.28,4,City Ride
+TR200663,CU3392,DR798,2025-07-04,8,Chennai,Adyar,South,Mini,App,10.4,39,13.27,138.01,0.0,UPI,Paid,107.65,5,City Ride
+TR200277,CU3545,DR717,2025-07-10,3,Chennai,Velachery,South,Mini,app,14.1,41,13.64,192.32,0.0,Wallet,Paid,150.01,3,City Ride
+TR201109,CU3293,DR712,2025-03-12,2,Bengaluru,Electronic City,South,Bike,App,3.4,13,6.64,22.58,1.13,UPI,Paid,15.01,1,City Ride
+TR200164,CU3347,DR795,2025-04-11,18,Delhi,Dwarka,North,Auto,App,12.0,34,11.21,134.52,0.0,Card,Paid,100.89,4,City Ride
+TR200738,CU3152,DR769,2025-01-28,6,Hyderabad,Secunderabad,South,Sedan,App,12.9,42,19.62,253.1,0.0,UPI,Paid,202.48,3,City Ride
+TR200642,CU3230,DR724,2025-03-13,7,CHENNAI,Velachery,South,Mini,App,4.6,14,15.39,70.79,3.54,Card,Paid,52.45,4,City Ride
+TR201112,CU3390,DR775,2025-07-26,12,Hyderabad,Kukatpally,South,Bike,App,3.3,14,8.92,29.44,0.0,UPI,Paid,20.61,4,City Ride
+TR201045,CU3142,DR714,2025-03-17,19,Chennai,T Nagar,South,Auto,App,13.8,44,14.48,199.82,0.0,UPI,Paid,149.87,3,City Ride
+TR200240,CU3500,DR813,2025-06-05,13,Delhi,Saket,North, bike ,Website,4.1,18,7.9,32.39,0.0,Cash,Paid,22.67,3,City Ride
+TR200152,CU3482,DR801,2025-04-01,7,Pune,Viman Nagar,West,Sedan,app,12.9,52,16.22,209.24,0.0,Wallet,Paid,167.39,2,City Ride
+TR200071,CU3092,DR759,2025-03-01,16,Delhi,Connaught Place,North,Mini,App,7.3,26,16.71,121.98,0.0,UPI,Paid,95.14,4,City Ride
+TR200850,CU3377,DR804,2025-06-19,21,Bengaluru,Electronic City,South,Sedan,App,7.1,30,19.29,136.96,0.0,Card,Paid,109.57,2,City Ride
+TR200531,CU3455,DR765,2025-09-25,7,Mumbai,Andheri,West,Auto,App,17.0,68,14.92,253.64,0.0,UPI,Paid,190.23,4,City Ride
+TR200170,CU3048,DR808,2025-06-28,8,Chennai,Velachery,South,Mini,App,22.3,82,13.91,310.19,0.0,UPI,Paid,241.95,4,Airport
+TR200001,CU3096,DR757,2025-08-27,13,Chennai,Adyar,South,MINI,App,21.7,71,16.22,351.97,17.6,Cash,Paid,260.81,2,City Ride
+TR200988,CU3075,DR704,2025-08-17,20,Mumbai,Andheri,West,Bike,App,6.2,20,8.26,51.21,0.0,Wallet,Paid,35.85,4,City Ride
+TR200960,CU3556,DR728,2025-06-22,12,Bengaluru,Koramangala,South,mini,App,7.6,32,14.59,110.88,0.0,UPI,Pending,86.49,4,City Ride
+TR200062,CU3141,DR739,2025-10-21,11,Jaipur,C Scheme,North,Auto,Website,5.8,25,14.25,82.65,4.13,UPI,Paid,58.89,4,City Ride
+TR201084,CU3575,DR771,2025-11-08,18,Chennai,Velachery,South,Sedan,App,21.4,71,17.84,381.78,0.0,Card,Paid,305.42,5,City Ride
+TR200784,CU3492,DR796,2025-11-26,9,Delhi,Karol Bagh,North,Bike,App,2.0,7,8.71,17.42,0.0,Cash,Paid,12.19,5,City Ride
+TR200036,CU3489,DR732,2025-06-11,18,Pune,Hinjewadi,West,Bike,App,1.8,7,8.83,15.89,0.0,Card,Paid,11.12,3,Airport
+TR200857,CU3227,DR816,2025-03-14,19,Mumbai,Bandra,West,Auto,App,29.0,82,14.93,432.97,43.3,Cash,Paid,292.25,5,City Ride
+TR200291,CU3543,DR778,2025-04-09,16,Kolkata,Park Street,East,Premium,App,7.9,25,23.63,186.68,18.67,Cash,Paid,134.41,5,City Ride
+TR200352,CU3104,DR755,2025-05-01,9,  Delhi,Saket,North,Sedan,App,14.5,42,20.7,300.15,30.02,Wallet,Paid,216.1,5,City Ride
+TR200767,CU3437,DR803,2025-04-17,18,Mumbai,Powai,West,Bike,App,5.3,15,7.74,41.02,0.0,UPI,Paid,28.71,5,City Ride
+TR200231,CU3598,DR700,2025-07-03,6,Pune,Hinjewadi,West,Premium,App,27.0,105,29.59,798.93,0.0,UPI,Paid,639.14,3,City Ride
+TR200736,CU3214,DR799,2025-02-13,16,Bengaluru,Electronic City,South,Premium,App,36.8,137,29.67,1091.86,0.0,Wallet,Paid,873.49,5,Airport
+TR200167,CU3318,DR780,2025-05-21,7,Delhi,Saket,North,Auto,App,15.3,37,13.16,201.35,10.07,Cash,Paid,143.46,2,City Ride
+TR200316,CU3305,DR740,2025-01-21,23,Mumbai,Dadar,West,Mini,App,29.2,94,16.83,491.44,0.0,Cash,Paid,383.32,2,Airport
+TR200626,CU3564,DR702,2025-10-16,17,Delhi,Karol Bagh,North,Sedan,App,-1.5,68,20.62,503.13,0.0,Wallet,Paid,402.5,4,City Ride
+TR200757,CU3448,DR764,2025-10-25,22, bengaluru ,Indiranagar,South,Bike,App,4.7,20,8.2,38.54,0.0,UPI,Paid,26.98,5,City Ride
+TR200374,CU3340,DR767,2025-11-04,23,Pune,Viman Nagar,West,Bike,App,3.1,14,7.91,24.52,0.0,Card,Paid,17.16,4,Airport
+TR200513,CU3414,DR732,2025-06-03,8,Delhi,Dwarka,North,BIKE,Website,3.6,16,7.59,27.32,0.0,UPI,Paid,19.12,4,City Ride
+TR200764,CU3270,DR716,2025-01-28,4,Delhi,Connaught Place,North,Bike,Website,5.6,17,8.18,45.81,0.0,Card,Paid,32.07,3,City Ride
+TR200785,CU3170,DR739,2025-10-04,15,Jaipur,Malviya Nagar,North,Bike,App,4.5,15,8.87,39.91,2.0,UPI,Paid,26.54,2,City Ride
+TR200117,CU3127,DR708,2025-02-25,10,Delhi,Saket,North,Sedan,App,14.3,36,16.56,236.81,0.0,UPI,Paid,189.45,4,City Ride
+TR201035,CU3534,DR818,2025-09-16,18,Hyderabad,Kukatpally,South,Premium,Call Center,14.5,37,25.7,372.65,37.27,Card,Paid,268.3,5,Airport
+TR200533,CU3014,DR748,2025-05-15,12,Bengaluru,Koramangala,South,Sedan,Call Center,21.6,85,20.91,451.66,0.0,UPI,Paid,361.33,5,City Ride
+TR200747,CU3335,DR717,2025-09-29,10,Mumbai,Dadar,West,Mini,App,4.2,19,14.45,60.69,0.0,Cash,Paid,47.34,1,City Ride
+TR200218,CU3473,DR715,2025-02-01,16,Chennai,Adyar,South,Mini,App,33.8,110,13.99,472.86,0.0,UPI,Paid,368.83,4,City Ride
+TR200540,CU3150,DR761,2025-08-27,17,Hyderabad,Banjara Hills,South,Auto,App,10.2,43,12.39,126.38,0.0,Cash,Paid,94.78,3,City Ride
+TR200959,CU3142,DR700,2025-05-02,20,Hyderabad,Secunderabad,South,Auto,App,3.7,12,11.73,43.4,0.0,UPI,Paid,32.55,5,Outstation
+TR200798,CU3227,DR726,2025-07-10,8,Mumbai,Andheri,West,Mini,App,0.0,13,13.3,61.18,0.0,Cash,Paid,47.72,1,City Ride
+TR201075,CU3551,DR717,2025-11-10,16,Pune,Viman Nagar,West,Bike,App,4.7,15,7.94,37.32,0.0,,Paid,26.12,5,City Ride
+TR200163,CU3400,DR702,2025-08-11,8,Pune,Kothrud,West,Mini,App,8.9,29,13.34,118.73,11.87,Wallet,Paid,83.35,5,City Ride
+TR200416,CU3269,DR708,2025-07-27,15,Bengaluru,Electronic City,South,Sedan,App,18.8,75,20.0,376.0,0.0,UPI,Paid,300.8,5,City Ride
+TR200777,CU3149,DR727,2025-10-11,7,Bengaluru,Whitefield,South,Bike, app ,7.2,28,6.27,45.14,2.26,Cash,Paid,30.02,4,Outstation
+TR200719,CU3570,DR776,2025-07-17,17, hyderabad ,Hitech City,South,Mini,App,17.9,64,14.61,261.52,0.0,Wallet,Paid,203.99,4,Outstation
+TR200090,CU3405,DR787,2025-12-20,22,Delhi,Saket,North,Sedan,Call Center,9.7,38,20.43,198.17,0.0,Card,Paid,158.54,5,City Ride
+TR200591,CU3514,DR816,2025-07-27,14,Delhi,Dwarka,North,Auto,App,11.7,30,13.93,162.98,16.3,UPI,Paid,110.01,3,Airport
+TR200515,CU3548,DR790,2025-09-23,16,Delhi,Saket,North,Sedan,App,15.0,37,20.58,308.7,15.44,Cash,Paid,234.61,5,City Ride
+TR200161,CU3374,DR784,2025-10-23,12,Delhi,Karol Bagh,North,Sedan,App,11.2,36,17.29,193.65,0.0,Card,Paid,154.92,5,City Ride
+TR200524,CU3200,DR779,2025-04-16,7,Pune,Viman Nagar,West,Mini,App,24.6,90,14.71,361.87,0.0,Wallet,Paid,282.26,4,City Ride
+TR200570,CU3587,DR727,2025-05-28,15,Pune,Viman Nagar,West,Bike,Call Center,5.1,21,8.42,42.94,0.0,Cash,Paid,30.06,2,City Ride
+TR200459,CU3036,DR788,2025-07-07,23,Delhi,Saket,North,Sedan,App,23.1,95,17.86,412.57,20.63,,Paid,313.55,5,City Ride
+TR200623,CU3112,DR751,2025-03-11,12,Hyderabad,Kukatpally,South,Auto,App,21.3,77,12.53,266.89,0.0,Card,Paid,200.17,4,Outstation
+TR200003,CU3235,DR765,2025-01-03,17,Bengaluru,Indiranagar,South,Auto,App,12.5,43,14.99,187.38,0.0,Card,Paid,140.53,5,City Ride
+TR200404,CU3271,DR716,2025-06-06,13,Delhi,Dwarka,North,Auto,App,17.0,67,13.26,225.42,0.0,Card,Paid,169.06,4,Airport
+TR200782,CU3276,DR807,2025-02-03,10,Bengaluru,Koramangala,South,Bike,App,3.7,12,6.47,23.94,0.0,Cash,Paid,16.76,4,City Ride
+TR200082,CU3244,DR762,2025-08-19,6,Kolkata,Salt Lake,East,Sedan,App,22.3,72,19.85,442.66,44.27,Cash,Paid,318.71,5,City Ride
+TR200700,CU3184,DR778,2025-10-30,11,Hyderabad,Secunderabad,South,Sedan,App,16.0,41,18.15,290.4,14.52,Cash,Pending,220.7,3,Airport
+TR200233,CU3499,DR707,2025-02-13,18,Pune,Kothrud,West,Auto,App,10.4,26,11.01,114.5,0.0,Card,Pending,85.88,4,City Ride
+TR200121,CU3540,DR748,2025-09-02,11,Chennai,Velachery,South,Mini,App,16.9,65,13.47,227.64,0.0,Card,Paid,177.56,4,City Ride
+TR200251,CU3516,DR763,2025-04-17,9,Bengaluru,Indiranagar,South,Sedan,App,10.6,33,19.67,208.5,20.85,UPI,Pending,150.12,5,City Ride
+TR200778,CU3168,DR753,2025-06-25,20,Chennai,Adyar,South,Mini,App,7.3,20,14.43,105.34,0.0,Wallet,Paid,82.17,4,City Ride
+TR200450,CU3280,DR746,2025-09-08,14,Chennai,Adyar,South,SEDAN,App,23.1,90,16.05,370.76,37.08,Card,Paid,266.94,4,City Ride
+TR200070,CU3201,DR734,2025-06-21,17,Chennai,T Nagar,South,Sedan,App,23.6,76,16.39,386.8,0.0,Card,Paid,309.44,5,City Ride
+TR200213,CU3052,DR739,2025-02-09,16,Bengaluru,Electronic City,South,Auto,App,29.9,84,13.93,416.51,0.0,UPI,Paid,312.38,2,City Ride
+TR200925,CU3419,DR781,2025-06-19,23,Hyderabad,Secunderabad,South,Bike,App,3.3,15,8.0,26.4,0.0,UPI,Paid,18.48,3,City Ride
+TR200026,CU3322,DR814,2025-04-21,19,Mumbai,Bandra,West,Auto,App,16.1,67,11.93,192.07,0.0,Wallet,Paid,144.05,2,City Ride
+TR200348,CU3398,DR747,2025-01-29,15,Pune,Hinjewadi,West,mini,App,9.5,28,14.76,140.22,0.0,Card,Paid,109.37,5,City Ride
+TR200932,CU3470,DR781,2025-03-02,19,Jaipur,C Scheme,North,Sedan,App,5.7,23,16.99,96.84,0.0,UPI,Paid,77.47,5,Airport
+TR200281,CU3338,DR793,2025-09-08,14,Chennai,Velachery,South,Mini,App,7.4,32,15.82,117.07,11.71,UPI,Paid,82.18,5,City Ride
+TR200145,CU3470,DR744,2025-12-13,14,Jaipur,C Scheme,North,Premium,Call Center,5.7,20,26.55,,0.0,Cash,Paid,121.07,5,City Ride
+TR200098,CU3255,DR803,2025-07-22,15,Chennai,Adyar,South,Sedan,App,6.9,29,20.14,138.97,0.0,UPI,Pending,111.18,5,Airport
+TR200219,CU3470,DR816,2025-09-26,12,Chennai,Velachery,South,Mini,App,15.7,57,16.73,262.66,26.27,UPI,Paid,184.38,4,City Ride
+TR200211,CU3268,DR819,2025-06-11,13,Hyderabad,Hitech City,South,Bike,Website,2.1,9,6.13,12.87,0.64,UPI,Paid,8.56,1,Airport
+TR200387,CU3007,DR782,2025-11-12,18,Hyderabad,Secunderabad,South,MINI,App,5.8,25,15.52,90.02,0.0,Cash,Paid,70.22,3,City Ride
+TR200442,CU3054,DR779,2025-11-05,15,Pune,Viman Nagar,West,Sedan,App,42.9,139,19.53,837.84,0.0,Wallet,Paid,670.27,1,City Ride
+TR200415,CU3166,DR795,2025-10-08,5,Mumbai,Andheri,West,Auto,App,23.8,64,14.99,356.76,0.0,Card,Paid,267.57,4,City Ride
+TR201024,CU3394,DR718,2025-07-27,13,Delhi,Connaught Place,North,Bike,App,3.1,12,8.58,26.6,0.0,Cash,Paid,18.62,3,City Ride
+TR200040,CU3076,DR802,2025-10-09,8,Hyderabad,Hitech City,South,Mini,App,24.6,93,14.42,354.73,0.0,UPI,Paid,276.69,3,City Ride
+TR200035,CU3303,DR703,2025-07-24,16,Mumbai,Andheri,West,Auto,App,10.4,36,13.62,141.65,14.17,Wallet,Paid,95.61,4,City Ride
+TR201003,CU3514,DR766,2025-10-14,21,Pune,Kothrud,West,Bike,App,2.7,12,7.41,20.01,0.0,Cash,Paid,14.01,3,City Ride
+TR201107,CU3264,DR774,2025-12-22,8,Chennai,Velachery,South,bike,Website,4.2,14,6.67,28.01,1.4,Wallet,Paid,18.63,4,City Ride
+TR200506,CU3205,DR744,2025-12-10,22,Chennai,Velachery,South,Bike,App,42.1,121,8.37,352.38,0.0,Cash,Paid,246.67,5,City Ride
+TR200737,CU3478,DR706,2025-06-14,11,Jaipur,Malviya Nagar,North,Premium,Website,16.4,57,26.93,441.65,0.0,Cash,Paid,353.32,4,City Ride
+TR201171,CU3518,DR797,2025-10-13,12,Bengaluru,Koramangala,South,Auto,Call Center,5.0,17,11.19,55.95,0.0,UPI,Paid,41.96,5,City Ride
+TR200245,CU3541,DR735,2025-07-25,7,Hyderabad,Secunderabad,South,Bike,App,1.6,7,6.74,10.78,1.08,UPI,Pending,6.79,4,Airport
+TR200487,CU3348,DR773,2025-11-16,13,Mumbai,Dadar,West,Mini,Website,16.8,44,14.02,235.54,0.0,UPI,Paid,183.72,5,City Ride
+TR200188,CU3027,DR708,2025-06-23,18,Bengaluru,Electronic City,South,Mini,App,4.6,15,15.51,71.35,0.0,Cash,Paid,55.65,4,City Ride
+TR200827,CU3154,DR791,2025-06-12,15,Chennai,Adyar,South,Sedan,App,18.2,71,18.29,332.88,0.0,UPI,Paid,266.3,2,City Ride
+TR200015,CU3173,DR714,2025-04-18,7,Bengaluru,Electronic City,South,Premium,App,13.4,54,28.79,385.79,0.0,Wallet,Paid,308.63,3,City Ride
+TR200792,CU3582,DR785,2025-07-03,5,Mumbai,Dadar,West,Sedan,App,18.0,73,17.43,313.74,31.37,UPI,Paid,225.9,5,City Ride
+TR200739,CU3412,DR796,2025-12-09,1,Chennai,Adyar,South,Auto,Call Center,7.8,32,13.97,108.97,0.0,Wallet,Paid,81.73,5,City Ride
+TR201188,CU3473,DR747,2025-07-14,8,Mumbai,Bandra,West,Bike,Call Center,4.7,19,8.51,40.0,4.0,Cash,Paid,25.2,4,City Ride
+TR200654,CU3499,DR726,2025-07-07,15,Jaipur,C Scheme,North,Sedan,App,3.4,13,17.63,59.94,5.99,UPI,Paid,43.16,5,Airport
+TR200007,CU3588,DR717,2025-10-26,17,Hyderabad,Banjara Hills,South,Bike,App,1.6,6,7.87,12.59,0.0,Wallet,Paid,8.81,2,Airport
+TR200242,CU3451,DR801,2025-07-07,13,Mumbai,Andheri,West,Mini,Call Center,3.8,12,16.27,61.83,0.0,Card,Paid,48.23,4,Airport
+TR200259,CU3104,DR729,2025-09-06,9,Bengaluru,Whitefield,South,Bike,App,5.3,20,6.72,35.62,0.0,UPI,Paid,24.93,3,Outstation
+TR201174,CU3139,DR819,2025-02-14,17,Bengaluru,Indiranagar,South,Auto,Call Center,5.7,23,11.13,63.44,0.0,UPI,Paid,47.58,5,City Ride
+TR200455,CU3260,DR700,2025-05-20,20,Jaipur,C Scheme,North,Premium,App,13.2,45,22.94,302.81,30.28,UPI,Paid,218.02,3,City Ride
+TR200500,CU3526,DR711,2025-05-02,7,Pune,Hinjewadi,West,Mini,Website,15.4,60,14.71,226.53,0.0,Cash,Paid,176.69,4,City Ride
+TR200909,CU3459,DR724,2025-06-19,18,Delhi,Dwarka,North,Sedan, app ,21.0,70,16.68,350.28,0.0,UPI,Paid,280.22,5,City Ride
+TR200571,CU3294,DR804,2025-05-26,13,Bengaluru,Whitefield,South,Bike,App,3.2,15,6.76,21.63,0.0,UPI,Paid,15.14,2,Airport
+TR200305,CU3515,DR739,2025-12-03,21,Pune,Kothrud,West,Mini,Website,4.1,17,14.17,58.1,5.81,UPI,Paid,40.79,1,City Ride
+TR200045,CU3086,DR742,2025-10-06,8,Hyderabad,Hitech City,South,Mini,App,41.8,102,14.69,614.04,61.4,Cash,Paid,431.06,5,City Ride
+TR200527,CU3387,DR719,2025-09-14,23,Chennai,T Nagar,South,Sedan,App,16.5,48,16.9,278.85,13.94,UPI,Pending,211.93,4,City Ride
+TR201031,CU3345,DR774,2025-09-06,9,Delhi,Dwarka,North,Auto,App,3.5,14,13.02,45.57,4.56,Cash,Pending,30.76,4,City Ride
+TR200974,CU3001,DR788,2025-06-21,18,Delhi,Saket,North,Bike,App,3.9,12,7.36,28.7,0.0,UPI,Paid,20.09,1,Airport
+TR201100,CU3338,DR739,2025-02-27,8,Delhi,Dwarka,North,Sedan,App,16.0,56,19.71,315.36,0.0,UPI,Paid,252.29,3,City Ride
+TR200359,CU3368,DR765,2025-06-05,14,Bengaluru,Whitefield,South,Sedan,App,14.2,48,20.06,284.85,0.0,Cash,Paid,227.88,4,Airport
+TR200220,CU3269,DR770,2025-04-18,23,Pune,Hinjewadi,West,Bike,App,7.7,23,7.98,61.45,0.0,UPI,Paid,43.02,2,City Ride
+TR200838,CU3421,DR756,2025-11-21,18,Chennai,T Nagar,South,Sedan,App,7.6,29,19.07,144.93,0.0,UPI,Paid,115.94,5,City Ride
+TR200462,CU3348,DR718,2025-07-31,22,Pune,Hinjewadi,West,Mini,Website,30.8,125,13.75,423.5,0.0,Card,Paid,330.33,1,City Ride
+TR200039,CU3265,DR754,2025-05-03,8,Bengaluru,Whitefield,South,Auto,App,7.7,21,14.66,112.88,0.0,Cash,Paid,84.66,4,City Ride
+TR200986,CU3584,DR792,2025-10-03,7,Bengaluru,Indiranagar,South,Sedan,App,3.5,14,16.48,57.68,0.0,Card,Paid,46.14,3,Airport
+TR200495,CU3209,DR718,2025-02-24,17,Mumbai,Dadar,West,Mini,App,22.0,74,16.16,355.52,35.55,Cash,Paid,249.58,5,City Ride
+TR200274,CU3423,DR721,2025-08-08,21,  Bengaluru,Electronic City,South,Sedan,App,6.8,22,18.48,125.66,0.0,Wallet,Pending,100.53,5,City Ride
+TR200312,CU3457,DR792,2025-09-04,19,Hyderabad,Secunderabad,South,Auto,App,12.1,39,12.89,155.97,15.6,Card,Paid,105.28,5,City Ride
+TR200865,CU3543,DR733,2025-05-03,8,Bengaluru,Electronic City,South,Premium,App,12.3,40,24.67,303.44,0.0,UPI,Paid,242.75,3,City Ride
+TR200651,CU3598,DR797,2025-03-10,8,Delhi,Connaught Place,North,Sedan,App,5.2,21,18.81,97.81,0.0,UPI,Paid,78.25,3,City Ride
+TR200079,CU3181,DR759,2025-04-22,4,Kolkata,Park Street,East,Premium,Call Center,11.3,32,-22.47,253.91,0.0,Cash,Paid,203.13,5,City Ride
+TR200975,CU3284,DR770,2025-11-27,23,Delhi,Karol Bagh,North,Mini,App,24.6,76,13.7,337.02,16.85,Card,Paid,249.73,2,City Ride
+TR200488,CU3587,DR731,2025-06-06,11,Kolkata,Salt Lake,East,Mini,App,8.5,33,16.72,142.12,0.0,Card,Paid,110.85,3,City Ride
+TR200899,,DR705,2025-02-07,7,Hyderabad,Secunderabad,South,Mini,App,13.0,39,15.0,195.0,0.0,UPI,Paid,152.1,5,City Ride
+TR200744,CU3044,DR819,2025-11-03,12,Hyderabad,Banjara Hills,South,Sedan,Website,16.1,50,20.6,331.66,0.0,Card,Paid,265.33,3,City Ride
+TR200179,CU3204,DR786,2025-05-10,11,Chennai,T Nagar,South,Sedan,App,16.9,45,19.27,325.66,0.0,UPI,Paid,260.53,5,City Ride
+TR200881,CU3242,DR780,2025-06-21,5,Bengaluru,Koramangala,South,Mini,App,5.9,18,16.65,,0.0,UPI,Paid,76.62,4,City Ride
+TR200989,CU3423,DR725,2025-04-02,16,Bengaluru,Koramangala,South,Mini,App,22.3,68,13.42,299.27,29.93,Cash,Paid,210.09,5,Airport
+TR200010,CU3035,DR818,2025-03-09,7,Bengaluru,Whitefield,South,Mini,App,5.2,17,14.32,74.46,7.45,Cash,Paid,52.27,5,City Ride
+TR200769,CU3216,DR721,2025-01-06,10,Delhi,Saket,North,Premium,App,10.6,34,25.69,272.31,0.0,UPI,Paid,217.85,5,Airport
+TR200093,CU3164,DR716,2025-04-15,19,Bengaluru,Koramangala,South,SEDAN,App,21.1,74,18.1,381.91,0.0,Cash,Paid,305.53,5,City Ride
+TR200285,CU3578,DR714,2025-06-02,8,hyderabad,Hitech City,South,Bike,App,6.7,19,7.91,53.0,0.0,Wallet,Paid,37.1,4,City Ride
+TR200263,CU3533,DR755,2025-09-04,9,Delhi,Karol Bagh,North,Bike,App,6.9,22,7.75,53.48,2.67,UPI,Paid,35.57,4,City Ride
+TR200783,CU3528,DR782,2025-06-25,9,jaipur,Vaishali Nagar,North,Mini,App,11.0,35,14.13,155.43,0.0,UPI,Pending,121.24,3,Airport
+TR200921,CU3566,DR801,2025-01-16,19,Pune,Viman Nagar,West,Mini,App,5.7,18,14.81,84.42,0.0,UPI,Paid,65.85,5,City Ride
+TR201005,CU3280,DR802,2025-04-01,19,Pune,Hinjewadi,West,SEDAN,App,4.3,13,20.62,88.67,4.43,UPI,Paid,67.39,5,City Ride
+TR200563,CU3539,DR712,2025-07-23,8,Mumbai,Andheri,West,Sedan,App,35.7,84,18.58,663.31,0.0,UPI,Paid,530.65,5,City Ride
+TR200787,CU3128,DR706,2025-01-31,19,Delhi,Connaught Place,North,Mini,App,22.5,60,16.75,376.88,0.0,Cash,Paid,293.97,4,City Ride
+TR200945,CU3513,DR729,2025-09-03,7,Hyderabad,Secunderabad,South,Auto,App,9.0,33,14.16,127.44,0.0,Cash,Paid,95.58,5,Airport
+TR200118,CU3106,DR803,2025-07-31,13,Delhi,Saket,North,Auto,App,24.8,82,11.68,289.66,0.0,Cash,Paid,217.25,5,City Ride
+TR200138,CU3221,DR750,2025-04-06,17,Chennai,T Nagar,South,Bike,App,4.9,16,8.27,40.52,0.0,UPI,Paid,28.36,5,City Ride
+TR200558,CU3468,DR783,2025-03-05,7,Bengaluru,Koramangala,South,Mini,Website,17.7,55,15.41,272.76,0.0,Cash,Paid,212.75,4,City Ride
+TR200196,CU3182,DR760,2025-02-25,15,Hyderabad,Banjara Hills,South,Sedan,App,24.4,96,18.01,439.44,0.0,Card,Paid,351.55,5,City Ride
+TR200746,CU3257,DR749,2025-01-24,12,Bengaluru,Whitefield,South,Mini,App,2.4,10,14.35,34.44,3.44,Wallet,Paid,24.18,2,City Ride
+TR200842,CU3426,DR732,2025-11-26,13,delhi,Saket,North,Auto,App,21.3,86,14.26,303.74,30.37,UPI,Paid,205.03,5,City Ride
+TR201063,CU3027,DR743,2025-02-06,15,Delhi,Saket,North,Premium,App,12.2,35,26.45,322.69,16.13,Cash,Paid,245.25,5,City Ride
+TR200022,CU3557,DR767,2025-10-14,9,Hyderabad,Secunderabad,South,Mini,App,17.4,47,16.48,286.75,28.68,UPI,Paid,201.29,4,City Ride
+TR200897,CU3571,DR804,2025-08-31,14,Pune,Viman Nagar,West,Bike,Website,2.5,9,7.08,17.7,0.0,UPI,Paid,12.39,4,City Ride
+TR200508,CU3481,DR705,2025-07-06,6,Bengaluru,Indiranagar,South,Premium,App,20.8,83,28.12,584.9,58.49,Cash,Paid,421.13,1,City Ride
+TR200290,CU3311,DR716,2025-01-15,17,Chennai,T Nagar,South,Bike,App,5.5,20,8.97,,2.47,Cash,Paid,32.81,5,City Ride
+TR200418,CU3243,DR756,2025-05-06,17,Delhi,Saket,North,Sedan,Website,3.1,11,16.85,52.24,0.0,UPI,Paid,41.79,4,City Ride
+TR200810,CU3171,DR804,2025-09-01,11,bengaluru,Indiranagar,South,Auto,App,21.0,73,11.55,242.55,0.0,UPI,Paid,181.91,5,City Ride
+TR200560,CU3560,DR708,2025-04-30,23,Hyderabad,Banjara Hills,South,Sedan,App,34.1,137,19.67,670.75,0.0,Wallet,Paid,536.6,,City Ride
+TR200064,CU3474,DR807,2025-02-22,13,Chennai,Velachery,South,Mini  ,App,11.5,37,15.76,181.24,9.06,Card,Paid,134.3,4,Airport
+TR200611,CU3042,DR710,2025-08-27,20,Kolkata,Howrah,East,Mini,Call Center,2.7,9,14.67,39.61,3.96,UPI,Paid,27.81,3,City Ride
+TR200740,CU3213,DR806,2025-12-18,0,Hyderabad,Kukatpally,South,Auto,Website,22.6,82,13.72,310.07,0.0,UPI,Paid,232.55,3,City Ride
+TR200328,CU3118,DR758,2025-11-03,17,Jaipur,Malviya Nagar,North,Mini,App,19.1,70,15.04,287.26,0.0,Card,Paid,224.06,5,City Ride
+TR200884,CU3507,DR793,2025-04-03,23,Chennai,Adyar,South,Sedan,App,5.4,22,20.91,112.91,5.65,UPI,Paid,85.81,5,Outstation
+TR200355,CU3188,DR717,2025-04-19,13,Pune,Viman Nagar,West,Mini,App,8.4,34,15.55,130.62,0.0,UPI,Paid,101.88,5,City Ride
+TR200430,CU3053,DR773,2025-11-28,15,Chennai,T Nagar,South,Sedan,App,8.3,29,19.09,158.45,15.84,Wallet,Paid,114.09,2,City Ride
+TR200257,CU3030,DR800,2025-03-19,18,Chennai,T Nagar,South,Auto,Call Center,4.1,12,11.06,45.35,0.0,Card,Paid,34.01,4,Outstation
+TR200742,CU3467,DR808,2025-09-29,13,Kolkata,Salt Lake,East,Bike,App,4.5,15,7.08,31.86,0.0,UPI,Paid,22.3,4,City Ride
+TR200617,CU3048,DR757,2025-04-23,23,Jaipur,Malviya Nagar,North,Sedan,App,9.5,39,16.68,158.46,0.0,Wallet,Paid,126.77,5,City Ride
+TR200542,CU3477,DR809,2025-07-10,11,Chennai,Velachery,South,Sedan,App,40.7,100,17.66,718.76,0.0,UPI,Paid,575.01,3,Airport
+TR201052,CU3190,DR726,2025-11-12,15,Mumbai,Powai,West,Auto,App,18.1,59,14.26,258.11,12.91,UPI,Paid,183.9,2,City Ride
+TR200876,CU3292,DR778,2025-01-25,16,Mumbai,Bandra,West,Sedan,App,12.9,47,17.93,231.3,0.0,Cash,Pending,185.04,5,City Ride
+TR201144,CU3472,DR729,2025-02-04,14,Jaipur,Vaishali Nagar,North,Bike,App,6.7,18,8.24,55.21,5.52,Wallet,Paid,34.78,3,City Ride
+TR200904,CU3590,DR772,2025-11-02,8,Bengaluru,Whitefield,South,Auto,App,16.4,59,11.71,192.04,0.0,UPI,Paid,144.03,4,City Ride
+TR200025,CU3023,DR748,2025-09-13,18,Bengaluru,Electronic City,South,Mini,Website,4.8,18,14.0,67.2,0.0,Card,Paid,52.42,4,Airport
+TR200845,CU3413,DR779,2025-05-27,14,Kolkata,Salt Lake,East,Bike,Website,5.2,22,8.54,44.41,2.22,UPI,Pending,29.53,5,Airport
+TR200578,CU3502,DR815,2025-09-22,10,Mumbai,Dadar,West,Bike,App,2.8,10,6.85,19.18,0.96,UPI,Pending,12.75,5,City Ride
+TR201186,CU3529,DR775,2025-12-14,21,Mumbai,Andheri,West, premium ,Website,6.9,24,29.2,201.48,10.07,Cash,Paid,153.13,5,City Ride
+TR201122,CU3021,DR777,2025-10-23,9,Delhi,Dwarka,North,Premium,App,14.1,49,26.99,380.56,0.0,UPI,Paid,304.45,5,City Ride
+TR200901,CU3438,DR724,2025-06-15,9,Delhi,Dwarka,North,  Mini,App,5.5,18,15.94,87.67,0.0,Cash,Paid,68.38,5,City Ride
+TR200433,CU3190,DR759,2025-02-26,20,Bengaluru,Indiranagar,South,Bike,Website,-1.5,20,8.27,52.1,0.0,UPI,Paid,36.47,5,City Ride
+TR200252,CU3275,DR711,2025-11-12,8,Mumbai,Andheri,West,Sedan,App,19.6,80,18.43,361.23,36.12,UPI,Paid,260.09,4,City Ride
+TR201032,CU3569,DR749,2025-05-12,19,Mumbai,Powai,West,Bike,App,6.2,19,6.99,43.34,0.0,UPI,Paid,30.34,4,City Ride
+TR201136,CU3334,DR774,2025-09-08,7,Mumbai,Andheri,West,Mini,App,24.4,96,14.89,363.32,0.0,UPI,Paid,283.39,1,City Ride
+TR201150,CU3233,DR715,2025-12-08,15,Pune,Hinjewadi,West,Premium,App,6.3,22,28.74,181.06,0.0,Wallet,Paid,144.85,5,Airport
+TR201034,CU3500,DR759,2025-06-24,19,Chennai,Adyar,South,Bike,App,1.8,9,7.97,14.35,0.0,UPI,Paid,10.04,4,City Ride
+TR201037,CU3109,DR738,2025-07-13,8,Chennai,Velachery,South,Mini,App,40.3,158,16.87,679.86,33.99,UPI,Paid,503.78,5,City Ride
+TR200204,CU3542,DR811,2025-05-31,21,Bengaluru,Electronic City,South,Auto,Website,19.4,71,12.89,250.07,0.0,Cash,Paid,187.55,2,City Ride
+TR200886,CU3169,DR810,2025-02-24,17,Delhi,Karol Bagh,North,Premium,App,14.3,37,26.5,378.95,0.0,UPI,Paid,303.16,5,City Ride
+TR200715,CU3132,DR775,2025-05-01,18,Kolkata,Howrah,East,Auto,App,10.4,29,12.88,133.95,0.0,Card,Paid,100.46,4,Airport
+TR200622,CU3116,DR756,2025-01-20,6,Chennai,T Nagar,South,Auto,App,13.4,53,11.41,152.89,0.0,UPI,Paid,114.67,,City Ride
+TR200927,CU3233,DR728,2025-04-03,19,Mumbai,Dadar,West,Sedan,App,43.9,119,18.83,826.64,41.33,UPI,Paid,628.25,5,City Ride
+TR201187,CU3301,DR767,2025-10-23,13,Delhi,Dwarka,North,Premium,App,17.2,63,29.02,499.14,0.0,UPI,Paid,399.31,5,Airport
+TR200675,CU3334,DR735,2025-06-08,20,Kolkata,Howrah,East,Sedan,App,23.8,68,19.41,461.96,23.1,UPI,Paid,351.09,5,Airport
+TR200437,CU3151,DR726,2025-08-26,10,Mumbai,Bandra,West,  Mini,App,25.0,58,13.13,328.25,32.83,UPI,Paid,230.43,5,City Ride
+TR201113,CU3406,DR819,2025-08-11,8,Chennai,T Nagar,South,Mini,App,21.1,79,13.89,293.08,29.31,UPI,Pending,205.74,5,City Ride
+TR200330,CU3301,DR761,2025-12-01,17,,Kothrud,West,Mini,Call Center,11.7,44,16.72,195.62,19.56,UPI,Paid,137.33,5,City Ride
+TR200814,CU3026,DR751,2025-12-05,9,Pune,Hinjewadi,West,Sedan,App,16.1,63,20.21,325.38,0.0,Cash,Paid,260.3,4,City Ride
+TR200427,CU3359,DR721,2025-10-01,18,Bengaluru,Electronic City,South,Premium,Website,16.8,56,26.79,450.07,0.0,UPI,Paid,360.06,5,City Ride
+TR200900,CU3237,DR775,2025-01-13,6,Chennai,T Nagar,South,Auto,App,21.8,79,13.09,285.36,14.27,Cash,Paid,203.32,3,Airport
+TR200016,CU3577,DR702,2025-11-16,13,Mumbai,Bandra,West,Mini,App,42.5,111,13.17,559.73,0.0,Cash,Paid,436.59,3,City Ride
+TR200701,CU3532,DR737,2025-01-17,10,Bengaluru,Indiranagar,South,Bike  ,App,4.1,13,6.29,25.79,0.0,Card,Paid,18.05,4,City Ride
+TR200772,CU3321,DR811,2025-04-25,17,Chennai,T Nagar,South,Sedan,App,2.3,8,18.73,43.08,0.0,Cash,Paid,34.46,5,City Ride
+TR201030,CU3342,DR768,2025-08-23,6,Mumbai,Andheri,West,Sedan,App,6.1,22,18.24,111.26,5.56,Card,Paid,84.56,4,City Ride
+TR200410,CU3304,DR820,2025-09-23,7,Hyderabad,Kukatpally,South,Mini,App,7.5,22,14.89,111.68,5.58,UPI,Paid,82.76,3,Airport
+TR200128,CU3366,DR798,2025-03-25,17,Bengaluru,Koramangala,South,Auto,App,10.7,45,13.73,146.91,7.35,Cash,Paid,104.67,5,City Ride
+TR200662,CU3237,DR764,2025-03-15,8,Bengaluru,Electronic City,South,Sedan,App,5.2,15,17.95,93.34,4.67,Card,Paid,70.94,4,City Ride
+TR200435,CU3553,DR751,2025-04-01,15,Pune  ,Viman Nagar,West,Sedan,App,11.1,33,17.28,191.81,9.59,Cash,Paid,145.78,5,Airport
+TR200802,CU3162,DR709,2025-04-17,18,Delhi,Dwarka,North,Mini,App,23.7,57,16.7,395.79,19.79,Card,Paid,293.28,4,Airport
+TR200295,CU3143,DR771,2025-02-06,7,Chennai,Velachery,South,Bike,Call Center,7.5,19,7.78,58.35,5.84,UPI,Paid,36.76,4,City Ride
+TR200582,CU3046,DR747,2025-11-05,10,Delhi,Saket,North,Sedan,App,14.5,58,16.36,237.22,23.72,UPI,Paid,170.8,3,City Ride
+TR200639,CU3458,DR771,2025-02-17,11,Hyderabad,Secunderabad,South,Mini,App,17.1,69,13.56,231.88,0.0,Cash,Paid,180.87,4,City Ride
+TR200699,CU3309,DR722,2025-06-16,20,Hyderabad,Banjara Hills,South,Sedan,Website,9.3,33,20.06,186.56,9.33,UPI,Paid,141.78,4,City Ride
+TR200344,CU3151,DR735,2025-02-19,7,Hyderabad,Banjara Hills,South,Sedan,App,13.7,54,19.24,263.59,0.0,Cash,Paid,210.87,4,City Ride
+TR200364,CU3519,DR760,2025-02-28,10,Chennai,Adyar,South,Bike,App,44.0,111,8.94,393.36,0.0,UPI,Paid,275.35,3,City Ride
+TR200656,CU3352,DR743,2025-10-06,3, bengaluru ,Koramangala,South,Bike,Call Center,4.7,16,7.05,33.13,3.31,UPI,Paid,20.87,1,City Ride
+TR200100,CU3256,DR815,2025-09-30,19,Mumbai,Andheri,West,Auto,App,19.7,51,11.4,224.58,11.23,UPI,Paid,160.01,5,City Ride
+TR201050,CU3539,DR736,2025-01-02,19,Hyderabad,Secunderabad,South,Mini,Website,10.9,34,14.09,153.58,7.68,UPI,Paid,113.8,5,City Ride
+TR200292,CU3053,DR731,2025-02-18,17,Hyderabad,Hitech City,South,Bike,App,7.7,24,7.59,58.44,5.84,Cash,Paid,36.82,4,City Ride
+TR200597,CU3036,DR738,2025-03-07,14,Delhi,Karol Bagh,North,Mini,Call Center,12.0,48,16.85,202.2,0.0,UPI,Paid,157.72,4,Outstation
+TR200687,CU3212,DR731,2025-01-20,23,Bengaluru,Electronic City,South,Mini,App,4.6,13,15.33,70.52,7.05,Cash,Pending,49.51,5,City Ride
+TR200394,CU3152,DR741,2025-05-28,3,Delhi,Karol Bagh,North,Mini,App,22.8,79,14.5,330.6,33.06,Cash,Paid,232.08,1,Airport
+TR201028,CU3482,DR748,2025-04-20,19,Hyderabad,Secunderabad,South,Mini,App,24.5,62,16.37,401.06,0.0,UPI,Paid,312.83,4,Outstation
+TR200155,CU3310,DR759,2025-12-18,18,BENGALURU,Whitefield,South,Mini,App,4.4,14,13.22,58.17,0.0,UPI,Pending,45.37,4,City Ride
+TR200674,CU3489,DR799,2025-10-06,16,Kolkata,Salt Lake,East,Sedan,App,14.0,43,18.79,263.06,0.0,UPI,Paid,210.45,5,Outstation
+TR200319,CU3231,DR806,2025-07-02,14,Hyderabad,Hitech City,South,Sedan,Call Center,12.2,32,18.89,230.46,0.0,UPI,Paid,184.37,5,City Ride
+TR201065,CU3427,DR775,2025-12-18,2,Hyderabad,Hitech City,South,Mini,Call Center,20.4,76,16.78,342.31,0.0,UPI,Paid,267.0,4,Airport
+TR200646,CU3033,DR751,2025-09-02,9,Delhi,Dwarka,North,Mini,App,19.3,54,13.14,253.6,0.0,Wallet,Paid,197.81,5,City Ride
+TR200273,CU3310,DR746,2025-08-10,17,Delhi,Saket,North,Auto,App,6.1,20,11.62,70.88,3.54,UPI,Paid,50.5,5,City Ride
+TR200834,CU3203,DR781,2025-05-16,16,Hyderabad,Secunderabad,South,Mini,App,7.1,22,15.46,109.77,5.49,Cash,Paid,81.34,1,Airport
+TR201027,CU3410,DR814,2025-01-03,12,Chennai,T Nagar,South,Sedan,App,14.9,49,16.54,246.45,0.0,UPI,Paid,197.16,5,City Ride
+TR200474,CU3072,DR796,2025-04-19,20,Bengaluru,Indiranagar,South,Bike,App,6.4,21,7.04,45.06,2.25,UPI,Paid,29.97,3,City Ride
+TR200933,CU3323,DR770,2025-07-25,17,Hyderabad,Kukatpally,South,Mini,App,10.8,36,16.92,182.74,18.27,Cash,Paid,128.29,4,City Ride
+TR201110,CU3140,DR803,2025-12-08,20,Bengaluru,Koramangala,South,Bike,App,5.9,23,7.19,42.42,0.0,UPI,Paid,29.69,5,City Ride
+TR200034,CU3395,DR760,2025-02-21,17,Chennai,T Nagar,South,Mini,Website,37.0,120,16.04,593.48,0.0,UPI,Pending,462.91,4,City Ride
+TR200358,CU3393,DR712,2025-09-07,13,Pune,Viman Nagar,West,Sedan,Website,8.2,25,-17.32,142.02,0.0,UPI,Paid,113.62,5,City Ride
+TR200056,CU3481,DR792,2025-10-12,17,Kolkata,Howrah,East,Sedan,App,7.9,32,19.66,155.31,0.0,UPI,Paid,124.25,5,City Ride
+TR200436,CU3189,DR754,2025-09-05,10,Hyderabad,Hitech City,South,auto,App,28.0,107,12.79,358.12,17.91,Card,Paid,255.16,4,City Ride
+TR200013,CU3509,DR799,2025-02-12,14,Chennai,Velachery,South,Sedan,App,13.8,45,16.44,226.87,0.0,UPI,Paid,181.5,2,City Ride
+TR200589,CU3141,DR792,2025-07-11,20,Bengaluru,Koramangala,South,BIKE,App,1.7,7,7.42,12.61,1.26,UPI,Paid,7.94,5,Airport
+TR201177,CU3527,DR812,2025-11-06,18,Chennai,Velachery,South,Bike,App,7.3,26,6.33,46.21,4.62,Cash,Paid,29.11,4,City Ride
+TR201148,CU3432,DR794,2025-07-01,19,Bengaluru,Whitefield,South,Sedan,App,11.3,35,18.4,207.92,0.0,Card,Paid,166.34,4,Outstation
+TR200324,CU3104,DR712,2025-08-26,17,Hyderabad,Hitech City,South,Auto,Website,10.9,40,14.63,159.47,0.0,Cash,Pending,119.6,4,City Ride
+TR200526,CU3415,DR735,2025-04-21,8,Chennai,T Nagar,South,Bike,App,7.0,21,8.59,60.13,6.01,UPI,Paid,37.88,4,City Ride
+TR200460,CU3362,DR716,2025-03-03,21,Hyderabad,Hitech City,South,Bike,App,5.6,23,6.91,38.7,0.0,Cash,Paid,27.09,5,City Ride
+TR201096,CU3145,DR704,2025-08-05,12,BENGALURU,Electronic City,South,Bike,App,28.9,84,7.83,226.29,22.63,Card,Paid,142.56,5,City Ride
+TR200221,CU3216,DR722,2025-09-18,18,hyderabad,Kukatpally,South,Auto,App,24.0,60,13.8,331.2,0.0,UPI,Pending,248.4,5,City Ride
+TR200525,CU3269,DR734,2025-07-17,11,Mumbai,Andheri,West,Auto,App,3.2,15,11.66,37.31,1.87,UPI,Paid,26.58,4,Airport
+TR200086,CU3400,DR715,2025-08-05,19,Mumbai,Powai,West,Sedan,Website,13.0,52,20.26,263.38,0.0,Card,Paid,210.7,5,City Ride
+TR200725,CU3395,DR790,2025-01-18,19,Jaipur,Malviya Nagar,North,Auto,Website,8.0,34,14.83,118.64,11.86,UPI,Paid,80.09,5,City Ride
+TR200872,CU3188,DR811,2025-10-20,9,Pune,Kothrud,West,Mini,App,22.4,63,15.74,352.58,0.0,Card,Paid,275.01,5,City Ride
+TR200136,CU3224,DR789,2025-12-22,14,Hyderabad,Secunderabad,South,Bike,Call Center,5.1,23,7.68,39.17,0.0,Wallet,Paid,27.42,2,Airport
+TR200023,CU3551,DR758,2025-01-23,14,Mumbai,Dadar,West,Bike,Call Center,4.1,17,7.69,31.53,1.58,UPI,Paid,20.96,5,City Ride
+TR200912,CU3248,DR785,2025-02-05,7,Delhi,Connaught Place,North,Bike,App,1.9,7,6.17,11.72,1.17,UPI,Paid,7.38,5,Airport
+TR200407,CU3394,DR793,2025-05-02,17,Hyderabad,Secunderabad,South,Mini,Website,17.3,48,15.08,260.88,0.0,UPI,Paid,203.49,2,Outstation
+TR200413,CU3312,DR783,2025-07-22,18,Pune,Hinjewadi,West,Auto,App,13.0,36,14.23,184.99,18.5,UPI,Paid,124.87,4,City Ride
+TR201058,CU3155,DR772,2025-08-02,20,Jaipur,C Scheme,North,Sedan,Website,22.8,90,19.26,439.13,0.0,UPI,Paid,351.3,3,City Ride
+TR201025,CU3160,DR805,2025-12-08,22,Delhi,Saket,North,Mini,App,16.2,57,14.05,227.61,11.38,UPI,Paid,168.66,4,City Ride
+TR200432,CU3506,DR816,2025-02-06,12,Hyderabad,Banjara Hills,South,Mini,App,29.5,119,-14.76,435.42,0.0,Card,Paid,339.63,5,City Ride
+TR200147,CU3147,DR813,2025-06-22,9,Hyderabad,Banjara Hills,South,Premium  ,App,16.2,55,25.78,417.64,41.76,Card,Paid,300.7,5,Airport
+TR200822,CU3039,DR703,2025-11-29,12,Hyderabad,Kukatpally,South,Mini,App,23.3,84,16.47,383.75,38.38,UPI,Paid,269.39,5,City Ride
+TR200765,CU3379,DR788,2025-11-20,11,Chennai,Adyar,South,Auto,App,14.5,58,12.19,176.75,17.68,Cash,Paid,119.3,2,City Ride
+TR200192,CU3487,DR809,2025-01-28,17,Mumbai,Powai,West,Auto,App,24.4,96,14.1,344.04,17.2,,Paid,245.13,5,City Ride
+TR200021,CU3088,DR797,2025-03-13,13,Mumbai,Bandra,West,Mini,App,25.0,83,15.07,376.75,18.84,Wallet,Paid,279.17,3,City Ride
