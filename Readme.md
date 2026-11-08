@@ -21,7 +21,6 @@ is proven correct with a **reconciliation check**, and is shown in a **3-page AI
 - [Dashboard](#-dashboard)
 - [Results](#-results)
 - [Known Limitations](#-known-limitations)
-- [Screenshots](#-screenshots)
 - [What I Learned](#-what-i-learned)
 
 ---
